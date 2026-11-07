@@ -1,0 +1,116 @@
+{
+  "date": "2026-11-04",
+  "sections": [
+    {
+      "items": [
+        {
+          "source": "Quotidiano.net",
+          "summary": "Ipotesi di emendamento per la Campania, con la Lega contraria. La maggioranza si contende le correzioni su pensioni, scuola, sanità e contributo delle banche.",
+          "title": "Manovra, FdI vuole riaprire il condono edilizio del 2003",
+          "url": "https://www.quotidiano.net/economia/manovra-rispunta-il-condono-dccdb00d"
+        },
+        {
+          "source": "Il Fatto Quotidiano",
+          "summary": "Voucher sanitario agli over 75, mini taglio Irpef e flat tax temporanei, finanziati con coperture una tantum: meno margini per il prossimo governo.",
+          "title": "Legge di bilancio, molti bonus valgono solo per il 2027",
+          "url": "https://www.ilfattoquotidiano.it/2026/11/04/legge-bilancio-2027-bonus-a-scadenza-coperture-temporanee/8559158/"
+        },
+        {
+          "source": "ANSA",
+          "summary": "Bruxelles contesta la misura voluta dal governo; il ministro Valditara risponde che l'esecutivo andrà avanti.",
+          "title": "La Ue richiama l'Italia sul tetto agli stranieri nelle classi",
+          "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/03/lue-richiama-litalia-sul-tetto-agli-stranieri-a-scuola.-valditara-andiamo_264b57eb-6c24-4ef2-a41d-dc73ebaa3c3f.html"
+        }
+      ],
+      "key": "italia",
+      "title": "Politica italiana"
+    },
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "Per la procura Sempio uccise Chiara Poggi «con crudeltà e odio». Ora la parola passa al giudice dell'udienza preliminare.",
+          "title": "Garlasco, i pm chiedono il processo per Andrea Sempio",
+          "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/03/garlasco-i-pm-andrea-sempio-a-processo-ha-ucciso-chiara-poggi-con-crudelta-e-odio_a73d09f5-8f8b-4b07-bdd1-1d957ccdd478.html"
+        },
+        {
+          "source": "ANSA",
+          "summary": "A Taranto parte la fermata degli impianti dell'area a caldo, mentre resta incerto il futuro della cordata italiana interessata all'acquisto.",
+          "title": "Ex Ilva, iniziato lo spegnimento degli altiforni",
+          "url": "https://www.ansa.it/sito/notizie/economia/2026/11/03/ex-ilva-al-via-lo-spegnimento-degli-altiforni_3cdf3537-c826-4ab8-933b-b1183f69a9d8.html"
+        },
+        {
+          "source": "ANSA",
+          "summary": "Il dato cresce rispetto all'anno scorso. Ieri altri due operai morti e due ustionati in un incidente in una raffineria.",
+          "title": "Inail: 589 morti sul lavoro nei primi nove mesi del 2026",
+          "url": "https://www.ansa.it/sito/notizie/economia/2026/11/03/inail-nei-primi-nove-mesi-salgono-a-589-i-morti-sul-lavoro_5d5f9fe9-1bfc-4fcf-90fe-f90695433fd0.html"
+        }
+      ],
+      "key": "nazionale",
+      "title": "Italia"
+    },
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "Onda blu con vittorie anche in Texas e Ohio. Trump dice di essere disposto ad accettare i risultati; lo spoglio è ancora in corso in alcuni Stati.",
+          "title": "Midterm Usa, i democratici conquistano Camera e Senato",
+          "update": true,
+          "url": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/04/midterm-i-democratici-conquistano-la-camera-e-il-senato.-trump-disposto-ad-accettare-i-risultati-del_cac22026-2d64-44b0-8b5f-ee46bcd00316.html"
+        },
+        {
+          "source": "ANSA",
+          "summary": "Dopo il raid su Qeshm e le indiscrezioni del Nyt su un nuovo attacco già oggi, Trump frena pur restando pronto all'azione. Teheran minaccia una risposta «devastante».",
+          "title": "Trump: nessun piano immediato per attaccare l'Iran",
+          "update": true,
+          "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/04/trump-nessun-piano-immediato-per-attaccare-liran_1883022c-a32c-485f-9793-233d484d2221.html"
+        },
+        {
+          "source": "ANSA",
+          "summary": "Il presidente ucraino esclude di invitare Putin a Kiev o di andare a Mosca, mentre proseguono gli attacchi russi.",
+          "title": "Zelensky: una telefonata con Putin sarebbe inutile",
+          "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/03/ucraina-zelensky-non-inviteremo-putin-a-kiev-e-non-andremo-a-mosca_ae09e59b-3488-4ef6-a7fa-ded2f972ceea.html"
+        }
+      ],
+      "key": "esteri",
+      "title": "Politica estera"
+    },
+    {
+      "items": [
+        {
+          "source": "The Neuron",
+          "summary": "OpenAI stima che le sue ricerche valgano circa il 20% dei volumi di Google: è una stima interna, non verificata in modo indipendente.",
+          "title": "ChatGPT a 1,2 miliardi di utenti settimanali",
+          "url": "https://theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-4-2026"
+        },
+        {
+          "source": "The Neuron",
+          "summary": "Con le nuove impostazioni per l'istruzione, gli istituti che disattivano gli strumenti AI perdono anche Google Search per gli account degli studenti.",
+          "title": "Google, nelle scuole niente Ricerca senza le funzioni AI",
+          "url": "https://theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-4-2026"
+        },
+        {
+          "source": "The Neuron",
+          "summary": "Nel rapporto annuale Apple scrive che gli agenti potrebbero superare i permessi o compiere azioni non autorizzate, mentre Siri agisce su più app.",
+          "title": "Apple avverte sui rischi degli agenti AI autonomi",
+          "url": "https://theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-4-2026"
+        }
+      ],
+      "key": "tech",
+      "title": "Tech e AI"
+    },
+    {
+      "items": [
+        {
+          "source": "Il Giorno",
+          "summary": "Il candidato sindaco Mario Calabresi propone di salvare il Meazza; il sindaco Sala e Ignazio La Russa lo criticano.",
+          "title": "San Siro, Sala boccia la proposta di Calabresi",
+          "url": "https://www.ilgiorno.it/milano/politica/san-siro-sala-boccia-calabresi-r79vqzd5"
+        }
+      ],
+      "key": "milano",
+      "title": "Milano"
+    }
+  ],
+  "updatedAt": "2026-11-04T07:25:00+01:00"
+}

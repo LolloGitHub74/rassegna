@@ -1,0 +1,103 @@
+{
+  "date": "2026-11-05",
+  "sections": [
+    {
+      "items": [
+        {
+          "source": "AGI",
+          "summary": "Si parla di un «tesoretto» oltre 1,5 miliardi per le modifiche; FdI frena: «risorse limitate». Emendamenti entro il 17 novembre, audizioni dal 9 al 12.",
+          "title": "Manovra, Lega e Forza Italia in pressing su Giorgetti",
+          "url": "https://www.agi.it/politica/news/2026-11-05/manovra-giorgetti-pressing-governo-39885613/"
+        },
+        {
+          "source": "il Resto del Carlino",
+          "summary": "Il presidente dell'Emilia-Romagna giudica insufficiente il fondo sanitario e «aberrante» il bonus per la sanità privata. FdI replica: «propaganda ideologica».",
+          "title": "Sanità, de Pascale: le Regioni portino la manovra alla Consulta",
+          "url": "https://www.ilrestodelcarlino.it/bologna/cronaca/manovra-la-regione-ricorrere-925ab774"
+        },
+        {
+          "source": "ANSA",
+          "summary": "Tra queste quella sui libri di testo digitali a prezzo ridotto. Meloni ha incontrato a Palazzo Chigi il presidente di Confindustria Orsini su manovra ed energia.",
+          "title": "Manovra, la commissione Bilancio chiede di stralciare tre norme",
+          "url": "https://www.ansa.it/sito/notizie/politica/2026/11/04/meloni-incontra-orsini-a-palazzo-chigi-focus-sulla-manovra_5b85877c-31e0-4b3a-a53c-052dc7d7b8da.html"
+        }
+      ],
+      "key": "italia",
+      "title": "Politica italiana"
+    },
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "Vittime tra Porto Marghera e il Leccese. Per l'Anmil i morti nel 2026 sono 701; l'Inail segnala infortuni denunciati in crescita del 5,4%.",
+          "title": "Cinque morti sul lavoro in un giorno, oltre 700 dall'inizio dell'anno",
+          "url": "https://ansa.it/sito/notizie/cronaca/2026/11/04/morire-di-lavoro-altre-4-vittime.-sono-oltre-700-nel-2026_3e1891b9-86e6-400b-9c46-e49c201d2e84.html"
+        },
+        {
+          "source": "ANSA",
+          "summary": "Nella Giornata delle Forze armate il capo dello Stato ha deposto una corona all'Altare della Patria e richiamato le sfide di disinformazione, cyber e intelligenza artificiale.",
+          "title": "4 novembre, Mattarella: «Rinnovamento contro conflitti e cyber-attacchi»",
+          "url": "https://www.ansa.it/sito/notizie/politica/2026/11/04/mattarella-serve-rinnovamento-contro-conflitti-disinformazione-e-cyber-attacchi_a94b94b9-8c0a-4afe-91a3-213f8d38ce2b.html"
+        }
+      ],
+      "key": "nazionale",
+      "title": "Italia"
+    },
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "Conteggio quasi definitivo: 54 senatori dem contro 43 repubblicani, mentre alla Camera i democratici hanno superato la maggioranza di 218 seggi.",
+          "title": "Midterm Usa, i democratici a 54 seggi al Senato",
+          "update": true,
+          "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/04/i-dem-hanno-54-seggi-al-senato-ai-repubblicani-43_ff1affc2-29d5-4991-b182-7f9344cf4e2d.html"
+        },
+        {
+          "source": "Napoli Magazine",
+          "summary": "Melania Trump riunisce funzionari dei due Paesi. Mosca conferma i colloqui trilaterali con Usa e Kiev ad Abu Dhabi il 10 e 11 novembre.",
+          "title": "Ucraina, oggi incontro russo-ucraino alla Casa Bianca",
+          "url": "https://www.napolimagazine.com/attualita/articolo/stati-uniti-melania-trump-riunir-alla-casa-bianca-funzionari-russi-e-ucraini-il-5-novembre-conferma-03-11-2026"
+        },
+        {
+          "source": "ANSA",
+          "summary": "Il negoziatore Ghalibaf legge così il voto Usa, ma avverte che se Washington ignorerà l'opinione pubblica la risposta sarà «un incubo».",
+          "title": "Iran: «Gli americani hanno detto no alla guerra»",
+          "update": true,
+          "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/04/teheran-il-messaggio-degli-americani-e-no-alla-guerra_6379416f-359f-482d-93bd-2287781e6721.html"
+        }
+      ],
+      "key": "esteri",
+      "title": "Politica estera"
+    },
+    {
+      "items": [
+        {
+          "source": "OpenAI",
+          "summary": "Exploit funzionanti per vulnerabilità di escalation dei privilegi, al costo di circa 1,2 milioni di dollari in API. Decine sono già state corrette.",
+          "title": "Agenti AI di OpenAI trovano 948 falle sfruttabili in Linux",
+          "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/"
+        },
+        {
+          "source": "The Verge",
+          "summary": "Instacart resterà un marchio separato; chiusura prevista tra fine 2027 e il 2028, salvo via libera delle autorità.",
+          "title": "DoorDash compra Instacart per circa 17 miliardi di dollari",
+          "url": "https://www.theverge.com/business/1021981/doordash-instacart-acquisition-announcement"
+        },
+        {
+          "source": "Axios",
+          "summary": "Corsa agli strumenti per lo sviluppo software con agenti AI: OpenAI punta a sfidare GitHub, Meta rileva la startup di coding multi-agente.",
+          "title": "OpenAI acquisisce Pierre, Meta compra Conductor",
+          "url": "https://www.axios.com/2026/11/04/openai-pierre-computer-github"
+        }
+      ],
+      "key": "tech",
+      "title": "Tech e AI"
+    },
+    {
+      "items": [],
+      "key": "milano",
+      "title": "Milano"
+    }
+  ],
+  "updatedAt": "2026-11-05T07:14:00+01:00"
+}

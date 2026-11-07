@@ -1,0 +1,105 @@
+{
+  "date": "2026-11-07",
+  "sections": [
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "Pd, M5S e Iv chiedono di ritirare la scelta del leghista Nuccio Altieri alla guida dell'Autorità anticorruzione. La premier difende la nomina.",
+          "title": "Anac, opposizioni contro la nomina di Altieri. Meloni: «Nostra competenza»",
+          "url": "https://www.ansa.it/sito/notizie/politica/2026/11/06/opposizioni-allattacco-su-altieri-allanac-meloni-era-nelle-nostre-competenze_213db7a9-2dd1-48af-8305-c65f12fa1116.html"
+        },
+        {
+          "source": "Sky TG24",
+          "summary": "Da lunedì le audizioni in commissione Bilancio, Giorgetti il 12. Scuola in piazza l'11, Cgil il 20; le Regioni chiedono 6,5 miliardi per la sanità.",
+          "title": "Manovra, sindacati convocati a Palazzo Chigi il 13 novembre",
+          "url": "https://tg24.sky.it/politica/2026/11/06/manovra-2027-sindacati-ultime-notizie"
+        },
+        {
+          "source": "LaPresse",
+          "summary": "Il presidente del Consiglio europeo porterà la proposta al vertice informale di Dublino; Meloni punta a una decisione al Consiglio Ue di dicembre.",
+          "title": "Ucraina, Meloni incassa l'apertura di Costa sul negoziatore Ue",
+          "update": true,
+          "url": "https://www.lapresse.it/politica/2026/11/06/ucraina-meloni-incassa-lapertura-di-costa-a-dublino-discuteremo-il-negoziatore-ue/"
+        }
+      ],
+      "key": "italia",
+      "title": "Politica italiana"
+    },
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "Un Ryanair da Roma atterrato a Lisbona e un Wizz Air Praga-Roma dirottato su Venezia: controlli negativi. La Procura nazionale antiterrorismo apre un'indagine.",
+          "title": "Nuovi allarmi bomba su due voli italiani, indaga l'Antiterrorismo",
+          "update": true,
+          "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/nuovi-allarmi-bomba-coinvolti-due-voli-in-italia_dd90ffe8-5ab8-4f0f-aff2-2360d4d5ca72.html"
+        },
+        {
+          "source": "LaPresse",
+          "summary": "Completato lo spegnimento dopo circa 60 anni; l'azienda chiede la cassa integrazione per circa 8.600 lavoratori e la vendita resta in bilico.",
+          "title": "Ex Ilva, spenti tutti gli impianti dell'area a caldo di Taranto",
+          "update": true,
+          "url": "https://www.lapresse.it/cronaca/2026/11/06/ex-ilva-a-taranto-spenti-tutti-gli-impianti-dellarea-a-caldo/"
+        }
+      ],
+      "key": "nazionale",
+      "title": "Italia"
+    },
+    {
+      "items": [
+        {
+          "source": "Sky TG24",
+          "summary": "Evacuate redazioni a Dublino; allarmi anche su voli in Francia, Praga e Copenaghen. Il premier irlandese: le minacce «sembrano coordinate».",
+          "title": "Irlanda, minacce bomba a giornali e tv alla vigilia del vertice Ue",
+          "url": "https://tg24.sky.it/mondo/2026/11/06/allarmi-bomba-oggi-diretta"
+        },
+        {
+          "source": "Sky TG24",
+          "summary": "Oggi le elezioni: l'ultimo sondaggio dà il National Party al 30% e il Labour al 29%, con i Verdi al 16%.",
+          "title": "Nuova Zelanda al voto, testa a testa tra Luxon e Hipkins",
+          "url": "https://tg24.sky.it/mondo/2026/11/06/elezioni-nuova-zelanda-2026-candidati"
+        }
+      ],
+      "key": "esteri",
+      "title": "Politica estera"
+    },
+    {
+      "items": [
+        {
+          "source": "The Neuron",
+          "summary": "Secondo la valutazione indipendente l'accelerazione viene soprattutto dall'AI che assiste i ricercatori; gran parte del rapporto è stata oscurata da Anthropic.",
+          "title": "METR: i progressi AI di Anthropic viaggiano a ritmo doppio",
+          "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-november-6-2026/"
+        },
+        {
+          "source": "The Neuron",
+          "summary": "Pensato per ricercatori autorizzati che cercano vulnerabilità; OpenAI classifica le sue capacità di cybersicurezza come «critiche».",
+          "title": "OpenAI lancia GPT-6 Cyber, modello ad accesso ristretto",
+          "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-november-6-2026/"
+        },
+        {
+          "source": "The Neuron",
+          "summary": "Indagherà sugli usi illeciti dell'AI avanzata, con focus su governi stranieri, criminalità organizzata e frodi.",
+          "title": "Il Dipartimento di Giustizia Usa crea una task force sulla superintelligenza",
+          "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-november-6-2026/"
+        }
+      ],
+      "key": "tech",
+      "title": "Tech e AI"
+    },
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "Inizia l'udienza sulla morte del 19enne dopo l'inseguimento dei carabinieri; in aula i familiari della vittima.",
+          "title": "Caso Ramy, al via l'udienza preliminare",
+          "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/caso-ramy-al-via-ludienza-preliminare-i-familiari-della-vittima-in-aula_c833b7dd-318c-4dcf-b55f-3629bfbbafd8.html"
+        }
+      ],
+      "key": "milano",
+      "title": "Milano"
+    }
+  ],
+  "updatedAt": "2026-11-07T07:25:00+01:00"
+}

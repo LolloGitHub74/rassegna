@@ -1,0 +1,120 @@
+{
+  "date": "2026-11-03",
+  "sections": [
+    {
+      "items": [
+        {
+          "source": "Sarno Notizie",
+          "summary": "Bertolaso definisce «insostenibili» i fondi per la sanità; i sindacati della scuola contestano quasi 7mila posti in meno e la Flc Cgil sciopera il 20 novembre.",
+          "title": "Manovra, Regioni e sindacati all'attacco su sanità e scuola",
+          "url": "https://www.sarnonotizie.it/notizie-oggi-3-novembre-2026/"
+        },
+        {
+          "source": "Sky TG24",
+          "summary": "Hacker hanno colpito i sistemi di refrigerazione di supermercati in vari Paesi europei, Italia compresa. Il governo ha convocato una riunione d'emergenza.",
+          "title": "Cyberattacchi ai supermercati, vertice d'urgenza a Palazzo Chigi",
+          "url": "https://tg24.sky.it/cronaca/2026/11/03/prime-pagine-quotidiani-oggi-3-novembre"
+        },
+        {
+          "source": "Sky TG24",
+          "summary": "La vicesegretaria Silvia Sardone rilancia la richiesta sulle pensioni. Il M5S attacca: «Il governo colpisce chi dà filo da torcere».",
+          "title": "Pensioni, la Lega punta a Quota 64 nella manovra",
+          "url": "https://tg24.sky.it/"
+        }
+      ],
+      "key": "italia",
+      "title": "Politica italiana"
+    },
+    {
+      "items": [
+        {
+          "source": "Il Fatto Quotidiano",
+          "summary": "Esequie solenni a Santa Maria degli Angeli per i militari morti nello schianto dell'elicottero Ch-47. Lutto cittadino a Salerno per il sergente Simone Ruggia.",
+          "title": "Funerali di Stato a Roma per i quattro militari morti in Bosnia",
+          "url": "https://www.ilfattoquotidiano.it/in-edicola/articoli/2026/11/03/roma-oggi-i-funerali-di-stato-per-i-4-militari/8558470/"
+        },
+        {
+          "source": "Adnkronos",
+          "summary": "Le associazioni dei consumatori parlano di «record storico, mai così alto».",
+          "title": "Gas, a ottobre la bolletta sale del 9,1%",
+          "url": "https://www.adnkronos.com/internazionale/esteri/elezioni-midterm-usa-2026-nes-risultati-diretta-3-novembre_5Fyg5SkHnBV8fSNgvQejr4"
+        },
+        {
+          "source": "Il Fatto Quotidiano",
+          "summary": "Grandi quantità di piombo trovate nell'area dei lavori per il treno a Trento.",
+          "title": "Trento, tonnellate di piombo nel cantiere ferroviario",
+          "url": "https://www.ilfattoquotidiano.it/in-edicola/articoli/2026/11/03/una-bomba-a-trento-tonnellate-di-piombo-nel-cantiere-del-treno/8558485/"
+        }
+      ],
+      "key": "nazionale",
+      "title": "Italia"
+    },
+    {
+      "items": [
+        {
+          "source": "Adnkronos",
+          "summary": "In palio tutti i 435 seggi della Camera, 35 seggi del Senato e 36 governatori. I primi seggi chiudono a mezzanotte, ora italiana.",
+          "title": "Midterm Usa, oltre 230 milioni di elettori alle urne",
+          "url": "https://www.adnkronos.com/internazionale/esteri/elezioni-midterm-usa-2026-nes-risultati-diretta-3-novembre_5Fyg5SkHnBV8fSNgvQejr4"
+        },
+        {
+          "source": "Il Fatto Quotidiano",
+          "summary": "Trump: «Facciano un accordo o sarà guerra». Teheran risponde che sta agli Usa scegliere la pace e non accetterà «richieste eccessive».",
+          "title": "Raid Usa sull'isola iraniana di Qeshm",
+          "url": "https://www.ilfattoquotidiano.it/2026/11/03/raid-usa-iran-qeshm-trump-notizie/8558924/"
+        },
+        {
+          "source": "Quotidiano.net",
+          "summary": "Il presidente dice di aver concordato con Netanyahu lo stop ai 4 miliardi annui: Israele potrà comunque comprare armi americane.",
+          "title": "Trump: stop agli aiuti militari a Israele da fine anno",
+          "url": "https://www.quotidiano.net/esteri/trump-da-fine-anno-stop-aiuti-militari-a-israele-non-hanno-bisogno-di-4-miliardi-accordo-con-netanyahu-tsfqhjuv"
+        }
+      ],
+      "key": "esteri",
+      "title": "Politica estera"
+    },
+    {
+      "items": [
+        {
+          "source": "Smartphonology",
+          "summary": "Ricavi del terzo trimestre a circa 17 miliardi di dollari. L'azienda avverte che potrebbe presto raggiungere la soglia di progresso «drasticamente accelerato» dall'AI.",
+          "title": "Anthropic aggiorna il prospetto per l'IPO",
+          "url": "https://www.smartphonology.it/tech-news-del-3-novembre-2026"
+        },
+        {
+          "source": "Deep Gains",
+          "summary": "Operazione interamente in azioni per puntare sulla connettività ottica nei data center AI, oggi uno dei colli di bottiglia del settore.",
+          "title": "Marvell compra Lumentum per 115 miliardi di dollari",
+          "url": "https://deepgains.substack.com/p/morning-brief-tuesday-november-3-c44"
+        },
+        {
+          "source": "CNBC",
+          "summary": "Metà in nuove azioni e metà in obbligazioni. Il titolo perde quasi il 9% mentre il Nasdaq 100 entra in correzione.",
+          "title": "Oracle raccoglie 20 miliardi per i data center AI",
+          "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html"
+        }
+      ],
+      "key": "tech",
+      "title": "Tech e AI"
+    },
+    {
+      "items": [
+        {
+          "source": "Adnkronos via Il Fatto Quotidiano",
+          "summary": "765 espositori e 2.142 marchi da 52 Paesi su 300mila metri quadrati. Il salone delle due ruote resta aperto fino a domenica 8 novembre.",
+          "title": "Aperta a Rho l'83ª edizione di Eicma",
+          "url": "https://www.ilfattoquotidiano.it/politica-palazzo/"
+        },
+        {
+          "source": "MilanoToday",
+          "summary": "Bus, metro e tram a rischio venerdì 13 novembre: conviene controllare le fasce di garanzia sul sito Atm nei prossimi giorni.",
+          "title": "Sciopero Atm il 13 novembre",
+          "url": "https://www.milanotoday.it/notizie/tutte/"
+        }
+      ],
+      "key": "milano",
+      "title": "Milano"
+    }
+  ],
+  "updatedAt": "2026-11-03T16:50:00+01:00"
+}
