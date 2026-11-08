@@ -1,0 +1,115 @@
+{
+  "date": "2026-11-08",
+  "sections": [
+    {
+      "items": [
+        {
+          "source": "Sky TG24",
+          "summary": "Dopo le proteste delle opposizioni il leghista ritira la disponibilità alla presidenza dell'Autorità anticorruzione; il governo cerca un nuovo nome.",
+          "title": "Anac, Altieri si ritira. Salvini: «Altro nome lunedì in Cdm»",
+          "update": true,
+          "url": "https://tg24.sky.it/politica/2026/11/07/anac-altieri"
+        },
+        {
+          "source": "ANSA",
+          "summary": "Prima riunione da remoto del campo largo: dieci tavoli tematici dovranno chiudere entro fine novembre le basi di un progetto di governo.",
+          "title": "Centrosinistra, al via il cantiere del programma comune",
+          "url": "https://www.ansa.it/sito/notizie/politica/2026/11/07/parte-il-cantiere-del-programma-progressista-un-mese-per-chiudere_d0a97c66-1eec-40ec-b8ab-b92f19c5bbd3.html"
+        },
+        {
+          "source": "LaPresse",
+          "summary": "Il sindaco ufficializza la corsa per un secondo mandato alle comunali del 2027 e chiede il sostegno anche di M5S e Azione.",
+          "title": "Roma, Gualtieri si ricandida: «Obiettivo vincere al primo turno»",
+          "url": "https://www.lapresse.it/video/2026/11/07/roma-gualtieri-ufficializza-la-ricandidatura-obiettivo-vincere-al-primo-turno/"
+        }
+      ],
+      "key": "italia",
+      "title": "Politica italiana"
+    },
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "Il gruppo NoName057(16) diffonde una «taglia» sui dati di 18 persone; da anni prende di mira istituzioni italiane come la Farnesina.",
+          "title": "Hacker filorussi, taglia sui dati di Tajani e del procuratore Lo Voi",
+          "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/cyberattacchi-tajani-e-le-istituzioni-italiane-da-anni-nel-mirino-dei-noname05716-i-precedenti_d0be33a5-2a42-4536-a9d9-bda74f8def9a.html"
+        },
+        {
+          "source": "ANSA",
+          "summary": "Violati i sistemi di Bbt Se: gli inquirenti sospettano il gruppo filorusso Everest. Secondo la società nessun rischio per le attività operative.",
+          "title": "Brennero, cyberattacco alla società della galleria di base",
+          "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/cyberattacco-alla-societa-della-galleria-del-brennero-indagini-2_2aadec95-cb99-4b42-ab10-403a58e60b15.html"
+        },
+        {
+          "source": "Sky TG24",
+          "summary": "Manifestazioni in varie città contro il carovita: circa 3.000 persone a Torino con agricoltori e studenti, partecipazione bassa altrove e nessuno scontro.",
+          "title": "Caro vita, cortei in tutta Italia: a Torino la piazza più piena",
+          "url": "https://tg24.sky.it/cronaca/video/2026/11/07/manifestazioni-italia-sabato-7-novembre-1138285"
+        }
+      ],
+      "key": "nazionale",
+      "title": "Italia"
+    },
+    {
+      "items": [
+        {
+          "source": "Sky TG24",
+          "summary": "Strage in piazza del Mercato, 15 feriti e altri tre corpi in casa dell'aggressore, arrestato. Illesi 34 studenti di un liceo di Albano Laziale.",
+          "title": "Cracovia, uomo spara sulla folla: sei morti, salvi gli studenti italiani",
+          "url": "https://tg24.sky.it/mondo/2026/11/07/sparatoria-cracovia-polonia"
+        },
+        {
+          "source": "ANSA",
+          "summary": "Il mandato all'ex capo di stato maggiore arriva oggi pomeriggio; Netanyahu chiede intanto un governo di «unità nazionale».",
+          "title": "Israele, Herzog affida a Eisenkot l'incarico di formare il governo",
+          "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/07/herzog-affida-a-eisenkot-lincarico-di-formare-il-governo-in-israele_a23fdf32-f6f2-45a5-ac13-96235962585a.html"
+        },
+        {
+          "source": "Sky TG24",
+          "summary": "Il presidente chiede al Dipartimento di Giustizia di indagare su presunte minacce dei democratici; Miller sostituisce Wiles come capo dello staff.",
+          "title": "Usa, dopo le midterm Trump ordina indagini sui democratici",
+          "url": "https://tg24.sky.it/mondo/2026/11/07/trump-midterm-indagine-democratici"
+        }
+      ],
+      "key": "esteri",
+      "title": "Politica estera"
+    },
+    {
+      "items": [
+        {
+          "source": "Investing.com",
+          "summary": "Prima tranche di un round ridotto da 30 a 20 miliardi di dollari dopo il calo dei titoli legati all'AI; slitta la quotazione in Borsa.",
+          "title": "OpenAI raccoglie 11 miliardi, valutazione scesa a 1.250 miliardi",
+          "url": "https://it.investing.com/news/stock-market-news/openai-chiude-un-round-da-11-miliardi-di-dollari-con-valutazione-di-1250-miliardi-3636317"
+        },
+        {
+          "source": "Yahoo Finance",
+          "summary": "Dopo il crollo dei titoli AI tre grandi investitori dicono al Wsj che l'obiettivo di 1.500 miliardi va ridotto; si valuta anche un rinvio.",
+          "title": "Anthropic, gli investitori chiedono di abbassare la valutazione per l'Ipo",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/big-investors-now-doubt-anthropic-133505249.html"
+        },
+        {
+          "source": "The Next Web",
+          "summary": "Secondo Reuters Pechino non autorizza le importazioni su larga scala e spinge Alibaba, ByteDance e Tencent verso chip cinesi.",
+          "title": "Nvidia, 600mila chip H200 bloccati a Hong Kong",
+          "url": "https://thenextweb.com/news/nvidia-h200-chips-hong-kong-china-import-approval"
+        }
+      ],
+      "key": "tech",
+      "title": "Tech e AI"
+    },
+    {
+      "items": [
+        {
+          "source": "MilanoToday",
+          "summary": "Manifestazione partita dalla fermata M3 Affori Centro fino a piazzale Maciachini; modifiche ai percorsi di alcune linee, tra cui il tram 4.",
+          "title": "Corteo per la Palestina tra Affori e Maciachini, deviati i tram",
+          "url": "https://www.milanotoday.it/cronaca/corteo-palestina-7-novembre-2026.html"
+        }
+      ],
+      "key": "milano",
+      "title": "Milano"
+    }
+  ],
+  "updatedAt": "2026-11-08T13:14:14+01:00"
+}
