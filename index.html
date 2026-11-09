@@ -137,7 +137,7 @@ footer{max-width:720px;margin:0 auto;padding:0 16px 30px;color:var(--muted);font
   }
   function card(it,extra){
     return '<article class="item"><h3><a href="'+esc(safeUrl(it.url))+'" target="_blank" rel="noopener">'+esc(it.title)+'</a></h3>'+
-      '<p>'+esc(it.summary)+'</p><div class="meta">'+(extra||'')+(it.update?'<span class="upd" title="Sviluppo di una storia già presente nell'edizione precedente">Sviluppo</span>':'')+
+      '<p>'+esc(it.summary)+'</p><div class="meta">'+(extra||'')+(it.update?'<span class="upd" title="Sviluppo di una storia già presente nell&#39;edizione precedente">Sviluppo</span>':'')+
       '<span>'+esc(it.source)+'</span></div>'+(it.thread?threadChip(it.thread):'')+'</article>';
   }
   function renderEdition(doc){
