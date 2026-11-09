@@ -1,0 +1,64 @@
+{
+  "created": "2026-11-09",
+  "id": "midterm-usa-2026",
+  "items": [
+    {
+      "added": "2026-11-09",
+      "date": "2026-11-03",
+      "section": "Politica estera",
+      "source": "Adnkronos",
+      "summary": "In palio tutti i 435 seggi della Camera, 35 seggi del Senato e 36 governatori. I primi seggi chiudono a mezzanotte, ora italiana.",
+      "title": "Midterm Usa, oltre 230 milioni di elettori alle urne",
+      "url": "https://www.adnkronos.com/internazionale/esteri/elezioni-midterm-usa-2026-nes-risultati-diretta-3-novembre_5Fyg5SkHnBV8fSNgvQejr4"
+    },
+    {
+      "added": "2026-11-09",
+      "date": "2026-11-04",
+      "section": "Politica estera",
+      "source": "ANSA",
+      "summary": "Onda blu con vittorie anche in Texas e Ohio. Trump dice di essere disposto ad accettare i risultati; lo spoglio è ancora in corso in alcuni Stati.",
+      "title": "Midterm Usa, i democratici conquistano Camera e Senato",
+      "url": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/04/midterm-i-democratici-conquistano-la-camera-e-il-senato.-trump-disposto-ad-accettare-i-risultati-del_cac22026-2d64-44b0-8b5f-ee46bcd00316.html"
+    },
+    {
+      "added": "2026-11-09",
+      "date": "2026-11-05",
+      "section": "Politica estera",
+      "source": "ANSA",
+      "summary": "Conteggio quasi definitivo: 54 senatori dem contro 43 repubblicani, mentre alla Camera i democratici hanno superato la maggioranza di 218 seggi.",
+      "title": "Midterm Usa, i democratici a 54 seggi al Senato",
+      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/04/i-dem-hanno-54-seggi-al-senato-ai-repubblicani-43_ff1affc2-29d5-4991-b182-7f9344cf4e2d.html"
+    },
+    {
+      "added": "2026-11-09",
+      "date": "2026-11-08",
+      "section": "Politica estera",
+      "source": "Sky TG24",
+      "summary": "Il presidente chiede al Dipartimento di Giustizia di indagare su presunte minacce dei democratici; Miller sostituisce Wiles come capo dello staff.",
+      "title": "Usa, dopo le midterm Trump ordina indagini sui democratici",
+      "url": "https://tg24.sky.it/mondo/2026/11/07/trump-midterm-indagine-democratici"
+    },
+    {
+      "added": "2026-11-09",
+      "date": "2026-11-09",
+      "section": "Politica estera",
+      "source": "ANSA",
+      "summary": "Dopo la sconfitta alle midterm il nuovo capo dello staff segna la svolta alla Casa Bianca; il vicepresidente vede a rischio le ambizioni per il 2028.",
+      "title": "Usa, Trump lancia «l'era Miller», ma Vance trema e i finanziatori fuggono",
+      "url": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/08/trump-lancia-lera-miller-ma-vance-trema-finanziatori-in-fuga_185e5971-a7a8-47f4-b15a-df683dc8bdc1.html"
+    }
+  ],
+  "related": [
+    {
+      "id": "crisi-iran-usa",
+      "title": "Crisi tra Iran e Stati Uniti"
+    },
+    {
+      "id": "bolla-ai",
+      "title": "AI e Borsa, il crollo dei titoli"
+    }
+  ],
+  "status": "aperto",
+  "summary": "Il 3 novembre i democratici hanno conquistato Camera e Senato nelle elezioni di metà mandato. Trump ha prima detto di accettare il risultato, poi ha ordinato indagini sui democratici e cambiato capo dello staff. La sconfitta pesa anche sui mercati e sulla politica estera.",
+  "title": "Usa, le elezioni di metà mandato"
+}

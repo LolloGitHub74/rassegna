@@ -1,0 +1,46 @@
+{
+  "created": "2026-11-09",
+  "id": "bolla-ai",
+  "items": [
+    {
+      "added": "2026-11-09",
+      "date": "2026-11-03",
+      "section": "Tech e AI",
+      "source": "CNBC",
+      "summary": "Metà in nuove azioni e metà in obbligazioni. Il titolo perde quasi il 9% mentre il Nasdaq 100 entra in correzione.",
+      "title": "Oracle raccoglie 20 miliardi per i data center AI",
+      "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html"
+    },
+    {
+      "added": "2026-11-09",
+      "date": "2026-11-06",
+      "section": "Tech e AI",
+      "source": "ANSA",
+      "summary": "Dopo il calo di Wall Street pesa il timore che l'esito delle elezioni Usa rallenti gli investimenti nei data center per l'intelligenza artificiale.",
+      "title": "Tokyo crolla in apertura, Nikkei -5,1% sui timori per l'AI",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/06/borsa-tokyo-crolla-in-apertura-nikkei-51_e7ff7704-62a6-4166-aa2f-f36a2acf4c5d.html"
+    },
+    {
+      "added": "2026-11-09",
+      "date": "2026-11-08",
+      "section": "Tech e AI",
+      "source": "Investing.com",
+      "summary": "Prima tranche di un round ridotto da 30 a 20 miliardi di dollari dopo il calo dei titoli legati all'AI; slitta la quotazione in Borsa.",
+      "title": "OpenAI raccoglie 11 miliardi, valutazione scesa a 1.250 miliardi",
+      "url": "https://it.investing.com/news/stock-market-news/openai-chiude-un-round-da-11-miliardi-di-dollari-con-valutazione-di-1250-miliardi-3636317"
+    }
+  ],
+  "related": [
+    {
+      "id": "quotazione-anthropic",
+      "title": "La quotazione in Borsa di Anthropic"
+    },
+    {
+      "id": "midterm-usa-2026",
+      "title": "Usa, le elezioni di metà mandato"
+    }
+  ],
+  "status": "aperto",
+  "summary": "I titoli legati all'intelligenza artificiale sono crollati in tutto il mondo dopo le elezioni Usa, per il timore che rallentino gli investimenti nei data center. Le conseguenze arrivano alle aziende: OpenAI ha ridotto il suo round di finanziamento e la valutazione.",
+  "title": "AI e Borsa, il crollo dei titoli"
+}

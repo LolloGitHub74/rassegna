@@ -16,14 +16,53 @@ prevalgono sulle abitudini precedenti.
 - Mai inventare URL, titoli, fatti o citazioni. Meglio una sezione con meno notizie
   che una notizia non verificata.
 
-## Filoni (in progetto)
+## Filoni
 
-- Ogni vicenda che dura più di un giorno diventa un filone, con una linea del tempo.
-- I collegamenti tra notizie e filoni sono creati in automatico.
-- Ogni filone o collegamento nuovo nasce «da verificare» e diventa «confermato»
-  dopo 3 giorni senza segnalazioni (il proprietario controlla ogni due giorni).
-- Una correzione del proprietario si applica dall'edizione successiva,
-  anche a collegamenti già confermati.
+Ogni vicenda che dura più di un giorno diventa un filone, con una pagina che
+mostra «La storia finora» e la linea del tempo di tutte le notizie collegate.
+
+### Dove stanno i dati
+
+- `data/threads.json`: elenco dei filoni. Per ognuno, in ordine alfabetico:
+  `created` (data di creazione), `id` (minuscole e trattini, es. `ex-ilva`),
+  `related` (id di filoni collegati), `status` (`aperto` o `chiuso`),
+  `summary` («La storia finora»), `title`.
+- Nelle edizioni, una notizia collegata ha il campo
+  `"thread": {"added": "AAAA-MM-GG", "id": "..."}`, dove `added` è il giorno in cui
+  è stato creato il collegamento. Chiavi della notizia in ordine alfabetico:
+  source, summary, thread, title, update, url.
+- `data/threads/`: file generati da `python3 -I tools/build_threads.py`.
+  Non vanno modificati a mano.
+
+### Ogni edizione
+
+1. Leggi `data/threads.json` per conoscere i filoni aperti.
+2. Collega ogni notizia che continua un filone aperto (`added` = OGGI).
+3. Se una notizia apre una storia che continuerà, o si lega a notizie delle
+   edizioni passate, crea un nuovo filone. Puoi collegare anche le notizie passate
+   pertinenti aggiungendo solo il campo `thread`, senza toccare altro.
+4. Niente filone per le notizie isolate: un filone ha senso con almeno due puntate
+   o con uno sviluppo atteso a breve.
+5. Aggiorna «La storia finora» quando c'è uno sviluppo importante: 2-4 frasi,
+   solo fatti presenti nelle notizie collegate.
+6. `related` solo quando il legame è chiaro (causa, effetto, stessa vicenda più ampia).
+7. Metti `status: chiuso` quando la vicenda è conclusa o dopo 21 giorni senza notizie.
+8. Esegui `python3 -I tools/build_threads.py`: deve stampare `OK`.
+
+### Revisione del proprietario
+
+- Il sito mostra «da verificare» per 3 giorni dalla data `added` del collegamento
+  o `created` del filone (il proprietario controlla ogni due giorni).
+- Se il proprietario segnala un errore: correggi o rimuovi il collegamento dalla
+  prossima edizione, anche se già confermato. Se il collegamento viene spostato su un
+  altro filone, `added` diventa la data della correzione.
+- Ogni correzione va annotata nel registro in fondo a questo file, con la regola
+  che ne deriva.
+
+### File che la redazione può modificare
+
+`data/` (edizioni, `index.json`, `threads.json`, `threads/`) e il registro delle
+correzioni in questo file. Nient'altro senza il permesso del proprietario.
 
 ## Chi ne parla (in progetto)
 

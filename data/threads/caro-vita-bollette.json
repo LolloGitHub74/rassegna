@@ -1,0 +1,42 @@
+{
+  "created": "2026-11-09",
+  "id": "caro-vita-bollette",
+  "items": [
+    {
+      "added": "2026-11-09",
+      "date": "2026-11-03",
+      "section": "Italia",
+      "source": "Adnkronos",
+      "summary": "Le associazioni dei consumatori parlano di «record storico, mai così alto».",
+      "title": "Gas, a ottobre la bolletta sale del 9,1%",
+      "url": "https://www.adnkronos.com/internazionale/esteri/elezioni-midterm-usa-2026-nes-risultati-diretta-3-novembre_5Fyg5SkHnBV8fSNgvQejr4"
+    },
+    {
+      "added": "2026-11-09",
+      "date": "2026-11-06",
+      "section": "Italia",
+      "source": "Today",
+      "summary": "Il provvedimento con il tetto al prezzo del gas per il 2027 non è ancora arrivato in Cdm: gli sconti per famiglie e imprese restano senza una data certa.",
+      "title": "Slitta ancora il decreto Bollette",
+      "url": "https://www.today.it/economia/sconti-bollette-prezzo-gas.html"
+    },
+    {
+      "added": "2026-11-09",
+      "date": "2026-11-08",
+      "section": "Italia",
+      "source": "Sky TG24",
+      "summary": "Manifestazioni in varie città contro il carovita: circa 3.000 persone a Torino con agricoltori e studenti, partecipazione bassa altrove e nessuno scontro.",
+      "title": "Caro vita, cortei in tutta Italia: a Torino la piazza più piena",
+      "url": "https://tg24.sky.it/cronaca/video/2026/11/07/manifestazioni-italia-sabato-7-novembre-1138285"
+    }
+  ],
+  "related": [
+    {
+      "id": "manovra-2027",
+      "title": "Manovra 2027"
+    }
+  ],
+  "status": "aperto",
+  "summary": "A ottobre la bolletta del gas è salita del 9,1%, un record secondo i consumatori, e il decreto con il tetto al prezzo del gas continua a slittare. Contro il carovita ci sono stati cortei in varie città.",
+  "title": "Caro vita e bollette"
+}

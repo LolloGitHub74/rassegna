@@ -1,0 +1,60 @@
+{
+  "created": "2026-11-09",
+  "id": "crisi-iran-usa",
+  "items": [
+    {
+      "added": "2026-11-09",
+      "date": "2026-11-03",
+      "section": "Politica estera",
+      "source": "Il Fatto Quotidiano",
+      "summary": "Trump: «Facciano un accordo o sarà guerra». Teheran risponde che sta agli Usa scegliere la pace e non accetterà «richieste eccessive».",
+      "title": "Raid Usa sull'isola iraniana di Qeshm",
+      "url": "https://www.ilfattoquotidiano.it/2026/11/03/raid-usa-iran-qeshm-trump-notizie/8558924/"
+    },
+    {
+      "added": "2026-11-09",
+      "date": "2026-11-04",
+      "section": "Politica estera",
+      "source": "ANSA",
+      "summary": "Dopo il raid su Qeshm e le indiscrezioni del Nyt su un nuovo attacco già oggi, Trump frena pur restando pronto all'azione. Teheran minaccia una risposta «devastante».",
+      "title": "Trump: nessun piano immediato per attaccare l'Iran",
+      "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/04/trump-nessun-piano-immediato-per-attaccare-liran_1883022c-a32c-485f-9793-233d484d2221.html"
+    },
+    {
+      "added": "2026-11-09",
+      "date": "2026-11-05",
+      "section": "Politica estera",
+      "source": "ANSA",
+      "summary": "Il negoziatore Ghalibaf legge così il voto Usa, ma avverte che se Washington ignorerà l'opinione pubblica la risposta sarà «un incubo».",
+      "title": "Iran: «Gli americani hanno detto no alla guerra»",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/04/teheran-il-messaggio-degli-americani-e-no-alla-guerra_6379416f-359f-482d-93bd-2287781e6721.html"
+    },
+    {
+      "added": "2026-11-09",
+      "date": "2026-11-06",
+      "section": "Politica estera",
+      "source": "ANSA",
+      "summary": "Il presidente annuncia una decisione a breve sull'intesa con Teheran: «Preferirei non farlo, se possibile. Lo saprete presto».",
+      "title": "Iran, Trump: «O certifico l'accordo o li distruggo»",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/05/trump-insiste-o-certifico-laccordo-con-liran-o-li-distruggo_e529db6a-39d7-4945-ad0f-2e0b85f99004.html"
+    },
+    {
+      "added": "2026-11-09",
+      "date": "2026-11-09",
+      "section": "Politica estera",
+      "source": "Fox News",
+      "summary": "Il presidente Usa apre a evitare la ripresa della guerra se Teheran firmerà un'intesa sul nucleare e riaprirà lo Stretto; l'Iran nega concessioni.",
+      "title": "Iran, Trump: nuovi attacchi «molto improbabili» con l'accordo su Hormuz",
+      "url": "https://www.foxnews.com/live-news/iran-war-news-trump-saudi-houthi-november-8"
+    }
+  ],
+  "related": [
+    {
+      "id": "midterm-usa-2026",
+      "title": "Usa, le elezioni di metà mandato"
+    }
+  ],
+  "status": "aperto",
+  "summary": "Dopo i raid Usa sull'isola iraniana di Qeshm, Trump alterna minacce («o certifico l'accordo o li distruggo») e aperture. Teheran legge il voto americano come un no alla guerra. Al centro della trattativa ci sono il nucleare e la riapertura dello Stretto di Hormuz.",
+  "title": "Crisi tra Iran e Stati Uniti"
+}

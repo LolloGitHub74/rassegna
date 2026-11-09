@@ -6,12 +6,20 @@
         {
           "source": "ANSA",
           "summary": "Entra nel vivo l'esame della legge di bilancio a Montecitorio: c'è tempo fino al 17 novembre per presentare gli emendamenti.",
+          "thread": {
+            "added": "2026-11-09",
+            "id": "manovra-2027"
+          },
           "title": "Manovra alla Camera, il governo punta solo a piccole modifiche",
           "url": "https://www.ansa.it/sito/notizie/economia/2026/11/08/manovra-alla-camera-il-governo-vuole-solo-piccole-modifiche_7d9c1a4f-8dc8-4127-9d48-8261a159eb29.html"
         },
         {
           "source": "ANSA",
           "summary": "La segretaria del Pd rilancia l'unità del centrosinistra mentre parte il lavoro sul programma comune, pur ammettendo differenze interne.",
+          "thread": {
+            "added": "2026-11-09",
+            "id": "centrosinistra-alleanza"
+          },
           "title": "Opposizioni, Schlein: «Non faremo più il favore alle destre di dividerci»",
           "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/08/schlein-non-faremo-piu-il-favore-alle-destre-di-dividerci_47eb7620-fb1e-4a5a-abe9-ba52554397b8.html"
         }
@@ -24,6 +32,10 @@
         {
           "source": "ANSA",
           "summary": "Martedì 10 novembre riunione del Comitato nazionale per l'ordine e la sicurezza pubblica dedicata alla minaccia cyber, dopo i casi Tajani e Brennero.",
+          "thread": {
+            "added": "2026-11-09",
+            "id": "attacchi-informatici-italia"
+          },
           "title": "Attacchi informatici, Piantedosi convoca il Comitato per la sicurezza",
           "update": true,
           "url": "https://ansa.it/sito/notizie/cronaca/2026/11/08/attacchi-informatici-piantedosi-convoca-comitato-sicurezza-pubblica_2ff3c55f-8d26-4dfe-830b-5bc7344a1033.html"
@@ -31,6 +43,10 @@
         {
           "source": "Sky TG24",
           "summary": "Chiusa la gara per le offerte vincolanti con gli altoforni spenti: il fondo Usa si sfila in attesa della premier, in campo resterebbe l'indiana Jindal.",
+          "thread": {
+            "added": "2026-11-09",
+            "id": "ex-ilva"
+          },
           "title": "Ex Ilva, scadute le offerte. Flacks: «Proposta solo dopo incontro con Meloni»",
           "url": "https://tg24.sky.it/cronaca/2026/11/08/ex-ilva-offerte-flacks"
         },
@@ -49,6 +65,10 @@
         {
           "source": "ANSA",
           "summary": "Dopo la sconfitta alle midterm il nuovo capo dello staff segna la svolta alla Casa Bianca; il vicepresidente vede a rischio le ambizioni per il 2028.",
+          "thread": {
+            "added": "2026-11-09",
+            "id": "midterm-usa-2026"
+          },
           "title": "Usa, Trump lancia «l'era Miller», ma Vance trema e i finanziatori fuggono",
           "update": true,
           "url": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/08/trump-lancia-lera-miller-ma-vance-trema-finanziatori-in-fuga_185e5971-a7a8-47f4-b15a-df683dc8bdc1.html"
@@ -62,6 +82,10 @@
         {
           "source": "Fox News",
           "summary": "Il presidente Usa apre a evitare la ripresa della guerra se Teheran firmerà un'intesa sul nucleare e riaprirà lo Stretto; l'Iran nega concessioni.",
+          "thread": {
+            "added": "2026-11-09",
+            "id": "crisi-iran-usa"
+          },
           "title": "Iran, Trump: nuovi attacchi «molto improbabili» con l'accordo su Hormuz",
           "url": "https://www.foxnews.com/live-news/iran-war-news-trump-saudi-houthi-november-8"
         }
@@ -92,6 +116,10 @@
         {
           "source": "Il Giorno",
           "summary": "I lavoratori chiedono 150 euro netti in più al mese, turni più sostenibili, più sicurezza a bordo e nessuna privatizzazione; fasce di garanzia da definire.",
+          "thread": {
+            "added": "2026-11-09",
+            "id": "sciopero-atm"
+          },
           "title": "Atm, sciopero di 24 ore venerdì 13 novembre: a rischio metro, bus e tram",
           "url": "https://www.ilgiorno.it/milano/cronaca/sciopero-atm-13-novembre-v3hvn4fu"
         }

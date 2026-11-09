@@ -1,0 +1,51 @@
+{
+  "created": "2026-11-09",
+  "id": "attacchi-informatici-italia",
+  "items": [
+    {
+      "added": "2026-11-09",
+      "date": "2026-11-03",
+      "section": "Politica italiana",
+      "source": "Sky TG24",
+      "summary": "Hacker hanno colpito i sistemi di refrigerazione di supermercati in vari Paesi europei, Italia compresa. Il governo ha convocato una riunione d'emergenza.",
+      "title": "Cyberattacchi ai supermercati, vertice d'urgenza a Palazzo Chigi",
+      "url": "https://tg24.sky.it/cronaca/2026/11/03/prime-pagine-quotidiani-oggi-3-novembre"
+    },
+    {
+      "added": "2026-11-09",
+      "date": "2026-11-08",
+      "section": "Italia",
+      "source": "ANSA",
+      "summary": "Il gruppo NoName057(16) diffonde una «taglia» sui dati di 18 persone; da anni prende di mira istituzioni italiane come la Farnesina.",
+      "title": "Hacker filorussi, taglia sui dati di Tajani e del procuratore Lo Voi",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/cyberattacchi-tajani-e-le-istituzioni-italiane-da-anni-nel-mirino-dei-noname05716-i-precedenti_d0be33a5-2a42-4536-a9d9-bda74f8def9a.html"
+    },
+    {
+      "added": "2026-11-09",
+      "date": "2026-11-08",
+      "section": "Italia",
+      "source": "ANSA",
+      "summary": "Violati i sistemi di Bbt Se: gli inquirenti sospettano il gruppo filorusso Everest. Secondo la società nessun rischio per le attività operative.",
+      "title": "Brennero, cyberattacco alla società della galleria di base",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/cyberattacco-alla-societa-della-galleria-del-brennero-indagini-2_2aadec95-cb99-4b42-ab10-403a58e60b15.html"
+    },
+    {
+      "added": "2026-11-09",
+      "date": "2026-11-09",
+      "section": "Italia",
+      "source": "ANSA",
+      "summary": "Martedì 10 novembre riunione del Comitato nazionale per l'ordine e la sicurezza pubblica dedicata alla minaccia cyber, dopo i casi Tajani e Brennero.",
+      "title": "Attacchi informatici, Piantedosi convoca il Comitato per la sicurezza",
+      "url": "https://ansa.it/sito/notizie/cronaca/2026/11/08/attacchi-informatici-piantedosi-convoca-comitato-sicurezza-pubblica_2ff3c55f-8d26-4dfe-830b-5bc7344a1033.html"
+    }
+  ],
+  "related": [
+    {
+      "id": "allarmi-bomba-europa",
+      "title": "Falsi allarmi bomba in Europa"
+    }
+  ],
+  "status": "aperto",
+  "summary": "Da inizio novembre una serie di attacchi informatici colpisce l'Italia: prima i sistemi di refrigerazione dei supermercati, poi la società della galleria del Brennero e una «taglia» filorussa sui dati del ministro Tajani. Il Viminale ha convocato il Comitato per la sicurezza pubblica sulla minaccia cyber.",
+  "title": "Attacchi informatici all'Italia"
+}

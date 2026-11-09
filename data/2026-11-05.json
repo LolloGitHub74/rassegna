@@ -6,18 +6,30 @@
         {
           "source": "AGI",
           "summary": "Si parla di un «tesoretto» oltre 1,5 miliardi per le modifiche; FdI frena: «risorse limitate». Emendamenti entro il 17 novembre, audizioni dal 9 al 12.",
+          "thread": {
+            "added": "2026-11-09",
+            "id": "manovra-2027"
+          },
           "title": "Manovra, Lega e Forza Italia in pressing su Giorgetti",
           "url": "https://www.agi.it/politica/news/2026-11-05/manovra-giorgetti-pressing-governo-39885613/"
         },
         {
           "source": "il Resto del Carlino",
           "summary": "Il presidente dell'Emilia-Romagna giudica insufficiente il fondo sanitario e «aberrante» il bonus per la sanità privata. FdI replica: «propaganda ideologica».",
+          "thread": {
+            "added": "2026-11-09",
+            "id": "manovra-2027"
+          },
           "title": "Sanità, de Pascale: le Regioni portino la manovra alla Consulta",
           "url": "https://www.ilrestodelcarlino.it/bologna/cronaca/manovra-la-regione-ricorrere-925ab774"
         },
         {
           "source": "ANSA",
           "summary": "Tra queste quella sui libri di testo digitali a prezzo ridotto. Meloni ha incontrato a Palazzo Chigi il presidente di Confindustria Orsini su manovra ed energia.",
+          "thread": {
+            "added": "2026-11-09",
+            "id": "manovra-2027"
+          },
           "title": "Manovra, la commissione Bilancio chiede di stralciare tre norme",
           "url": "https://www.ansa.it/sito/notizie/politica/2026/11/04/meloni-incontra-orsini-a-palazzo-chigi-focus-sulla-manovra_5b85877c-31e0-4b3a-a53c-052dc7d7b8da.html"
         }
@@ -30,6 +42,10 @@
         {
           "source": "ANSA",
           "summary": "Vittime tra Porto Marghera e il Leccese. Per l'Anmil i morti nel 2026 sono 701; l'Inail segnala infortuni denunciati in crescita del 5,4%.",
+          "thread": {
+            "added": "2026-11-09",
+            "id": "morti-sul-lavoro"
+          },
           "title": "Cinque morti sul lavoro in un giorno, oltre 700 dall'inizio dell'anno",
           "url": "https://ansa.it/sito/notizie/cronaca/2026/11/04/morire-di-lavoro-altre-4-vittime.-sono-oltre-700-nel-2026_3e1891b9-86e6-400b-9c46-e49c201d2e84.html"
         },
@@ -48,6 +64,10 @@
         {
           "source": "ANSA",
           "summary": "Conteggio quasi definitivo: 54 senatori dem contro 43 repubblicani, mentre alla Camera i democratici hanno superato la maggioranza di 218 seggi.",
+          "thread": {
+            "added": "2026-11-09",
+            "id": "midterm-usa-2026"
+          },
           "title": "Midterm Usa, i democratici a 54 seggi al Senato",
           "update": true,
           "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/04/i-dem-hanno-54-seggi-al-senato-ai-repubblicani-43_ff1affc2-29d5-4991-b182-7f9344cf4e2d.html"
@@ -55,12 +75,20 @@
         {
           "source": "Napoli Magazine",
           "summary": "Melania Trump riunisce funzionari dei due Paesi. Mosca conferma i colloqui trilaterali con Usa e Kiev ad Abu Dhabi il 10 e 11 novembre.",
+          "thread": {
+            "added": "2026-11-09",
+            "id": "negoziati-ucraina"
+          },
           "title": "Ucraina, oggi incontro russo-ucraino alla Casa Bianca",
           "url": "https://www.napolimagazine.com/attualita/articolo/stati-uniti-melania-trump-riunir-alla-casa-bianca-funzionari-russi-e-ucraini-il-5-novembre-conferma-03-11-2026"
         },
         {
           "source": "ANSA",
           "summary": "Il negoziatore Ghalibaf legge così il voto Usa, ma avverte che se Washington ignorerà l'opinione pubblica la risposta sarà «un incubo».",
+          "thread": {
+            "added": "2026-11-09",
+            "id": "crisi-iran-usa"
+          },
           "title": "Iran: «Gli americani hanno detto no alla guerra»",
           "update": true,
           "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/04/teheran-il-messaggio-degli-americani-e-no-alla-guerra_6379416f-359f-482d-93bd-2287781e6721.html"

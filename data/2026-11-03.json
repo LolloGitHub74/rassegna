@@ -6,18 +6,30 @@
         {
           "source": "Sarno Notizie",
           "summary": "Bertolaso definisce «insostenibili» i fondi per la sanità; i sindacati della scuola contestano quasi 7mila posti in meno e la Flc Cgil sciopera il 20 novembre.",
+          "thread": {
+            "added": "2026-11-09",
+            "id": "manovra-2027"
+          },
           "title": "Manovra, Regioni e sindacati all'attacco su sanità e scuola",
           "url": "https://www.sarnonotizie.it/notizie-oggi-3-novembre-2026/"
         },
         {
           "source": "Sky TG24",
           "summary": "Hacker hanno colpito i sistemi di refrigerazione di supermercati in vari Paesi europei, Italia compresa. Il governo ha convocato una riunione d'emergenza.",
+          "thread": {
+            "added": "2026-11-09",
+            "id": "attacchi-informatici-italia"
+          },
           "title": "Cyberattacchi ai supermercati, vertice d'urgenza a Palazzo Chigi",
           "url": "https://tg24.sky.it/cronaca/2026/11/03/prime-pagine-quotidiani-oggi-3-novembre"
         },
         {
           "source": "Sky TG24",
           "summary": "La vicesegretaria Silvia Sardone rilancia la richiesta sulle pensioni. Il M5S attacca: «Il governo colpisce chi dà filo da torcere».",
+          "thread": {
+            "added": "2026-11-09",
+            "id": "manovra-2027"
+          },
           "title": "Pensioni, la Lega punta a Quota 64 nella manovra",
           "url": "https://tg24.sky.it/"
         }
@@ -36,6 +48,10 @@
         {
           "source": "Adnkronos",
           "summary": "Le associazioni dei consumatori parlano di «record storico, mai così alto».",
+          "thread": {
+            "added": "2026-11-09",
+            "id": "caro-vita-bollette"
+          },
           "title": "Gas, a ottobre la bolletta sale del 9,1%",
           "url": "https://www.adnkronos.com/internazionale/esteri/elezioni-midterm-usa-2026-nes-risultati-diretta-3-novembre_5Fyg5SkHnBV8fSNgvQejr4"
         },
@@ -54,12 +70,20 @@
         {
           "source": "Adnkronos",
           "summary": "In palio tutti i 435 seggi della Camera, 35 seggi del Senato e 36 governatori. I primi seggi chiudono a mezzanotte, ora italiana.",
+          "thread": {
+            "added": "2026-11-09",
+            "id": "midterm-usa-2026"
+          },
           "title": "Midterm Usa, oltre 230 milioni di elettori alle urne",
           "url": "https://www.adnkronos.com/internazionale/esteri/elezioni-midterm-usa-2026-nes-risultati-diretta-3-novembre_5Fyg5SkHnBV8fSNgvQejr4"
         },
         {
           "source": "Il Fatto Quotidiano",
           "summary": "Trump: «Facciano un accordo o sarà guerra». Teheran risponde che sta agli Usa scegliere la pace e non accetterà «richieste eccessive».",
+          "thread": {
+            "added": "2026-11-09",
+            "id": "crisi-iran-usa"
+          },
           "title": "Raid Usa sull'isola iraniana di Qeshm",
           "url": "https://www.ilfattoquotidiano.it/2026/11/03/raid-usa-iran-qeshm-trump-notizie/8558924/"
         },
@@ -78,6 +102,10 @@
         {
           "source": "Smartphonology",
           "summary": "Ricavi del terzo trimestre a circa 17 miliardi di dollari. L'azienda avverte che potrebbe presto raggiungere la soglia di progresso «drasticamente accelerato» dall'AI.",
+          "thread": {
+            "added": "2026-11-09",
+            "id": "quotazione-anthropic"
+          },
           "title": "Anthropic aggiorna il prospetto per l'IPO",
           "url": "https://www.smartphonology.it/tech-news-del-3-novembre-2026"
         },
@@ -90,6 +118,10 @@
         {
           "source": "CNBC",
           "summary": "Metà in nuove azioni e metà in obbligazioni. Il titolo perde quasi il 9% mentre il Nasdaq 100 entra in correzione.",
+          "thread": {
+            "added": "2026-11-09",
+            "id": "bolla-ai"
+          },
           "title": "Oracle raccoglie 20 miliardi per i data center AI",
           "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html"
         }
@@ -102,6 +134,10 @@
         {
           "source": "Adnkronos via Il Fatto Quotidiano",
           "summary": "765 espositori e 2.142 marchi da 52 Paesi su 300mila metri quadrati. Il salone delle due ruote resta aperto fino a domenica 8 novembre.",
+          "thread": {
+            "added": "2026-11-09",
+            "id": "sciopero-atm"
+          },
           "title": "Aperta a Rho l'83ª edizione di Eicma",
           "url": "https://www.ilfattoquotidiano.it/politica-palazzo/"
         },

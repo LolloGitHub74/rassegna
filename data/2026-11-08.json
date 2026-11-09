@@ -6,6 +6,10 @@
         {
           "source": "Sky TG24",
           "summary": "Dopo le proteste delle opposizioni il leghista ritira la disponibilità alla presidenza dell'Autorità anticorruzione; il governo cerca un nuovo nome.",
+          "thread": {
+            "added": "2026-11-09",
+            "id": "nomina-anac"
+          },
           "title": "Anac, Altieri si ritira. Salvini: «Altro nome lunedì in Cdm»",
           "update": true,
           "url": "https://tg24.sky.it/politica/2026/11/07/anac-altieri"
@@ -13,6 +17,10 @@
         {
           "source": "ANSA",
           "summary": "Prima riunione da remoto del campo largo: dieci tavoli tematici dovranno chiudere entro fine novembre le basi di un progetto di governo.",
+          "thread": {
+            "added": "2026-11-09",
+            "id": "centrosinistra-alleanza"
+          },
           "title": "Centrosinistra, al via il cantiere del programma comune",
           "url": "https://www.ansa.it/sito/notizie/politica/2026/11/07/parte-il-cantiere-del-programma-progressista-un-mese-per-chiudere_d0a97c66-1eec-40ec-b8ab-b92f19c5bbd3.html"
         },
@@ -31,18 +39,30 @@
         {
           "source": "ANSA",
           "summary": "Il gruppo NoName057(16) diffonde una «taglia» sui dati di 18 persone; da anni prende di mira istituzioni italiane come la Farnesina.",
+          "thread": {
+            "added": "2026-11-09",
+            "id": "attacchi-informatici-italia"
+          },
           "title": "Hacker filorussi, taglia sui dati di Tajani e del procuratore Lo Voi",
           "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/cyberattacchi-tajani-e-le-istituzioni-italiane-da-anni-nel-mirino-dei-noname05716-i-precedenti_d0be33a5-2a42-4536-a9d9-bda74f8def9a.html"
         },
         {
           "source": "ANSA",
           "summary": "Violati i sistemi di Bbt Se: gli inquirenti sospettano il gruppo filorusso Everest. Secondo la società nessun rischio per le attività operative.",
+          "thread": {
+            "added": "2026-11-09",
+            "id": "attacchi-informatici-italia"
+          },
           "title": "Brennero, cyberattacco alla società della galleria di base",
           "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/cyberattacco-alla-societa-della-galleria-del-brennero-indagini-2_2aadec95-cb99-4b42-ab10-403a58e60b15.html"
         },
         {
           "source": "Sky TG24",
           "summary": "Manifestazioni in varie città contro il carovita: circa 3.000 persone a Torino con agricoltori e studenti, partecipazione bassa altrove e nessuno scontro.",
+          "thread": {
+            "added": "2026-11-09",
+            "id": "caro-vita-bollette"
+          },
           "title": "Caro vita, cortei in tutta Italia: a Torino la piazza più piena",
           "url": "https://tg24.sky.it/cronaca/video/2026/11/07/manifestazioni-italia-sabato-7-novembre-1138285"
         }
@@ -67,6 +87,10 @@
         {
           "source": "Sky TG24",
           "summary": "Il presidente chiede al Dipartimento di Giustizia di indagare su presunte minacce dei democratici; Miller sostituisce Wiles come capo dello staff.",
+          "thread": {
+            "added": "2026-11-09",
+            "id": "midterm-usa-2026"
+          },
           "title": "Usa, dopo le midterm Trump ordina indagini sui democratici",
           "url": "https://tg24.sky.it/mondo/2026/11/07/trump-midterm-indagine-democratici"
         }
@@ -79,12 +103,20 @@
         {
           "source": "Investing.com",
           "summary": "Prima tranche di un round ridotto da 30 a 20 miliardi di dollari dopo il calo dei titoli legati all'AI; slitta la quotazione in Borsa.",
+          "thread": {
+            "added": "2026-11-09",
+            "id": "bolla-ai"
+          },
           "title": "OpenAI raccoglie 11 miliardi, valutazione scesa a 1.250 miliardi",
           "url": "https://it.investing.com/news/stock-market-news/openai-chiude-un-round-da-11-miliardi-di-dollari-con-valutazione-di-1250-miliardi-3636317"
         },
         {
           "source": "Yahoo Finance",
           "summary": "Dopo il crollo dei titoli AI tre grandi investitori dicono al Wsj che l'obiettivo di 1.500 miliardi va ridotto; si valuta anche un rinvio.",
+          "thread": {
+            "added": "2026-11-09",
+            "id": "quotazione-anthropic"
+          },
           "title": "Anthropic, gli investitori chiedono di abbassare la valutazione per l'Ipo",
           "url": "https://finance.yahoo.com/markets/stocks/articles/big-investors-now-doubt-anthropic-133505249.html"
         },

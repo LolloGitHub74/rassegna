@@ -1,0 +1,33 @@
+{
+  "created": "2026-11-09",
+  "id": "quotazione-anthropic",
+  "items": [
+    {
+      "added": "2026-11-09",
+      "date": "2026-11-03",
+      "section": "Tech e AI",
+      "source": "Smartphonology",
+      "summary": "Ricavi del terzo trimestre a circa 17 miliardi di dollari. L'azienda avverte che potrebbe presto raggiungere la soglia di progresso «drasticamente accelerato» dall'AI.",
+      "title": "Anthropic aggiorna il prospetto per l'IPO",
+      "url": "https://www.smartphonology.it/tech-news-del-3-novembre-2026"
+    },
+    {
+      "added": "2026-11-09",
+      "date": "2026-11-08",
+      "section": "Tech e AI",
+      "source": "Yahoo Finance",
+      "summary": "Dopo il crollo dei titoli AI tre grandi investitori dicono al Wsj che l'obiettivo di 1.500 miliardi va ridotto; si valuta anche un rinvio.",
+      "title": "Anthropic, gli investitori chiedono di abbassare la valutazione per l'Ipo",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/big-investors-now-doubt-anthropic-133505249.html"
+    }
+  ],
+  "related": [
+    {
+      "id": "bolla-ai",
+      "title": "AI e Borsa, il crollo dei titoli"
+    }
+  ],
+  "status": "aperto",
+  "summary": "Anthropic prepara lo sbarco in Borsa e ha aggiornato il prospetto con ricavi trimestrali di circa 17 miliardi di dollari. Dopo il crollo dei titoli AI, i grandi investitori chiedono di abbassare la valutazione di 1.500 miliardi e non si esclude un rinvio.",
+  "title": "La quotazione in Borsa di Anthropic"
+}

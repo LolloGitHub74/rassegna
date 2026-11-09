@@ -31,37 +31,69 @@ header{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1px so
   padding:12px 16px 10px;padding-top:calc(12px + env(safe-area-inset-top))}
 .top{display:flex;align-items:center;justify-content:space-between;gap:8px;max-width:720px;margin:0 auto}
 h1{font-family:Georgia,"Times New Roman",serif;font-size:26px;margin:0;letter-spacing:-.3px}
+h1 a{color:inherit;text-decoration:none}
 h1 span{color:var(--accent)}
 .nav{display:flex;align-items:center;gap:6px}
 .nav button{appearance:none;border:1px solid var(--line);background:var(--card);color:var(--ink);
   width:38px;height:38px;border-radius:10px;font-size:18px;cursor:pointer}
 .nav button:disabled{opacity:.35;cursor:default}
+.navtxt{border:1px solid var(--line);background:var(--card);color:var(--ink);height:38px;border-radius:10px;
+  padding:0 12px;font-size:14px;text-decoration:none;display:inline-flex;align-items:center}
 .date{max-width:720px;margin:4px auto 0;color:var(--muted);font-size:14px}
 .tabs{display:flex;gap:6px;overflow-x:auto;max-width:720px;margin:10px auto 0;scrollbar-width:none}
 .tabs::-webkit-scrollbar{display:none}
 .tabs a{flex:none;text-decoration:none;font-size:13px;padding:5px 11px;border-radius:999px;
   background:var(--chip);color:var(--chip-ink);white-space:nowrap}
+.hidden{display:none!important}
 main{max-width:720px;margin:0 auto;padding:8px 16px 40px}
 section{scroll-margin-top:150px}
 h2{font-size:13px;text-transform:uppercase;letter-spacing:.08em;color:var(--accent);
   margin:26px 0 10px;padding-bottom:6px;border-bottom:2px solid var(--accent)}
-.item{display:block;text-decoration:none;color:inherit;background:var(--card);border:1px solid var(--line);
+.item{position:relative;display:block;background:var(--card);border:1px solid var(--line);
   border-radius:12px;padding:13px 14px;margin:0 0 10px}
 .item:active{transform:scale(.99)}
 .item h3{font-family:Georgia,"Times New Roman",serif;font-size:18px;line-height:1.3;margin:0 0 6px}
+.item h3 a{color:inherit;text-decoration:none}
+.item h3 a::after{content:"";position:absolute;inset:0;border-radius:12px;z-index:1}
 .item p{margin:0 0 8px;color:var(--ink);opacity:.88;font-size:15px}
-.meta{display:flex;gap:8px;align-items:center;font-size:12.5px;color:var(--muted)}
+.meta{display:flex;flex-wrap:wrap;gap:8px;align-items:center;font-size:12.5px;color:var(--muted)}
 .upd{background:var(--upd-bg);color:var(--upd);font-weight:600;border-radius:6px;padding:1px 7px;font-size:11.5px}
+.thr{position:relative;z-index:2;display:inline-block;line-height:1.7;margin-top:9px;
+  font-size:12.5px;text-decoration:none;color:var(--chip-ink);background:var(--chip);border-radius:8px;padding:4px 9px}
+.thr b{font-weight:600}
+.thr .pend{margin-left:4px}
+.pend{font-size:11px;font-weight:600;color:var(--muted);border:1px dashed var(--muted);border-radius:6px;padding:0 6px;white-space:nowrap}
 .empty{color:var(--muted);font-style:italic;padding:4px 2px 8px}
 .state{color:var(--muted);text-align:center;padding:60px 0}
+.crumb{margin:14px 0 4px;font-size:14px;color:var(--muted)}
+.crumb a{color:var(--chip-ink);text-decoration:none}
+.thtitle{font-family:Georgia,"Times New Roman",serif;font-size:26px;line-height:1.2;margin:6px 0;color:var(--ink);
+  text-transform:none;letter-spacing:-.2px;border:0;padding:0}
+.thmeta{color:var(--muted);font-size:13.5px;margin:0 0 12px;display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+.story{background:var(--card);border:1px solid var(--line);border-left:4px solid var(--accent);border-radius:12px;padding:12px 14px}
+.story h4{margin:0 0 6px;font-size:12px;text-transform:uppercase;letter-spacing:.08em;color:var(--accent)}
+.story p{margin:0;font-size:15.5px}
+.tl{list-style:none;margin:0;padding:0 0 0 16px;border-left:2px solid var(--line)}
+.tl li{position:relative}
+.tldate{position:relative;font-size:12.5px;color:var(--muted);margin:12px 0 6px;font-weight:600}
+.tldate::before{content:"";position:absolute;left:-23px;top:5px;width:10px;height:10px;border-radius:50%;
+  background:var(--bg);border:2px solid var(--accent)}
+.rel{display:flex;flex-wrap:wrap;gap:8px}
+.rel a{font-size:13.5px;padding:6px 11px;border-radius:999px;background:var(--chip);color:var(--chip-ink);text-decoration:none}
+.trow{display:block;text-decoration:none;color:inherit;background:var(--card);border:1px solid var(--line);
+  border-radius:12px;padding:11px 14px;margin:0 0 8px}
+.trow b{font-family:Georgia,"Times New Roman",serif;font-size:17px;font-weight:600;display:block;margin-bottom:3px}
+.trow span{font-size:13px;color:var(--muted)}
+.intro{color:var(--muted);font-size:14.5px;margin:4px 0 0}
 footer{max-width:720px;margin:0 auto;padding:0 16px 30px;color:var(--muted);font-size:12px}
 </style>
 </head>
 <body>
 <header>
   <div class="top">
-    <h1>Rassegna<span>.</span></h1>
+    <h1><a href="#/">Rassegna<span>.</span></a></h1>
     <div class="nav">
+      <a class="navtxt" id="tolist" href="#/filoni">Filoni</a>
       <button id="prev" aria-label="Edizione precedente">‹</button>
       <button id="next" aria-label="Edizione successiva">›</button>
     </div>
@@ -73,50 +105,131 @@ footer{max-width:720px;margin:0 auto;padding:0 16px 30px;color:var(--muted);font
 <footer id="foot"></footer>
 <script>
 (function(){
-  var dates=[], idx=0;
+  var dates=[], idx=0, current=null, threads={}, PENDING_DAYS=3;
   var $=function(id){return document.getElementById(id)};
   function esc(s){return String(s==null?'':s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]})}
   function safeUrl(u){return /^https:\/\//i.test(u||'')?u:'#'}
+  function safeId(id){return /^[a-z0-9-]+$/.test(id||'')?id:''}
+  function toUTC(d){var p=String(d).split('-');return Date.UTC(+p[0],+p[1]-1,+p[2],12)}
   function fmtDate(d){
-    try{var p=d.split('-');var dt=new Date(Date.UTC(+p[0],+p[1]-1,+p[2],12));
-      var s=dt.toLocaleDateString('it-IT',{weekday:'long',day:'numeric',month:'long',year:'numeric',timeZone:'Europe/Rome'});
+    try{var s=new Date(toUTC(d)).toLocaleDateString('it-IT',{weekday:'long',day:'numeric',month:'long',year:'numeric',timeZone:'Europe/Rome'});
       return s.charAt(0).toUpperCase()+s.slice(1);}catch(e){return d}
   }
+  function fmtShort(d){try{return new Date(toUTC(d)).toLocaleDateString('it-IT',{day:'numeric',month:'short',timeZone:'Europe/Rome'})}catch(e){return d}}
   function fmtTime(iso){try{return new Date(iso).toLocaleTimeString('it-IT',{hour:'2-digit',minute:'2-digit',timeZone:'Europe/Rome'})}catch(e){return ''}}
+  function today(){try{return new Intl.DateTimeFormat('en-CA',{timeZone:'Europe/Rome'}).format(new Date())}catch(e){return new Date().toISOString().slice(0,10)}}
+  // Un collegamento resta "da verificare" per PENDING_DAYS giorni dalla sua creazione.
+  function pending(added){return !!added && (toUTC(today())-toUTC(added))/864e5 < PENDING_DAYS}
+  function pendTag(){return '<span class="pend" title="Collegamento creato in automatico, in attesa di controllo">da verificare</span>'}
+  function puntate(n){return n+(n===1?' puntata':' puntate')}
   function getJSON(u){return fetch(u,{cache:'no-cache'}).then(function(r){if(!r.ok)throw new Error(r.status);return r.json()})}
-  function render(doc){
+  function state(msg){$('main').innerHTML='<div class="state">'+esc(msg)+'</div>'}
+  function setMode(mode){
+    var ed=mode==='edition';
+    ['prev','next','tabs','date'].forEach(function(id){$(id).classList.toggle('hidden',!ed)});
+    $('tolist').classList.toggle('hidden',mode==='list');
+    if(!ed)$('foot').textContent='';
+  }
+  function threadChip(th){
+    var id=safeId(th&&th.id), t=threads[id]; if(!id)return '';
+    return '<a class="thr" href="#/filone/'+id+'">Filone: <b>'+esc(t?t.title:id)+'</b>'+
+      (t?' · '+puntate(t.count):'')+(pending(th.added)?pendTag():'')+'</a>';
+  }
+  function card(it,extra){
+    return '<article class="item"><h3><a href="'+esc(safeUrl(it.url))+'" target="_blank" rel="noopener">'+esc(it.title)+'</a></h3>'+
+      '<p>'+esc(it.summary)+'</p><div class="meta">'+(extra||'')+(it.update?'<span class="upd">Aggiornamento</span>':'')+
+      '<span>'+esc(it.source)+'</span></div>'+(it.thread?threadChip(it.thread):'')+'</article>';
+  }
+  function renderEdition(doc){
+    setMode('edition'); document.title='Rassegna';
     $('date').textContent=fmtDate(doc.date);
-    var secs=doc.sections||[], html='', tabs='';
-    secs.forEach(function(s){
-      tabs+='<a href="#s-'+esc(s.key)+'">'+esc(s.title)+'</a>';
+    var html='', tabs='';
+    (doc.sections||[]).forEach(function(s){
+      tabs+='<a href="#s-'+esc(s.key)+'" data-sec="'+esc(s.key)+'">'+esc(s.title)+'</a>';
       html+='<section id="s-'+esc(s.key)+'"><h2>'+esc(s.title)+'</h2>';
       var items=s.items||[];
       if(!items.length) html+='<div class="empty">Nessuna novità rilevante oggi.</div>';
-      items.forEach(function(it){
-        html+='<a class="item" href="'+esc(safeUrl(it.url))+'" target="_blank" rel="noopener">'+
-          '<h3>'+esc(it.title)+'</h3><p>'+esc(it.summary)+'</p>'+
-          '<div class="meta">'+(it.update?'<span class="upd">Aggiornamento</span>':'')+'<span>'+esc(it.source)+'</span></div></a>';
-      });
+      items.forEach(function(it){html+=card(it)});
       html+='</section>';
     });
     $('tabs').innerHTML=tabs; $('main').innerHTML=html;
     $('foot').textContent=doc.updatedAt?('Aggiornata alle '+fmtTime(doc.updatedAt)):'';
     $('prev').disabled=idx>=dates.length-1; $('next').disabled=idx<=0;
-    window.scrollTo(0,0);
   }
-  function load(i){
-    idx=i; $('main').innerHTML='<div class="state">Caricamento…</div>';
-    getJSON('data/'+dates[i]+'.json').then(render).catch(function(){
-      $('main').innerHTML='<div class="state">Edizione non disponibile offline.</div>';
+  function renderThread(t){
+    setMode('thread'); document.title=t.title+' · Rassegna';
+    var items=t.items||[];
+    var html='<div class="crumb"><a href="#/">‹ Rassegna</a> · <a href="#/filoni">Tutti i filoni</a></div>'+
+      '<h2 class="thtitle">'+esc(t.title)+'</h2><div class="thmeta"><span>'+(t.status==='chiuso'?'Concluso':'In corso')+
+      ' · '+puntate(items.length)+(items.length?' · dal '+esc(fmtShort(items[0].date))+' al '+esc(fmtShort(items[items.length-1].date)):'')+
+      '</span>'+(pending(t.created)?pendTag():'')+'</div>'+
+      '<div class="story"><h4>La storia finora</h4><p>'+esc(t.summary)+'</p></div><h2>Linea del tempo</h2>';
+    if(!items.length) html+='<div class="empty">Ancora nessuna notizia collegata.</div>';
+    else{
+      html+='<ol class="tl">'; var last='';
+      var tNew=pending(t.created);
+      items.forEach(function(it){
+        html+='<li>'+(it.date!==last?'<div class="tldate">'+esc(fmtDate(it.date))+'</div>':'')+
+          card({title:it.title,summary:it.summary,source:it.source,url:it.url},
+            (!tNew&&pending(it.added)?pendTag():'')+'<span>'+esc(it.section)+' ·</span>')+'</li>';
+        last=it.date;
+      });
+      html+='</ol>';
+    }
+    if((t.related||[]).length){
+      html+='<h2>Filoni collegati</h2><div class="rel">';
+      t.related.forEach(function(r){var id=safeId(r.id);if(id)html+='<a href="#/filone/'+id+'">'+esc(r.title)+'</a>'});
+      html+='</div>';
+    }
+    $('main').innerHTML=html;
+  }
+  function renderList(){
+    setMode('list'); document.title='Filoni · Rassegna';
+    var all=Object.keys(threads).map(function(k){return threads[k]});
+    var html='<div class="crumb"><a href="#/">‹ Rassegna</a></div><h2 class="thtitle">Filoni</h2>'+
+      '<p class="intro">Le storie che durano più di un giorno, con tutte le puntate in ordine: per capire come si è arrivati a oggi.</p>';
+    [['aperto','In corso'],['chiuso','Conclusi']].forEach(function(g){
+      var list=all.filter(function(t){return t.status===g[0]});
+      if(!list.length)return;
+      html+='<h2>'+g[1]+'</h2>';
+      list.forEach(function(t){
+        html+='<a class="trow" href="#/filone/'+safeId(t.id)+'"><b>'+esc(t.title)+'</b><span>'+puntate(t.count)+
+          (t.first?' · dal '+esc(fmtShort(t.first))+' al '+esc(fmtShort(t.last)):'')+'</span> '+(pending(t.created)?pendTag():'')+'</a>';
+      });
     });
+    if(!all.length) html+='<div class="empty">Nessun filone ancora.</div>';
+    $('main').innerHTML=html;
   }
-  $('prev').onclick=function(){if(idx<dates.length-1)load(idx+1)};
-  $('next').onclick=function(){if(idx>0)load(idx-1)};
+  function isRoute(){return /^#\/(filone\/|filoni$)/.test(location.hash)}
+  function loadEdition(i){
+    idx=i; state('Caricamento…');
+    getJSON('data/'+dates[i]+'.json').then(function(doc){if(i!==idx)return;current=doc;if(!isRoute()){renderEdition(doc);window.scrollTo(0,0)}})
+      .catch(function(){if(i===idx&&!isRoute())state('Edizione non disponibile offline.')});
+  }
+  function route(){
+    var m=(location.hash||'').match(/^#\/filone\/([a-z0-9-]+)$/);
+    if(m){state('Caricamento…');var h=location.hash;getJSON('data/threads/'+m[1]+'.json').then(function(t){if(location.hash!==h)return;renderThread(t);window.scrollTo(0,0)})
+      .catch(function(){if(location.hash===h)state('Filone non trovato o non disponibile offline.')});return}
+    if(location.hash==='#/filoni'){renderList();window.scrollTo(0,0);return}
+    if(current)renderEdition(current);else if(dates.length)loadEdition(idx);
+  }
+  $('prev').onclick=function(){if(idx<dates.length-1)loadEdition(idx+1)};
+  $('next').onclick=function(){if(idx>0)loadEdition(idx-1)};
+  $('tabs').addEventListener('click',function(e){
+    var a=e.target.closest('a[data-sec]');if(!a)return;e.preventDefault();
+    var el=document.getElementById('s-'+a.getAttribute('data-sec'));if(el)el.scrollIntoView({behavior:'smooth'});
+  });
+  window.addEventListener('hashchange',route);
+  var threadsReady=getJSON('data/threads/index.json')
+    .then(function(d){(d.threads||[]).forEach(function(t){threads[t.id]=t})}).catch(function(){});
   getJSON('data/index.json').then(function(d){
     dates=(d.dates||[]).slice().sort().reverse();
-    if(!dates.length){$('main').innerHTML='<div class="state">Nessuna edizione ancora.</div>';return}
-    load(0);
-  }).catch(function(){$('main').innerHTML='<div class="state">Impossibile caricare la rassegna. Controlla la connessione.</div>'});
+    return threadsReady.then(function(){
+      if(isRoute()){route();return}
+      if(!dates.length){state('Nessuna edizione ancora.');return}
+      loadEdition(0);
+    });
+  }).catch(function(){state('Impossibile caricare la rassegna. Controlla la connessione.')});
   if('serviceWorker' in navigator){navigator.serviceWorker.register('sw.js').catch(function(){})}
 })();
 </script>

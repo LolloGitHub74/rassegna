@@ -1,0 +1,116 @@
+{
+  "threads": [
+    {
+      "created": "2026-11-09",
+      "id": "manovra-2027",
+      "related": ["caro-vita-bollette"],
+      "status": "aperto",
+      "summary": "La legge di bilancio per il 2027 è in Parlamento. Regioni e sindacati contestano i fondi per sanità e scuola, mentre nella maggioranza Lega e Forza Italia chiedono modifiche su pensioni e altre misure. Molti bonus valgono solo per il 2027. Il governo vuole solo piccoli ritocchi: emendamenti entro il 17 novembre e sindacati a Palazzo Chigi il 13.",
+      "title": "Manovra 2027"
+    },
+    {
+      "created": "2026-11-09",
+      "id": "attacchi-informatici-italia",
+      "related": ["allarmi-bomba-europa"],
+      "status": "aperto",
+      "summary": "Da inizio novembre una serie di attacchi informatici colpisce l'Italia: prima i sistemi di refrigerazione dei supermercati, poi la società della galleria del Brennero e una «taglia» filorussa sui dati del ministro Tajani. Il Viminale ha convocato il Comitato per la sicurezza pubblica sulla minaccia cyber.",
+      "title": "Attacchi informatici all'Italia"
+    },
+    {
+      "created": "2026-11-09",
+      "id": "allarmi-bomba-europa",
+      "related": ["attacchi-informatici-italia"],
+      "status": "aperto",
+      "summary": "Falsi allarmi bomba via mail hanno colpito decine di voli in Europa, anche italiani, e poi redazioni a Dublino alla vigilia del vertice Ue. Crosetto parla di «minacce ibride», il premier irlandese di minacce «coordinate»; in Italia indaga l'Antiterrorismo.",
+      "title": "Falsi allarmi bomba in Europa"
+    },
+    {
+      "created": "2026-11-09",
+      "id": "ex-ilva",
+      "related": [],
+      "status": "aperto",
+      "summary": "A Taranto sono stati spenti tutti gli impianti dell'area a caldo dopo circa 60 anni, con la cassa integrazione chiesta per circa 8.600 lavoratori. La gara per la vendita si è chiusa con un acquirente in meno: il fondo Flacks si è sfilato, resterebbe l'indiana Jindal.",
+      "title": "Ex Ilva"
+    },
+    {
+      "created": "2026-11-09",
+      "id": "midterm-usa-2026",
+      "related": ["crisi-iran-usa", "bolla-ai"],
+      "status": "aperto",
+      "summary": "Il 3 novembre i democratici hanno conquistato Camera e Senato nelle elezioni di metà mandato. Trump ha prima detto di accettare il risultato, poi ha ordinato indagini sui democratici e cambiato capo dello staff. La sconfitta pesa anche sui mercati e sulla politica estera.",
+      "title": "Usa, le elezioni di metà mandato"
+    },
+    {
+      "created": "2026-11-09",
+      "id": "crisi-iran-usa",
+      "related": ["midterm-usa-2026"],
+      "status": "aperto",
+      "summary": "Dopo i raid Usa sull'isola iraniana di Qeshm, Trump alterna minacce («o certifico l'accordo o li distruggo») e aperture. Teheran legge il voto americano come un no alla guerra. Al centro della trattativa ci sono il nucleare e la riapertura dello Stretto di Hormuz.",
+      "title": "Crisi tra Iran e Stati Uniti"
+    },
+    {
+      "created": "2026-11-09",
+      "id": "negoziati-ucraina",
+      "related": [],
+      "status": "aperto",
+      "summary": "Russi e ucraini si sono incontrati alla Casa Bianca e Trump si dice «molto vicino» a un accordo. Zelensky esclude un contatto diretto con Putin. Meloni chiede che l'Ue nomini un proprio negoziatore e Costa porta la proposta al vertice di Dublino.",
+      "title": "Ucraina, i negoziati di pace"
+    },
+    {
+      "created": "2026-11-09",
+      "id": "bolla-ai",
+      "related": ["quotazione-anthropic", "midterm-usa-2026"],
+      "status": "aperto",
+      "summary": "I titoli legati all'intelligenza artificiale sono crollati in tutto il mondo dopo le elezioni Usa, per il timore che rallentino gli investimenti nei data center. Le conseguenze arrivano alle aziende: OpenAI ha ridotto il suo round di finanziamento e la valutazione.",
+      "title": "AI e Borsa, il crollo dei titoli"
+    },
+    {
+      "created": "2026-11-09",
+      "id": "quotazione-anthropic",
+      "related": ["bolla-ai"],
+      "status": "aperto",
+      "summary": "Anthropic prepara lo sbarco in Borsa e ha aggiornato il prospetto con ricavi trimestrali di circa 17 miliardi di dollari. Dopo il crollo dei titoli AI, i grandi investitori chiedono di abbassare la valutazione di 1.500 miliardi e non si esclude un rinvio.",
+      "title": "La quotazione in Borsa di Anthropic"
+    },
+    {
+      "created": "2026-11-09",
+      "id": "nomina-anac",
+      "related": [],
+      "status": "aperto",
+      "summary": "Il governo aveva scelto il leghista Nuccio Altieri per guidare l'Autorità anticorruzione. Dopo le proteste delle opposizioni, Altieri ha ritirato la disponibilità e il governo deve indicare un nuovo nome.",
+      "title": "La nomina all'Anac"
+    },
+    {
+      "created": "2026-11-09",
+      "id": "centrosinistra-alleanza",
+      "related": [],
+      "status": "aperto",
+      "summary": "Il centrosinistra lavora a un programma comune: dieci tavoli tematici dovranno chiudere le basi entro fine novembre. Schlein insiste sull'unità delle opposizioni, pur riconoscendo differenze interne.",
+      "title": "Centrosinistra, verso un programma comune"
+    },
+    {
+      "created": "2026-11-09",
+      "id": "caro-vita-bollette",
+      "related": ["manovra-2027"],
+      "status": "aperto",
+      "summary": "A ottobre la bolletta del gas è salita del 9,1%, un record secondo i consumatori, e il decreto con il tetto al prezzo del gas continua a slittare. Contro il carovita ci sono stati cortei in varie città.",
+      "title": "Caro vita e bollette"
+    },
+    {
+      "created": "2026-11-09",
+      "id": "morti-sul-lavoro",
+      "related": [],
+      "status": "aperto",
+      "summary": "Secondo l'Inail i morti sul lavoro nei primi nove mesi del 2026 sono 589, in aumento sull'anno scorso; per l'Anmil dall'inizio dell'anno sono oltre 700.",
+      "title": "Morti sul lavoro"
+    },
+    {
+      "created": "2026-11-09",
+      "id": "sciopero-atm",
+      "related": [],
+      "status": "aperto",
+      "summary": "I lavoratori Atm hanno proclamato uno sciopero di 24 ore per venerdì 13 novembre: chiedono aumenti, turni più sostenibili, più sicurezza e nessuna privatizzazione.",
+      "title": "Milano, lo sciopero Atm del 13 novembre"
+    }
+  ]
+}

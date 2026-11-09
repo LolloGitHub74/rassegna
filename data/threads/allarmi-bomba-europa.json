@@ -1,0 +1,42 @@
+{
+  "created": "2026-11-09",
+  "id": "allarmi-bomba-europa",
+  "items": [
+    {
+      "added": "2026-11-09",
+      "date": "2026-11-06",
+      "section": "Italia",
+      "source": "LaPresse",
+      "summary": "Atterraggi d'emergenza e dirottamenti, anche da Malpensa e su un Dublino-Roma. Le mail sono firmate da un sedicente gruppo; Crosetto parla di «minacce ibride».",
+      "title": "Falsi allarmi bomba su oltre 20 voli in Europa, almeno sei in Italia",
+      "url": "https://www.lapresse.it/cronaca/2026/11/06/allarmi-bomba-su-oltre-20-voli-in-europa-casi-anche-in-italia-crosetto-minacce-ibride/"
+    },
+    {
+      "added": "2026-11-09",
+      "date": "2026-11-07",
+      "section": "Italia",
+      "source": "ANSA",
+      "summary": "Un Ryanair da Roma atterrato a Lisbona e un Wizz Air Praga-Roma dirottato su Venezia: controlli negativi. La Procura nazionale antiterrorismo apre un'indagine.",
+      "title": "Nuovi allarmi bomba su due voli italiani, indaga l'Antiterrorismo",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/nuovi-allarmi-bomba-coinvolti-due-voli-in-italia_dd90ffe8-5ab8-4f0f-aff2-2360d4d5ca72.html"
+    },
+    {
+      "added": "2026-11-09",
+      "date": "2026-11-07",
+      "section": "Politica estera",
+      "source": "Sky TG24",
+      "summary": "Evacuate redazioni a Dublino; allarmi anche su voli in Francia, Praga e Copenaghen. Il premier irlandese: le minacce «sembrano coordinate».",
+      "title": "Irlanda, minacce bomba a giornali e tv alla vigilia del vertice Ue",
+      "url": "https://tg24.sky.it/mondo/2026/11/06/allarmi-bomba-oggi-diretta"
+    }
+  ],
+  "related": [
+    {
+      "id": "attacchi-informatici-italia",
+      "title": "Attacchi informatici all'Italia"
+    }
+  ],
+  "status": "aperto",
+  "summary": "Falsi allarmi bomba via mail hanno colpito decine di voli in Europa, anche italiani, e poi redazioni a Dublino alla vigilia del vertice Ue. Crosetto parla di «minacce ibride», il premier irlandese di minacce «coordinate»; in Italia indaga l'Antiterrorismo.",
+  "title": "Falsi allarmi bomba in Europa"
+}
