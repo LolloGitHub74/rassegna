@@ -1,0 +1,104 @@
+{
+  "date": "2026-11-09",
+  "sections": [
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "Entra nel vivo l'esame della legge di bilancio a Montecitorio: c'è tempo fino al 17 novembre per presentare gli emendamenti.",
+          "title": "Manovra alla Camera, il governo punta solo a piccole modifiche",
+          "url": "https://www.ansa.it/sito/notizie/economia/2026/11/08/manovra-alla-camera-il-governo-vuole-solo-piccole-modifiche_7d9c1a4f-8dc8-4127-9d48-8261a159eb29.html"
+        },
+        {
+          "source": "ANSA",
+          "summary": "La segretaria del Pd rilancia l'unità del centrosinistra mentre parte il lavoro sul programma comune, pur ammettendo differenze interne.",
+          "title": "Opposizioni, Schlein: «Non faremo più il favore alle destre di dividerci»",
+          "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/08/schlein-non-faremo-piu-il-favore-alle-destre-di-dividerci_47eb7620-fb1e-4a5a-abe9-ba52554397b8.html"
+        }
+      ],
+      "key": "italia",
+      "title": "Politica italiana"
+    },
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "Martedì 10 novembre riunione del Comitato nazionale per l'ordine e la sicurezza pubblica dedicata alla minaccia cyber, dopo i casi Tajani e Brennero.",
+          "title": "Attacchi informatici, Piantedosi convoca il Comitato per la sicurezza",
+          "update": true,
+          "url": "https://ansa.it/sito/notizie/cronaca/2026/11/08/attacchi-informatici-piantedosi-convoca-comitato-sicurezza-pubblica_2ff3c55f-8d26-4dfe-830b-5bc7344a1033.html"
+        },
+        {
+          "source": "Sky TG24",
+          "summary": "Chiusa la gara per le offerte vincolanti con gli altoforni spenti: il fondo Usa si sfila in attesa della premier, in campo resterebbe l'indiana Jindal.",
+          "title": "Ex Ilva, scadute le offerte. Flacks: «Proposta solo dopo incontro con Meloni»",
+          "url": "https://tg24.sky.it/cronaca/2026/11/08/ex-ilva-offerte-flacks"
+        },
+        {
+          "source": "ANSA",
+          "summary": "L'autorità di Borsa approva il documento dell'offerta di Intesa Sanpaolo su Monte dei Paschi: il periodo di adesione partirà il 24 novembre.",
+          "title": "Banche, via libera Consob all'offerta di Intesa su Mps",
+          "url": "https://ansa.it/sito/notizie/economia/2026/11/08/via-libera-della-consob-allofferta-di-intesa-per-mps-si-parte-il-24-novembre_15c55497-bc22-4473-aef0-930c9724f4f4.html"
+        }
+      ],
+      "key": "nazionale",
+      "title": "Italia"
+    },
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "Dopo la sconfitta alle midterm il nuovo capo dello staff segna la svolta alla Casa Bianca; il vicepresidente vede a rischio le ambizioni per il 2028.",
+          "title": "Usa, Trump lancia «l'era Miller», ma Vance trema e i finanziatori fuggono",
+          "update": true,
+          "url": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/08/trump-lancia-lera-miller-ma-vance-trema-finanziatori-in-fuga_185e5971-a7a8-47f4-b15a-df683dc8bdc1.html"
+        },
+        {
+          "source": "ANSA",
+          "summary": "Il pontefice arriva in Argentina e chiede attenzione per gli ultimi; il faccia a faccia con il presidente Milei è il momento più politico del viaggio.",
+          "title": "Papa Leone a Buenos Aires: «La politica pensi al bene comune»",
+          "url": "https://ansa.it/vaticano/notizie/2026/11/08/leone-la-politica-pensi-al-bene-comune.-faccia-a-faccia-con-milei_b1a9c1ef-f58d-4638-863e-926dd7986a78.html"
+        },
+        {
+          "source": "Fox News",
+          "summary": "Il presidente Usa apre a evitare la ripresa della guerra se Teheran firmerà un'intesa sul nucleare e riaprirà lo Stretto; l'Iran nega concessioni.",
+          "title": "Iran, Trump: nuovi attacchi «molto improbabili» con l'accordo su Hormuz",
+          "url": "https://www.foxnews.com/live-news/iran-war-news-trump-saudi-houthi-november-8"
+        }
+      ],
+      "key": "esteri",
+      "title": "Politica estera"
+    },
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "Il cda affida a un comitato indipendente la verifica: il Ceo ha ammesso una relazione con una manager ritenuta agente cinese. Huang resta al suo posto.",
+          "title": "Nvidia apre un'indagine su Huang per la relazione con una presunta spia",
+          "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/08/nvidia-apre-indagine-sul-ceo-huang-e-la-sua-relazione-con-una_96218dd8-dcb9-4caa-ac9d-f0ac0beec057.html"
+        },
+        {
+          "source": "ANSA",
+          "summary": "Al Guardian il pioniere dell'AI prevede un evento «tipo Chernobyl» entro un anno, come un attacco alla rete elettrica condotto da agenti IA.",
+          "title": "Il Nobel Hinton: «Forse staremmo meglio senza IA, temo un grave incidente»",
+          "url": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/08/il-nobel-hinton-forse-staremmo-meglio-senza-ia-temo-un-grave-incidente_85a23214-8f17-4d09-a97c-e07e492e4fdb.html"
+        }
+      ],
+      "key": "tech",
+      "title": "Tech e AI"
+    },
+    {
+      "items": [
+        {
+          "source": "Il Giorno",
+          "summary": "I lavoratori chiedono 150 euro netti in più al mese, turni più sostenibili, più sicurezza a bordo e nessuna privatizzazione; fasce di garanzia da definire.",
+          "title": "Atm, sciopero di 24 ore venerdì 13 novembre: a rischio metro, bus e tram",
+          "url": "https://www.ilgiorno.it/milano/cronaca/sciopero-atm-13-novembre-v3hvn4fu"
+        }
+      ],
+      "key": "milano",
+      "title": "Milano"
+    }
+  ],
+  "updatedAt": "2026-11-09T06:45:12+01:00"
+}
