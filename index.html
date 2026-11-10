@@ -103,10 +103,29 @@ body{padding-bottom:calc(64px + env(safe-area-inset-bottom))}
   text-decoration:none;color:var(--muted);font-size:11.5px;font-weight:600}
 .bar a svg{width:23px;height:23px}
 .bar a.on{color:var(--accent)}
-.soon{display:inline-block;font-size:11.5px;font-weight:600;color:var(--upd);background:var(--upd-bg);border-radius:6px;padding:2px 8px;margin-top:8px}
 .rules{margin:0;padding:0;list-style:none}
 .rules li{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:11px 14px;margin:0 0 8px;font-size:15px}
 .rules b{display:block;font-size:15.5px;margin-bottom:2px}
+.prow{display:block;text-decoration:none;color:inherit;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:11px 14px;margin:0 0 8px}
+.prow .ph{display:flex;justify-content:space-between;align-items:baseline;gap:10px}
+.prow b{font-family:Georgia,"Times New Roman",serif;font-size:17px}
+.prow .seats{font-size:13px;font-weight:600;color:var(--ink);white-space:nowrap}
+.prow .sub{font-size:13px;color:var(--muted);margin-top:2px}
+.pbar{height:4px;border-radius:2px;background:var(--line);margin-top:8px;overflow:hidden}
+.pbar i{display:block;height:100%;background:var(--chip-ink);opacity:.55}
+.st{display:inline-block;font-size:11.5px;font-weight:600;border-radius:6px;padding:1px 7px;background:var(--chip);color:var(--chip-ink)}
+.facts{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:4px 14px;margin:12px 0 0}
+.facts div{display:flex;justify-content:space-between;gap:12px;padding:9px 0;border-bottom:1px solid var(--line);font-size:14.5px}
+.facts div:last-child{border-bottom:0}
+.facts dt{color:var(--muted)}
+.facts dd{margin:0;text-align:right;font-weight:600}
+.facts dd small{display:block;font-weight:400;color:var(--muted);font-size:12.5px}
+.tlist{list-style:none;margin:0;padding:0}
+.tlist li{display:flex;justify-content:space-between;gap:10px;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:9px 13px;margin:0 0 6px;font-size:14.5px}
+.tlist span{color:var(--muted);font-size:12.5px;white-space:nowrap}
+.srcs{font-size:13px;color:var(--muted)}
+.srcs a{color:var(--chip-ink)}
+details.arch p{font-size:14px;color:var(--muted);margin:6px 0 10px}
 </style>
 </head>
 <body>
@@ -141,6 +160,7 @@ body{padding-bottom:calc(64px + env(safe-area-inset-bottom))}
       return s.charAt(0).toUpperCase()+s.slice(1);}catch(e){return d}
   }
   function fmtShort(d){try{return new Date(toUTC(d)).toLocaleDateString('it-IT',{day:'numeric',month:'short',timeZone:'Europe/Rome'})}catch(e){return d}}
+  function fmtLong(d){try{return new Date(toUTC(d)).toLocaleDateString('it-IT',{day:'numeric',month:'long',year:'numeric',timeZone:'Europe/Rome'})}catch(e){return d}}
   function fmtTime(iso){try{return new Date(iso).toLocaleTimeString('it-IT',{hour:'2-digit',minute:'2-digit',timeZone:'Europe/Rome'})}catch(e){return ''}}
   function today(){try{return new Intl.DateTimeFormat('en-CA',{timeZone:'Europe/Rome'}).format(new Date())}catch(e){return new Date().toISOString().slice(0,10)}}
   // Un collegamento resta "da verificare" per PENDING_DAYS giorni dalla sua creazione.
@@ -247,18 +267,71 @@ body{padding-bottom:calc(64px + env(safe-area-inset-bottom))}
       old.map(threadRow).join('')+'</details>';
     $('main').innerHTML=html;
   }
-  function renderParties(){
-    setMode('parties'); document.title='Partiti · Rassegna';
-    $('main').innerHTML='<h2 class="thtitle" style="margin-top:18px">Partiti</h2><span class="soon">In costruzione</span>'+
-      '<p class="intro">Qui troverai le schede dei partiti presenti in Parlamento: chi sono, cosa propongono su ogni tema, '+
-      'cosa dicono sulle notizie del giorno e come votano. Per farti un\'idea tua, confrontando le posizioni.</p>'+
-      '<h2>Come funzionerà</h2><ul class="rules">'+
-      '<li><b>Stesse regole per tutti</b>Ogni partito ha una scheda con la stessa struttura e la stessa lunghezza.</li>'+
-      '<li><b>Tre tipi di fonte, sempre con il link</b>Cosa promette (programmi ufficiali), cosa dice (dichiarazioni riportate dai giornali), cosa fa (voti in Parlamento).</li>'+
-      '<li><b>Nessun giudizio</b>Solo fatti: «propone», «ha votato», con la data. Se un partito non ha una posizione su un tema, lo scriviamo.</li>'+
-      '<li><b>Confronta</b>Scegli un tema e vedi le posizioni di tutti i partiti una sotto l\'altra.</li></ul>';
+  var parties=null;
+  var STATUS={maggioranza:'Maggioranza di governo',opposizione:'Opposizione',altro:'Collocazione non definita',fuori:'Fuori dal Parlamento'};
+  function seats(p){return (p.camera&&p.camera.seats||0)+(p.senato&&p.senato.seats||0)}
+  function seatText(p){
+    var n=seats(p); if(!n)return 'Nessun parlamentare';
+    if(p.camera&&(!p.senato||p.senato.seats===null))return n+(n===1?' deputato':' deputati');
+    return n+(n===1?' parlamentare':' parlamentari');
   }
-  function isRoute(){return /^#\/(filone\/|tema\/|temi$|filoni$|partiti$)/.test(location.hash)}
+  function loadParties(){return parties?Promise.resolve(parties):getJSON('data/parties.json').then(function(d){parties=d;return d})}
+  function sortedParties(d){
+    return d.parties.slice().sort(function(x,y){return seats(y)-seats(x)||x.name.localeCompare(y.name,'it')});
+  }
+  function rulesHtml(d){
+    return '<details class="arch"><summary>Come costruiamo queste schede</summary><ul class="rules">'+
+      '<li><b>Stesse regole per tutti</b>Ogni partito ha una scheda con la stessa struttura e la stessa lunghezza, in ordine di numero di parlamentari.</li>'+
+      '<li><b>Tre tipi di fonte, sempre con il link</b>Cosa promette (programmi ufficiali), cosa dice (dichiarazioni riportate dai giornali), cosa fa (voti in Parlamento).</li>'+
+      '<li><b>Nessun giudizio</b>Solo fatti: «propone», «ha votato», con la data. Se un partito non ha una posizione su un tema, lo scriviamo.</li></ul>'+
+      '<p><b>Chi includiamo.</b> '+esc(d.criteria)+'</p>'+sourcesHtml(d)+'</details>';
+  }
+  function sourcesHtml(d){
+    return '<p class="srcs">Seggi aggiornati al '+esc(fmtLong(d.asOf))+'. Fonti: '+(d.sources||[]).map(function(x){
+      return '<a href="'+esc(safeUrl(x.url))+'" target="_blank" rel="noopener">'+esc(x.label)+'</a>'}).join(' · ')+'.</p>';
+  }
+  function renderParties(){
+    setMode('parties'); document.title='Partiti · Rassegna'; state('Caricamento…');
+    loadParties().then(function(d){
+      if(location.hash!=='#/partiti')return;
+      var list=sortedParties(d), max=Math.max.apply(null,list.map(seats))||1;
+      var html='<h2 class="thtitle" style="margin-top:18px">Partiti</h2>'+
+        '<p class="intro">Chi sono i partiti italiani, in ordine di numero di parlamentari. Presto, per ognuno, le posizioni sui temi.</p>';
+      [['in','In Parlamento',function(p){return p.status!=='fuori'}],['out','Fuori dal Parlamento',function(p){return p.status==='fuori'}]].forEach(function(g){
+        var l=list.filter(g[2]); if(!l.length)return;
+        html+='<h2>'+g[1]+'</h2>';
+        l.forEach(function(p){
+          html+='<a class="prow" href="#/partito/'+safeId(p.id)+'"><div class="ph"><b>'+esc(p.name)+'</b><span class="seats">'+esc(seatText(p))+'</span></div>'+
+            '<div class="sub">'+esc(p.leader)+' · '+esc(STATUS[p.status]||'')+'</div>'+
+            (g[0]==='in'?'<div class="pbar"><i style="width:'+Math.max(2,Math.round(seats(p)/max*100))+'%"></i></div>':'')+'</a>';
+        });
+      });
+      $('main').innerHTML=html+rulesHtml(d);
+    }).catch(function(){if(location.hash==='#/partiti')state('Impossibile caricare i partiti.')});
+  }
+  function renderParty(id){
+    setMode('parties'); state('Caricamento…'); var h=location.hash;
+    loadParties().then(function(d){
+      if(location.hash!==h)return;
+      var p=d.parties.filter(function(x){return x.id===id})[0]; if(!p){state('Partito non trovato.');return}
+      document.title=p.name+' · Rassegna';
+      function chamber(c,one,many){
+        if(!c)return '<dd>Nessun gruppo proprio</dd>';
+        if(c.seats===null)return '<dd>Nel gruppo Misto<small>numero non indicato</small></dd>';
+        return '<dd>'+c.seats+' '+(c.seats===1?one:many)+'<small>'+esc(c.group)+'</small></dd>';
+      }
+      var html='<div class="crumb"><a href="#/partiti">‹ Partiti</a></div><h2 class="thtitle">'+esc(p.name)+'</h2>'+
+        '<span class="st">'+esc(STATUS[p.status]||'')+'</span><h2>Chi è</h2><div class="story"><p>'+esc(p.about)+'</p></div><dl class="facts">'+
+        '<div><dt>Leader</dt><dd>'+esc(p.leader)+'<small>'+esc(p.leaderRole)+'</small></dd></div>'+
+        '<div><dt>Fondato nel</dt><dd>'+esc(p.founded)+'</dd></div>'+
+        (p.status==='fuori'?'<div><dt>In Parlamento</dt><dd>Nessun parlamentare</dd></div>':
+          '<div><dt>Camera</dt>'+chamber(p.camera,'deputato','deputati')+'</div><div><dt>Senato</dt>'+chamber(p.senato,'senatore','senatori')+'</div>')+
+        '</dl><h2>Posizioni sui temi</h2><ul class="tlist">'+themes.map(function(t){return '<li>'+esc(t.title)+'<span>in arrivo</span></li>'}).join('')+
+        '</ul>'+sourcesHtml(d);
+      $('main').innerHTML=html; window.scrollTo(0,0);
+    }).catch(function(){if(location.hash===h)state('Impossibile caricare i partiti.')});
+  }
+  function isRoute(){return /^#\/(filone\/|tema\/|temi$|filoni$|partiti$|partito\/)/.test(location.hash)}
   function loadEdition(i){
     idx=i; state('Caricamento…');
     getJSON('data/'+dates[i]+'.json').then(function(doc){if(i!==idx)return;current=doc;if(!isRoute()){renderEdition(doc);window.scrollTo(0,0)}})
@@ -269,6 +342,8 @@ body{padding-bottom:calc(64px + env(safe-area-inset-bottom))}
     if(m){state('Caricamento…');var h=location.hash;getJSON('data/threads/'+m[1]+'.json').then(function(t){if(location.hash!==h)return;renderThread(t);window.scrollTo(0,0)})
       .catch(function(){if(location.hash===h)state('Filone non trovato o non disponibile offline.')});return}
     if(location.hash==='#/partiti'){renderParties();window.scrollTo(0,0);return}
+    var pm=(location.hash||'').match(/^#\/partito\/([a-z0-9-]+)$/);
+    if(pm){renderParty(pm[1]);return}
     var tm=(location.hash||'').match(/^#\/tema\/([a-z0-9-]+)$/);
     if(tm){renderTheme(tm[1]);window.scrollTo(0,0);return}
     if(location.hash==='#/temi'||location.hash==='#/filoni'){renderThemes();window.scrollTo(0,0);return}

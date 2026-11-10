@@ -88,8 +88,8 @@ mostra «La storia finora» e la linea del tempo di tutte le notizie collegate.
 
 ### File che la redazione può modificare
 
-`data/` (edizioni, `index.json`, `threads.json`, `threads/`) e il registro delle
-correzioni in questo file. Nient'altro senza il permesso del proprietario.
+`data/` (edizioni, `index.json`, `threads.json`, `threads/`; non `themes.json` né
+`parties.json`) e il registro delle correzioni in questo file. Nient'altro senza il permesso del proprietario.
 
 ## Chi ne parla (in progetto)
 
@@ -100,6 +100,23 @@ correzioni in questo file. Nient'altro senza il permesso del proprietario.
 - La posizione si descrive senza giudizi (es. «favorevole», «contraria»,
   «chiede chiarimenti»), mai «attacca» o «mente».
 - Nei temi politici, mostrare governo e opposizione se entrambi si sono espressi.
+
+## Partiti
+
+- `data/parties.json` contiene le schede «chi è» dei partiti. Le modifica solo il
+  proprietario, o la redazione su sua richiesta esplicita: la rassegna quotidiana non
+  la tocca.
+- Chi includere: partiti con un proprio gruppo alla Camera o al Senato, partiti
+  nazionali presenti come componente del gruppo Misto, e partiti fuori dal Parlamento
+  rilevanti per le elezioni del 2027 (per ora Ora!). Esclusi i gruppi delle minoranze
+  linguistiche, delle autonomie e le formazioni regionali.
+- Ordine: per numero di parlamentari (deputati più senatori del gruppo proprio);
+  a parità, in ordine alfabetico. I partiti fuori dal Parlamento vanno in fondo.
+- Seggi presi solo da camera.it e senato.it, con la data di aggiornamento (`asOf`).
+  Se il numero dei senatori di un partito nel gruppo Misto non è verificato, resta `null`.
+- Stessa struttura e stessa lunghezza per tutti; testo descrittivo, senza aggettivi
+  valutativi. Collocazione solo come fatto: maggioranza, opposizione, collocazione
+  non definita, fuori dal Parlamento.
 
 ## Correzioni del proprietario
 

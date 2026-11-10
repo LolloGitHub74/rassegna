@@ -7,4 +7,5 @@ https://lollogithub74.github.io/rassegna/
 - `data/themes.json`: i 7 temi, che sono anche le sezioni di ogni edizione.
 - `data/threads.json`: i filoni (storie che durano più giorni), ciascuno con il suo tema.
 - `data/threads/`: file generati con `python3 -I tools/build_threads.py`.
+- `data/parties.json`: le schede dei partiti (sezione Partiti).
 - `REDAZIONE.md`: regole della redazione e registro delle correzioni.

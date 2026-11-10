@@ -1,0 +1,142 @@
+{
+  "asOf": "2026-11-10",
+  "criteria": "Partiti con un proprio gruppo alla Camera o al Senato, partiti nazionali presenti come componente del gruppo Misto, e partiti fuori dal Parlamento rilevanti in vista delle elezioni del 2027. Non sono inclusi i gruppi delle minoranze linguistiche e delle autonomie e le formazioni regionali.",
+  "parties": [
+    {
+      "about": "Partito della presidente del Consiglio. È il primo partito della coalizione di governo di centrodestra.",
+      "camera": {"group": "Fratelli d'Italia", "seats": 117},
+      "founded": "2012",
+      "id": "fdi",
+      "leader": "Giorgia Meloni",
+      "leaderRole": "presidente",
+      "name": "Fratelli d'Italia",
+      "senato": {"group": "Fratelli d'Italia", "seats": 63},
+      "status": "maggioranza"
+    },
+    {
+      "about": "Il principale partito di opposizione. Lavora con M5S, AVS e altri partiti a un'alleanza di centrosinistra.",
+      "camera": {"group": "Partito Democratico - Italia Democratica e Progressista", "seats": 68},
+      "founded": "2007",
+      "id": "pd",
+      "leader": "Elly Schlein",
+      "leaderRole": "segretaria",
+      "name": "Partito Democratico",
+      "senato": {"group": "Partito Democratico - Italia Democratica e Progressista", "seats": 36},
+      "status": "opposizione"
+    },
+    {
+      "about": "Fa parte della coalizione di governo di centrodestra. È nata come Lega Nord nel 1991.",
+      "camera": {"group": "Lega - Salvini Premier", "seats": 54},
+      "founded": "1991",
+      "id": "lega",
+      "leader": "Matteo Salvini",
+      "leaderRole": "segretario",
+      "name": "Lega",
+      "senato": {"group": "Lega Salvini Premier - Partito Sardo d'Azione", "seats": 29},
+      "status": "maggioranza"
+    },
+    {
+      "about": "Partito di opposizione nato come movimento. Lavora con Pd, AVS e altri partiti a un'alleanza di centrosinistra.",
+      "camera": {"group": "Movimento 5 Stelle", "seats": 48},
+      "founded": "2009",
+      "id": "m5s",
+      "leader": "Giuseppe Conte",
+      "leaderRole": "presidente",
+      "name": "Movimento 5 Stelle",
+      "senato": {"group": "MoVimento 5 Stelle", "seats": 26},
+      "status": "opposizione"
+    },
+    {
+      "about": "Fa parte della coalizione di governo di centrodestra. Fondata da Silvio Berlusconi, è guidata da Tajani dal 2023.",
+      "camera": {"group": "Forza Italia - Berlusconi Presidente - PPE", "seats": 52},
+      "founded": "2013",
+      "id": "fi",
+      "leader": "Antonio Tajani",
+      "leaderRole": "segretario",
+      "name": "Forza Italia",
+      "senato": {"group": "Forza Italia - Berlusconi Presidente - PPE", "seats": 20},
+      "status": "maggioranza"
+    },
+    {
+      "about": "Partito di centro che fa parte della coalizione di governo. Al Senato ha un gruppo comune con Civici d'Italia e Udc.",
+      "camera": {"group": "Noi Moderati - MAIE - Centro Popolare", "seats": 8},
+      "founded": "2022",
+      "id": "noi-moderati",
+      "leader": "Maurizio Lupi",
+      "leaderRole": "presidente",
+      "name": "Noi Moderati",
+      "senato": {"group": "Civici d'Italia - UDC - Noi Moderati", "seats": 8},
+      "status": "maggioranza"
+    },
+    {
+      "about": "Partito di centro all'opposizione. Ha dichiarato di voler far parte dell'alleanza di centrosinistra alle prossime elezioni.",
+      "camera": {"group": "Italia Viva - Casa Riformista", "seats": 7},
+      "founded": "2019",
+      "id": "italia-viva",
+      "leader": "Matteo Renzi",
+      "leaderRole": "leader",
+      "name": "Italia Viva",
+      "senato": {"group": "Italia Viva - Il Centro - Renew Europe", "seats": 8},
+      "status": "opposizione"
+    },
+    {
+      "about": "Partito di centro all'opposizione. Al Senato i suoi parlamentari sono nel gruppo Misto.",
+      "camera": {"group": "Azione - Popolari europeisti riformatori - Renew Europe", "seats": 10},
+      "founded": "2019",
+      "id": "azione",
+      "leader": "Carlo Calenda",
+      "leaderRole": "segretario",
+      "name": "Azione",
+      "senato": {"group": "Misto", "seats": null},
+      "status": "opposizione"
+    },
+    {
+      "about": "Alleanza tra Europa Verde e Sinistra Italiana, guidata insieme dai due leader. Al Senato i suoi parlamentari sono nel gruppo Misto.",
+      "camera": {"group": "Alleanza Verdi e Sinistra", "seats": 9},
+      "founded": "2022",
+      "id": "avs",
+      "leader": "Angelo Bonelli e Nicola Fratoianni",
+      "leaderRole": "leader",
+      "name": "Alleanza Verdi e Sinistra",
+      "senato": {"group": "Misto", "seats": null},
+      "status": "opposizione"
+    },
+    {
+      "about": "Fondato da Roberto Vannacci dopo l'uscita dalla Lega. Nel 2026 i suoi deputati hanno votato la fiducia al governo, ma il partito non fa parte della coalizione.",
+      "camera": {"group": "Misto - componente Futuro Nazionale Vannacci", "seats": 9},
+      "founded": "2026",
+      "id": "futuro-nazionale",
+      "leader": "Roberto Vannacci",
+      "leaderRole": "presidente",
+      "name": "Futuro Nazionale",
+      "senato": null,
+      "status": "altro"
+    },
+    {
+      "about": "Partito liberale ed europeista all'opposizione, fondato con Emma Bonino. Alla Camera è una componente del gruppo Misto.",
+      "camera": {"group": "Misto - componente +Europa", "seats": 3},
+      "founded": "2017",
+      "id": "piu-europa",
+      "leader": "Riccardo Magi",
+      "leaderRole": "segretario",
+      "name": "+Europa",
+      "senato": null,
+      "status": "opposizione"
+    },
+    {
+      "about": "Nuovo partito fondato da Michele Boldrin e Alberto Forchielli. Non ha parlamentari e punta alle elezioni del 2027.",
+      "camera": null,
+      "founded": "2025",
+      "id": "ora",
+      "leader": "Michele Boldrin",
+      "leaderRole": "segretario",
+      "name": "Ora!",
+      "senato": null,
+      "status": "fuori"
+    }
+  ],
+  "sources": [
+    {"label": "Camera dei deputati, composizione dei gruppi", "url": "https://www.camera.it/leg19/46"},
+    {"label": "Senato, riepilogo della composizione dei gruppi", "url": "https://www.senato.it/composizione/gruppi-parlamentari/riepilogo-della-composizione"}
+  ]
+}
