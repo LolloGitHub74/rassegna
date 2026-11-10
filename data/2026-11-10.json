@@ -1,0 +1,153 @@
+{
+  "date": "2026-11-10",
+  "sections": [
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "Il Consiglio dei ministri non indica il successore di Altieri: serviranno ancora alcuni giorni. Busia resta in carica per l'ordinaria amministrazione.",
+          "thread": {
+            "added": "2026-11-10",
+            "id": "nomina-anac"
+          },
+          "title": "Anac, slitta la nomina del presidente: nessun nome nel Cdm",
+          "url": "https://www.ansa.it/sito/notizie/politica/2026/11/09/slitta-la-nomina-per-lanac-i-dubbi-sul-capo-di-gabinetto-del-mit_940196b9-abf0-4d14-95b6-27fc1005a9ae.html"
+        },
+        {
+          "source": "ANSA",
+          "summary": "Al terzo tentativo via libera al decreto con il tetto di 58,9 euro al megawattora sul gas per l'elettricità: il governo stima 15 euro in meno al MWh da gennaio.",
+          "thread": {
+            "added": "2026-11-10",
+            "id": "caro-vita-bollette"
+          },
+          "title": "Bollette, il Cdm approva il decreto: tetto al prezzo del gas",
+          "url": "https://www.ansa.it/sito/notizie/economia/2026/11/09/il-cdm-approva-il-decreto-legge-bollette.-pichetto-15-euro-in-meno-al-megawattora_cbf74d76-2c12-4718-89af-73ab9c1e6fec.html"
+        },
+        {
+          "source": "ANSA",
+          "summary": "Fino al 17 novembre il centrosinistra discute di economia, giustizia, politica estera e altri temi; poi i leader scriveranno un programma comune.",
+          "thread": {
+            "added": "2026-11-10",
+            "id": "centrosinistra-alleanza"
+          },
+          "title": "Campo largo, al via i dieci tavoli sul programma",
+          "update": true,
+          "url": "https://www.ansa.it/sito/notizie/politica/2026/11/09/al-via-i-dieci-tavoli-programmatici-per-il-campo-largo_faa820dd-585d-4bcb-96e5-167ac3d853d3.html"
+        }
+      ],
+      "key": "italia",
+      "title": "Politica italiana"
+    },
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "Chiusa la gara per tutti gli stabilimenti: l'offerta di Arvedi è condizionata all'accoglienza di Taranto, nessuna proposta dalla cordata di Federacciai.",
+          "thread": {
+            "added": "2026-11-10",
+            "id": "ex-ilva"
+          },
+          "title": "Ex Ilva, due offerte per l'acquisto: Jindal e l'italiana Arvedi",
+          "update": true,
+          "url": "https://www.ansa.it/sito/notizie/economia/2026/11/09/due-offerte-dacquisto-per-lex-ilva-da-jindal-e-dallitaliana-arvedi_96c4adb2-e1b6-4568-b94e-d40eee5a89e4.html"
+        },
+        {
+          "source": "ANSA",
+          "summary": "Bignami (FdI) attacca un manuale Laterza che definisce «liberticide» alcune misure del governo Meloni: torna lo scontro sui testi scolastici.",
+          "title": "Scuola, polemica su un libro di storia: «Misure liberticide del governo»",
+          "url": "https://ansa.it/sito/notizie/cronaca/2026/11/09/misure-liberticide-del-governo-torna-la-polemica-su-testo-di-storia_558bfcb8-8c67-4833-8684-8402d93f8fde.html"
+        },
+        {
+          "source": "ANSA",
+          "summary": "Nuovo capitolo nel risiko bancario: il gruppo francese valuta una mossa su Banco Bpm, con il nodo del governo e dell'assemblea dei soci.",
+          "title": "Banche, dopo Unicredit e Mps ora Crédit Agricole guarda a Bpm",
+          "url": "https://www.ansa.it/sito/notizie/economia/2026/11/09/su-bpm-lultimo-giro-di-risiko-il-nodo-del-governo-e-dellassemblea_03cc3439-63d4-4f03-bc8f-058798dd24f8.html"
+        }
+      ],
+      "key": "nazionale",
+      "title": "Italia"
+    },
+    {
+      "items": [
+        {
+          "source": "Adnkronos",
+          "summary": "Su richiesta italiana i ministri degli Esteri discutono della guerra ibrida; la Francia accusa i pasdaran iraniani, Tajani parla di hacker filorussi.",
+          "thread": {
+            "added": "2026-11-10",
+            "id": "attacchi-informatici-italia"
+          },
+          "title": "G7 di Parigi, gli attacchi hacker al centro: Tajani chiede unità",
+          "update": true,
+          "url": "https://www.adnkronos.com/internazionale/esteri/attacchi-hacker-g7-parigi-focus-oggi_2bl18RGG8kAYew59t1o03w"
+        },
+        {
+          "source": "Sky TG24",
+          "summary": "Il 25enne, colpito dalla polizia durante la fuga, è morto dopo tre interventi. La procura polacca indaga per terrorismo; 15 feriti restano ricoverati.",
+          "thread": {
+            "added": "2026-11-10",
+            "id": "strage-cracovia"
+          },
+          "title": "Strage di Cracovia, morto in ospedale l'attentatore",
+          "url": "https://tg24.sky.it/mondo/2026/11/09/morto-attentatore-cracovia"
+        },
+        {
+          "source": "Yahoo Finanza",
+          "summary": "Secondo fonti diplomatiche Teheran riaprirebbe lo Stretto in cambio di 8 miliardi di fondi congelati; il Brent cala del 4,6%. Nessuna conferma ufficiale.",
+          "thread": {
+            "added": "2026-11-10",
+            "id": "crisi-iran-usa"
+          },
+          "title": "Iran, indiscrezioni su un'offerta per riaprire Hormuz: petrolio giù",
+          "update": true,
+          "url": "https://it.finance.yahoo.com/notizie/il-petrolio-cala-dopo-laccordo-125812563.html"
+        }
+      ],
+      "key": "esteri",
+      "title": "Politica estera"
+    },
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "Il titolo scivola dopo l'inchiesta interna sulla relazione del Ceo con una presunta spia cinese. Pechino nega, Trump difende Huang.",
+          "thread": {
+            "added": "2026-11-10",
+            "id": "caso-nvidia-huang"
+          },
+          "title": "Nvidia perde il 4,4% a Wall Street dopo l'indagine su Huang",
+          "update": true,
+          "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/09/scandalo-nvidia-il-cda-apre-unindagine-sullaffaire-del-ceo-con-una_b836320f-e2c1-45f4-afe6-4a8f097fa5b6.html"
+        },
+        {
+          "source": "The Globe and Mail",
+          "summary": "Le cifre dell'offerta inviate alle banche sono state ritirate: l'azienda promette dati aggiornati. Il roadshow dovrebbe partire oggi.",
+          "thread": {
+            "added": "2026-11-10",
+            "id": "quotazione-anthropic"
+          },
+          "title": "Anthropic, girano e poi spariscono i dettagli dell'Ipo da 70 miliardi",
+          "url": "https://www.theglobeandmail.com/world/article-details-of-anthropics-nearly-70-billion-ipo-briefly-circulated-to/"
+        }
+      ],
+      "key": "tech",
+      "title": "Tech e AI"
+    },
+    {
+      "items": [
+        {
+          "source": "MilanoToday",
+          "summary": "Passa a sorpresa, con 22 sì e 6 no, un ordine del giorno che chiede di sospendere la Vas e integrarla con l'impatto sulla salute. Contraria la giunta.",
+          "thread": {
+            "added": "2026-11-10",
+            "id": "stadio-san-siro"
+          },
+          "title": "San Siro, il Consiglio chiede la valutazione sanitaria sul nuovo stadio",
+          "url": "https://www.milanotoday.it/politica/valutazione-sanitaria-stadio-san-siro.html"
+        }
+      ],
+      "key": "milano",
+      "title": "Milano"
+    }
+  ],
+  "updatedAt": "2026-11-10T06:44:14+01:00"
+}

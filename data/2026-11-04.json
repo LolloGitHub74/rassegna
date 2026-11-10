@@ -132,6 +132,10 @@
         {
           "source": "Il Giorno",
           "summary": "Il candidato sindaco Mario Calabresi propone di salvare il Meazza; il sindaco Sala e Ignazio La Russa lo criticano.",
+          "thread": {
+            "added": "2026-11-10",
+            "id": "stadio-san-siro"
+          },
           "title": "San Siro, Sala boccia la proposta di Calabresi",
           "url": "https://www.ilgiorno.it/milano/politica/san-siro-sala-boccia-calabresi-r79vqzd5"
         }

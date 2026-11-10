@@ -98,6 +98,10 @@
         {
           "source": "ANSA",
           "summary": "Il cda affida a un comitato indipendente la verifica: il Ceo ha ammesso una relazione con una manager ritenuta agente cinese. Huang resta al suo posto.",
+          "thread": {
+            "added": "2026-11-10",
+            "id": "caso-nvidia-huang"
+          },
           "title": "Nvidia apre un'indagine su Huang per la relazione con una presunta spia",
           "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/08/nvidia-apre-indagine-sul-ceo-huang-e-la-sua-relazione-con-una_96218dd8-dcb9-4caa-ac9d-f0ac0beec057.html"
         },

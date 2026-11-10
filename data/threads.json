@@ -3,7 +3,9 @@
     {
       "created": "2026-11-09",
       "id": "manovra-2027",
-      "related": ["caro-vita-bollette"],
+      "related": [
+        "caro-vita-bollette"
+      ],
       "status": "aperto",
       "summary": "La legge di bilancio per il 2027 è in Parlamento. Regioni e sindacati contestano i fondi per sanità e scuola, mentre nella maggioranza Lega e Forza Italia chiedono modifiche su pensioni e altre misure. Molti bonus valgono solo per il 2027. Il governo vuole solo piccoli ritocchi: emendamenti entro il 17 novembre e sindacati a Palazzo Chigi il 13.",
       "title": "Manovra 2027"
@@ -11,15 +13,19 @@
     {
       "created": "2026-11-09",
       "id": "attacchi-informatici-italia",
-      "related": ["allarmi-bomba-europa"],
+      "related": [
+        "allarmi-bomba-europa"
+      ],
       "status": "aperto",
-      "summary": "Da inizio novembre una serie di attacchi informatici colpisce l'Italia: prima i sistemi di refrigerazione dei supermercati, poi la società della galleria del Brennero e una «taglia» filorussa sui dati del ministro Tajani. Il Viminale ha convocato il Comitato per la sicurezza pubblica sulla minaccia cyber.",
+      "summary": "Da inizio novembre una serie di attacchi informatici colpisce l'Italia: prima i sistemi di refrigerazione dei supermercati, poi la società della galleria del Brennero e una «taglia» filorussa sui dati del ministro Tajani. Il Viminale ha convocato il Comitato per la sicurezza e l'Italia ha portato il tema al G7 di Parigi, dove la Francia accusa l'Iran.",
       "title": "Attacchi informatici all'Italia"
     },
     {
       "created": "2026-11-09",
       "id": "allarmi-bomba-europa",
-      "related": ["attacchi-informatici-italia"],
+      "related": [
+        "attacchi-informatici-italia"
+      ],
       "status": "aperto",
       "summary": "Falsi allarmi bomba via mail hanno colpito decine di voli in Europa, anche italiani, e poi redazioni a Dublino alla vigilia del vertice Ue. Crosetto parla di «minacce ibride», il premier irlandese di minacce «coordinate»; in Italia indaga l'Antiterrorismo.",
       "title": "Falsi allarmi bomba in Europa"
@@ -29,13 +35,16 @@
       "id": "ex-ilva",
       "related": [],
       "status": "aperto",
-      "summary": "A Taranto sono stati spenti tutti gli impianti dell'area a caldo dopo circa 60 anni, con la cassa integrazione chiesta per circa 8.600 lavoratori. La gara per la vendita si è chiusa con un acquirente in meno: il fondo Flacks si è sfilato, resterebbe l'indiana Jindal.",
+      "summary": "A Taranto sono stati spenti tutti gli impianti dell'area a caldo dopo circa 60 anni, con la cassa integrazione chiesta per circa 8.600 lavoratori. La gara per la vendita si è chiusa con due offerte, dell'indiana Jindal e dell'italiana Arvedi (condizionata); il fondo Flacks si è sfilato.",
       "title": "Ex Ilva"
     },
     {
       "created": "2026-11-09",
       "id": "midterm-usa-2026",
-      "related": ["crisi-iran-usa", "bolla-ai"],
+      "related": [
+        "crisi-iran-usa",
+        "bolla-ai"
+      ],
       "status": "aperto",
       "summary": "Il 3 novembre i democratici hanno conquistato Camera e Senato nelle elezioni di metà mandato. Trump ha prima detto di accettare il risultato, poi ha ordinato indagini sui democratici e cambiato capo dello staff. La sconfitta pesa anche sui mercati e sulla politica estera.",
       "title": "Usa, le elezioni di metà mandato"
@@ -43,9 +52,11 @@
     {
       "created": "2026-11-09",
       "id": "crisi-iran-usa",
-      "related": ["midterm-usa-2026"],
+      "related": [
+        "midterm-usa-2026"
+      ],
       "status": "aperto",
-      "summary": "Dopo i raid Usa sull'isola iraniana di Qeshm, Trump alterna minacce («o certifico l'accordo o li distruggo») e aperture. Teheran legge il voto americano come un no alla guerra. Al centro della trattativa ci sono il nucleare e la riapertura dello Stretto di Hormuz.",
+      "summary": "Dopo i raid Usa sull'isola iraniana di Qeshm, Trump alterna minacce («o certifico l'accordo o li distruggo») e aperture. Teheran legge il voto americano come un no alla guerra. Al centro ci sono il nucleare e lo Stretto di Hormuz: secondo indiscrezioni l'Iran offrirebbe di riaprirlo in cambio di fondi congelati.",
       "title": "Crisi tra Iran e Stati Uniti"
     },
     {
@@ -59,7 +70,11 @@
     {
       "created": "2026-11-09",
       "id": "bolla-ai",
-      "related": ["quotazione-anthropic", "midterm-usa-2026"],
+      "related": [
+        "quotazione-anthropic",
+        "midterm-usa-2026",
+        "caso-nvidia-huang"
+      ],
       "status": "aperto",
       "summary": "I titoli legati all'intelligenza artificiale sono crollati in tutto il mondo dopo le elezioni Usa, per il timore che rallentino gli investimenti nei data center. Le conseguenze arrivano alle aziende: OpenAI ha ridotto il suo round di finanziamento e la valutazione.",
       "title": "AI e Borsa, il crollo dei titoli"
@@ -67,9 +82,11 @@
     {
       "created": "2026-11-09",
       "id": "quotazione-anthropic",
-      "related": ["bolla-ai"],
+      "related": [
+        "bolla-ai"
+      ],
       "status": "aperto",
-      "summary": "Anthropic prepara lo sbarco in Borsa e ha aggiornato il prospetto con ricavi trimestrali di circa 17 miliardi di dollari. Dopo il crollo dei titoli AI, i grandi investitori chiedono di abbassare la valutazione di 1.500 miliardi e non si esclude un rinvio.",
+      "summary": "Anthropic prepara lo sbarco in Borsa e ha aggiornato il prospetto con ricavi trimestrali di circa 17 miliardi di dollari. Dopo il crollo dei titoli AI i grandi investitori chiedono di abbassare la valutazione; i dettagli di un'offerta da circa 70 miliardi sono stati inviati alle banche e poi ritirati.",
       "title": "La quotazione in Borsa di Anthropic"
     },
     {
@@ -77,7 +94,7 @@
       "id": "nomina-anac",
       "related": [],
       "status": "aperto",
-      "summary": "Il governo aveva scelto il leghista Nuccio Altieri per guidare l'Autorità anticorruzione. Dopo le proteste delle opposizioni, Altieri ha ritirato la disponibilità e il governo deve indicare un nuovo nome.",
+      "summary": "Il governo aveva scelto il leghista Nuccio Altieri per guidare l'Autorità anticorruzione. Dopo le proteste delle opposizioni Altieri ha ritirato la disponibilità; il nuovo nome, atteso al Cdm del 9 novembre, è slittato di qualche giorno e intanto Busia resta per l'ordinaria amministrazione.",
       "title": "La nomina all'Anac"
     },
     {
@@ -85,15 +102,17 @@
       "id": "centrosinistra-alleanza",
       "related": [],
       "status": "aperto",
-      "summary": "Il centrosinistra lavora a un programma comune: dieci tavoli tematici dovranno chiudere le basi entro fine novembre. Schlein insiste sull'unità delle opposizioni, pur riconoscendo differenze interne.",
+      "summary": "Il centrosinistra lavora a un programma comune: dal 9 al 17 novembre dieci tavoli tematici, poi i leader scriveranno il testo. Schlein insiste sull'unità delle opposizioni, pur riconoscendo differenze interne.",
       "title": "Centrosinistra, verso un programma comune"
     },
     {
       "created": "2026-11-09",
       "id": "caro-vita-bollette",
-      "related": ["manovra-2027"],
+      "related": [
+        "manovra-2027"
+      ],
       "status": "aperto",
-      "summary": "A ottobre la bolletta del gas è salita del 9,1%, un record secondo i consumatori, e il decreto con il tetto al prezzo del gas continua a slittare. Contro il carovita ci sono stati cortei in varie città.",
+      "summary": "A ottobre la bolletta del gas è salita del 9,1%, un record secondo i consumatori, e contro il carovita ci sono stati cortei in varie città. Dopo due rinvii, il 9 novembre il governo ha approvato il decreto Bollette con un tetto al prezzo del gas usato per produrre elettricità.",
       "title": "Caro vita e bollette"
     },
     {
@@ -111,6 +130,32 @@
       "status": "aperto",
       "summary": "I lavoratori Atm hanno proclamato uno sciopero di 24 ore per venerdì 13 novembre: chiedono aumenti, turni più sostenibili, più sicurezza e nessuna privatizzazione.",
       "title": "Milano, lo sciopero Atm del 13 novembre"
+    },
+    {
+      "created": "2026-11-10",
+      "id": "strage-cracovia",
+      "related": [],
+      "status": "aperto",
+      "summary": "Il 7 novembre un giovane polacco ha sparato sulla folla in piazza del Mercato a Cracovia, uccidendo sei persone; in casa sua sono stati trovati altri tre corpi. Illesi gli studenti italiani presenti. L'attentatore è morto in ospedale e la procura indaga per terrorismo.",
+      "title": "La strage di Cracovia"
+    },
+    {
+      "created": "2026-11-10",
+      "id": "caso-nvidia-huang",
+      "related": [
+        "bolla-ai"
+      ],
+      "status": "aperto",
+      "summary": "Il consiglio di Nvidia ha aperto un'indagine indipendente dopo che il Ceo Jensen Huang ha ammesso una relazione con una manager ritenuta dall'intelligence Usa una spia cinese. Huang resta al suo posto, ma il titolo è sceso a Wall Street.",
+      "title": "Nvidia, il caso Huang"
+    },
+    {
+      "created": "2026-11-10",
+      "id": "stadio-san-siro",
+      "related": [],
+      "status": "aperto",
+      "summary": "Il progetto del nuovo stadio di Inter e Milan e della parziale demolizione del Meazza divide la città. Il candidato sindaco Calabresi propone di salvare il Meazza; il Consiglio comunale ha chiesto di valutare anche l'impatto sanitario, contro il parere della giunta.",
+      "title": "Milano, il futuro di San Siro"
     }
   ]
 }

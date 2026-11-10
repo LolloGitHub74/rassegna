@@ -1,0 +1,33 @@
+{
+  "created": "2026-11-10",
+  "id": "caso-nvidia-huang",
+  "items": [
+    {
+      "added": "2026-11-10",
+      "date": "2026-11-09",
+      "section": "Tech e AI",
+      "source": "ANSA",
+      "summary": "Il cda affida a un comitato indipendente la verifica: il Ceo ha ammesso una relazione con una manager ritenuta agente cinese. Huang resta al suo posto.",
+      "title": "Nvidia apre un'indagine su Huang per la relazione con una presunta spia",
+      "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/08/nvidia-apre-indagine-sul-ceo-huang-e-la-sua-relazione-con-una_96218dd8-dcb9-4caa-ac9d-f0ac0beec057.html"
+    },
+    {
+      "added": "2026-11-10",
+      "date": "2026-11-10",
+      "section": "Tech e AI",
+      "source": "ANSA",
+      "summary": "Il titolo scivola dopo l'inchiesta interna sulla relazione del Ceo con una presunta spia cinese. Pechino nega, Trump difende Huang.",
+      "title": "Nvidia perde il 4,4% a Wall Street dopo l'indagine su Huang",
+      "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/09/scandalo-nvidia-il-cda-apre-unindagine-sullaffaire-del-ceo-con-una_b836320f-e2c1-45f4-afe6-4a8f097fa5b6.html"
+    }
+  ],
+  "related": [
+    {
+      "id": "bolla-ai",
+      "title": "AI e Borsa, il crollo dei titoli"
+    }
+  ],
+  "status": "aperto",
+  "summary": "Il consiglio di Nvidia ha aperto un'indagine indipendente dopo che il Ceo Jensen Huang ha ammesso una relazione con una manager ritenuta dall'intelligence Usa una spia cinese. Huang resta al suo posto, ma il titolo è sceso a Wall Street.",
+  "title": "Nvidia, il caso Huang"
+}
