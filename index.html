@@ -37,8 +37,6 @@ h1 span{color:var(--accent)}
 .nav button{appearance:none;border:1px solid var(--line);background:var(--card);color:var(--ink);
   width:38px;height:38px;border-radius:10px;font-size:18px;cursor:pointer}
 .nav button:disabled{opacity:.35;cursor:default}
-.navtxt{border:1px solid var(--line);background:var(--card);color:var(--ink);height:38px;border-radius:10px;
-  padding:0 12px;font-size:14px;text-decoration:none;display:inline-flex;align-items:center}
 .date{max-width:720px;margin:4px auto 0;color:var(--muted);font-size:14px}
 .tabs{display:flex;gap:6px;overflow-x:auto;max-width:720px;margin:10px auto 0;scrollbar-width:none}
 .tabs::-webkit-scrollbar{display:none}
@@ -97,6 +95,18 @@ details.arch summary{cursor:pointer;color:var(--chip-ink);font-size:14px;padding
 details.arch .trow{opacity:.85}
 @media (max-width:340px){.tgrid{grid-template-columns:1fr}}
 footer{max-width:720px;margin:0 auto;padding:0 16px 30px;color:var(--muted);font-size:12px}
+body{padding-bottom:calc(64px + env(safe-area-inset-bottom))}
+.bar{position:fixed;left:0;right:0;bottom:0;z-index:10;background:var(--card);border-top:1px solid var(--line);
+  padding-bottom:env(safe-area-inset-bottom)}
+.bar nav{display:flex;max-width:720px;margin:0 auto}
+.bar a{flex:1;display:flex;flex-direction:column;align-items:center;gap:2px;padding:8px 0 7px;
+  text-decoration:none;color:var(--muted);font-size:11.5px;font-weight:600}
+.bar a svg{width:23px;height:23px}
+.bar a.on{color:var(--accent)}
+.soon{display:inline-block;font-size:11.5px;font-weight:600;color:var(--upd);background:var(--upd-bg);border-radius:6px;padding:2px 8px;margin-top:8px}
+.rules{margin:0;padding:0;list-style:none}
+.rules li{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:11px 14px;margin:0 0 8px;font-size:15px}
+.rules b{display:block;font-size:15.5px;margin-bottom:2px}
 </style>
 </head>
 <body>
@@ -104,7 +114,6 @@ footer{max-width:720px;margin:0 auto;padding:0 16px 30px;color:var(--muted);font
   <div class="top">
     <h1><a href="#/">Rassegna<span>.</span></a></h1>
     <div class="nav">
-      <a class="navtxt" id="tolist" href="#/temi">Temi</a>
       <button id="prev" aria-label="Edizione precedente">‹</button>
       <button id="next" aria-label="Edizione successiva">›</button>
     </div>
@@ -114,6 +123,11 @@ footer{max-width:720px;margin:0 auto;padding:0 16px 30px;color:var(--muted);font
 </header>
 <main id="main"><div class="state">Caricamento…</div></main>
 <footer id="foot"></footer>
+<div class="bar"><nav aria-label="Sezioni dell'app">
+  <a href="#/" id="b-oggi"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="4" width="18" height="16" rx="2"/><path d="M7 8h10M7 12h10M7 16h6"/></svg>Oggi</a>
+  <a href="#/temi" id="b-temi"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="3" width="7.5" height="7.5" rx="1.5"/><rect x="13.5" y="3" width="7.5" height="7.5" rx="1.5"/><rect x="3" y="13.5" width="7.5" height="7.5" rx="1.5"/><rect x="13.5" y="13.5" width="7.5" height="7.5" rx="1.5"/></svg>Temi</a>
+  <a href="#/partiti" id="b-partiti"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="8" cy="8" r="3"/><circle cx="16.5" cy="9" r="2.5"/><path d="M2.5 19c.6-3.2 2.8-5 5.5-5s4.9 1.8 5.5 5M13.5 14.6c.9-.4 1.9-.6 3-.6 2.3 0 4.2 1.5 4.8 4.5"/></svg>Partiti</a>
+</nav></div>
 <script>
 (function(){
   var dates=[], idx=0, current=null, threads={}, themes=[], PENDING_DAYS=3, ACTIVE_DAYS=14;
@@ -141,7 +155,9 @@ footer{max-width:720px;margin:0 auto;padding:0 16px 30px;color:var(--muted);font
   function setMode(mode){
     var ed=mode==='edition';
     ['prev','next','tabs','date'].forEach(function(id){$(id).classList.toggle('hidden',!ed)});
-    $('tolist').classList.toggle('hidden',mode==='themes');
+    var tab=ed?'oggi':(mode==='parties'?'partiti':'temi');
+    ['oggi','temi','partiti'].forEach(function(k){var a=$('b-'+k);a.classList.toggle('on',k===tab);
+      if(k===tab)a.setAttribute('aria-current','page');else a.removeAttribute('aria-current')});
     if(!ed)$('foot').textContent='';
   }
   function threadChip(th){
@@ -231,7 +247,18 @@ footer{max-width:720px;margin:0 auto;padding:0 16px 30px;color:var(--muted);font
       old.map(threadRow).join('')+'</details>';
     $('main').innerHTML=html;
   }
-  function isRoute(){return /^#\/(filone\/|tema\/|temi$|filoni$)/.test(location.hash)}
+  function renderParties(){
+    setMode('parties'); document.title='Partiti · Rassegna';
+    $('main').innerHTML='<h2 class="thtitle" style="margin-top:18px">Partiti</h2><span class="soon">In costruzione</span>'+
+      '<p class="intro">Qui troverai le schede dei partiti presenti in Parlamento: chi sono, cosa propongono su ogni tema, '+
+      'cosa dicono sulle notizie del giorno e come votano. Per farti un\'idea tua, confrontando le posizioni.</p>'+
+      '<h2>Come funzionerà</h2><ul class="rules">'+
+      '<li><b>Stesse regole per tutti</b>Ogni partito ha una scheda con la stessa struttura e la stessa lunghezza.</li>'+
+      '<li><b>Tre tipi di fonte, sempre con il link</b>Cosa promette (programmi ufficiali), cosa dice (dichiarazioni riportate dai giornali), cosa fa (voti in Parlamento).</li>'+
+      '<li><b>Nessun giudizio</b>Solo fatti: «propone», «ha votato», con la data. Se un partito non ha una posizione su un tema, lo scriviamo.</li>'+
+      '<li><b>Confronta</b>Scegli un tema e vedi le posizioni di tutti i partiti una sotto l\'altra.</li></ul>';
+  }
+  function isRoute(){return /^#\/(filone\/|tema\/|temi$|filoni$|partiti$)/.test(location.hash)}
   function loadEdition(i){
     idx=i; state('Caricamento…');
     getJSON('data/'+dates[i]+'.json').then(function(doc){if(i!==idx)return;current=doc;if(!isRoute()){renderEdition(doc);window.scrollTo(0,0)}})
@@ -241,6 +268,7 @@ footer{max-width:720px;margin:0 auto;padding:0 16px 30px;color:var(--muted);font
     var m=(location.hash||'').match(/^#\/filone\/([a-z0-9-]+)$/);
     if(m){state('Caricamento…');var h=location.hash;getJSON('data/threads/'+m[1]+'.json').then(function(t){if(location.hash!==h)return;renderThread(t);window.scrollTo(0,0)})
       .catch(function(){if(location.hash===h)state('Filone non trovato o non disponibile offline.')});return}
+    if(location.hash==='#/partiti'){renderParties();window.scrollTo(0,0);return}
     var tm=(location.hash||'').match(/^#\/tema\/([a-z0-9-]+)$/);
     if(tm){renderTheme(tm[1]);window.scrollTo(0,0);return}
     if(location.hash==='#/temi'||location.hash==='#/filoni'){renderThemes();window.scrollTo(0,0);return}
