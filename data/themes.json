@@ -1,0 +1,39 @@
+{
+  "themes": [
+    {
+      "description": "Governo, Parlamento, partiti, nomine ed elezioni.",
+      "id": "politica",
+      "title": "Politica interna"
+    },
+    {
+      "description": "Manovra, industria, lavoro, banche e costo della vita.",
+      "id": "economia",
+      "title": "Economia e lavoro"
+    },
+    {
+      "description": "Cronaca, processi, decreti sicurezza e attacchi informatici.",
+      "id": "sicurezza",
+      "title": "Sicurezza e giustizia"
+    },
+    {
+      "description": "Conflitti, diplomazia e decisioni dell'Unione europea.",
+      "id": "esteri",
+      "title": "Politica estera"
+    },
+    {
+      "description": "Intelligenza artificiale, grandi aziende tech e innovazione.",
+      "id": "tech",
+      "title": "Tecnologia e AI"
+    },
+    {
+      "description": "Clima, maltempo, transizione energetica e inquinamento.",
+      "id": "ambiente",
+      "title": "Ambiente e clima"
+    },
+    {
+      "description": "Scuola, università, sanità e diritti.",
+      "id": "societa",
+      "title": "Società"
+    }
+  ]
+}

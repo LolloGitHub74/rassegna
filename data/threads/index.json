@@ -1,4 +1,41 @@
 {
+  "themes": [
+    {
+      "description": "Governo, Parlamento, partiti, nomine ed elezioni.",
+      "id": "politica",
+      "title": "Politica interna"
+    },
+    {
+      "description": "Manovra, industria, lavoro, banche e costo della vita.",
+      "id": "economia",
+      "title": "Economia e lavoro"
+    },
+    {
+      "description": "Cronaca, processi, decreti sicurezza e attacchi informatici.",
+      "id": "sicurezza",
+      "title": "Sicurezza e giustizia"
+    },
+    {
+      "description": "Conflitti, diplomazia e decisioni dell'Unione europea.",
+      "id": "esteri",
+      "title": "Politica estera"
+    },
+    {
+      "description": "Intelligenza artificiale, grandi aziende tech e innovazione.",
+      "id": "tech",
+      "title": "Tecnologia e AI"
+    },
+    {
+      "description": "Clima, maltempo, transizione energetica e inquinamento.",
+      "id": "ambiente",
+      "title": "Ambiente e clima"
+    },
+    {
+      "description": "Scuola, università, sanità e diritti.",
+      "id": "societa",
+      "title": "Società"
+    }
+  ],
   "threads": [
     {
       "count": 5,
@@ -7,6 +44,7 @@
       "id": "attacchi-informatici-italia",
       "last": "2026-11-10",
       "status": "aperto",
+      "theme": "sicurezza",
       "title": "Attacchi informatici all'Italia"
     },
     {
@@ -16,6 +54,7 @@
       "id": "ex-ilva",
       "last": "2026-11-10",
       "status": "aperto",
+      "theme": "economia",
       "title": "Ex Ilva"
     },
     {
@@ -25,6 +64,7 @@
       "id": "crisi-iran-usa",
       "last": "2026-11-10",
       "status": "aperto",
+      "theme": "esteri",
       "title": "Crisi tra Iran e Stati Uniti"
     },
     {
@@ -34,6 +74,7 @@
       "id": "quotazione-anthropic",
       "last": "2026-11-10",
       "status": "aperto",
+      "theme": "tech",
       "title": "La quotazione in Borsa di Anthropic"
     },
     {
@@ -43,6 +84,7 @@
       "id": "nomina-anac",
       "last": "2026-11-10",
       "status": "aperto",
+      "theme": "politica",
       "title": "La nomina all'Anac"
     },
     {
@@ -52,6 +94,7 @@
       "id": "centrosinistra-alleanza",
       "last": "2026-11-10",
       "status": "aperto",
+      "theme": "politica",
       "title": "Centrosinistra, verso un programma comune"
     },
     {
@@ -61,6 +104,7 @@
       "id": "caro-vita-bollette",
       "last": "2026-11-10",
       "status": "aperto",
+      "theme": "economia",
       "title": "Caro vita e bollette"
     },
     {
@@ -70,6 +114,7 @@
       "id": "strage-cracovia",
       "last": "2026-11-10",
       "status": "aperto",
+      "theme": "sicurezza",
       "title": "La strage di Cracovia"
     },
     {
@@ -79,6 +124,7 @@
       "id": "caso-nvidia-huang",
       "last": "2026-11-10",
       "status": "aperto",
+      "theme": "tech",
       "title": "Nvidia, il caso Huang"
     },
     {
@@ -88,6 +134,7 @@
       "id": "stadio-san-siro",
       "last": "2026-11-10",
       "status": "aperto",
+      "theme": "politica",
       "title": "Milano, il futuro di San Siro"
     },
     {
@@ -97,6 +144,7 @@
       "id": "manovra-2027",
       "last": "2026-11-09",
       "status": "aperto",
+      "theme": "economia",
       "title": "Manovra 2027"
     },
     {
@@ -106,6 +154,7 @@
       "id": "midterm-usa-2026",
       "last": "2026-11-09",
       "status": "aperto",
+      "theme": "esteri",
       "title": "Usa, le elezioni di metà mandato"
     },
     {
@@ -115,6 +164,7 @@
       "id": "sciopero-atm",
       "last": "2026-11-09",
       "status": "aperto",
+      "theme": "economia",
       "title": "Milano, lo sciopero Atm del 13 novembre"
     },
     {
@@ -124,6 +174,7 @@
       "id": "bolla-ai",
       "last": "2026-11-08",
       "status": "aperto",
+      "theme": "tech",
       "title": "AI e Borsa, il crollo dei titoli"
     },
     {
@@ -133,6 +184,7 @@
       "id": "allarmi-bomba-europa",
       "last": "2026-11-07",
       "status": "aperto",
+      "theme": "sicurezza",
       "title": "Falsi allarmi bomba in Europa"
     },
     {
@@ -142,6 +194,7 @@
       "id": "negoziati-ucraina",
       "last": "2026-11-07",
       "status": "aperto",
+      "theme": "esteri",
       "title": "Ucraina, i negoziati di pace"
     },
     {
@@ -151,6 +204,7 @@
       "id": "morti-sul-lavoro",
       "last": "2026-11-05",
       "status": "aperto",
+      "theme": "economia",
       "title": "Morti sul lavoro"
     }
   ]

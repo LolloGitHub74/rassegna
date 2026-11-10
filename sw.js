@@ -1,5 +1,5 @@
 // Rassegna service worker: app shell cache-first, data network-first.
-const SHELL = 'rassegna-shell-v3';
+const SHELL = 'rassegna-shell-v4';
 const DATA = 'rassegna-data';
 const SHELL_FILES = ['./', 'index.html', 'manifest.webmanifest', 'icons/icon-192.png', 'icons/icon-512.png', 'icons/apple-touch-icon.png'];
 

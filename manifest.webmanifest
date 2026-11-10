@@ -1,7 +1,7 @@
 {
   "name": "Rassegna quotidiana",
   "short_name": "Rassegna",
-  "description": "Le notizie del giorno: politica, Italia, esteri, tech e Milano.",
+  "description": "Le notizie del giorno divise per tema: politica, economia, sicurezza, esteri, tecnologia, ambiente e società.",
   "lang": "it",
   "start_url": "./",
   "scope": "./",

@@ -2,11 +2,12 @@
 """Ricostruisce i file dei filoni a partire dalle edizioni.
 
 Fonte di verità:
-  - data/threads.json      metadati dei filoni (titolo, riassunto, stato, collegati)
+  - data/themes.json       i temi (macro-categorie), nello stesso ordine delle sezioni
+  - data/threads.json      metadati dei filoni (titolo, riassunto, stato, tema, collegati)
   - data/AAAA-MM-GG.json   ogni notizia può avere "thread": {"id": ..., "added": ...}
 
 Genera (non modificarli a mano):
-  - data/threads/index.json   elenco dei filoni con conteggi e date
+  - data/threads/index.json   temi ed elenco dei filoni con conteggi e date
   - data/threads/<id>.json    linea del tempo di ogni filone
 
 Esce con codice 1 e un messaggio se trova incoerenze.
@@ -38,6 +39,13 @@ def write(path, obj):
 
 def main():
     errors = []
+    themes = load(os.path.join(DATA, "themes.json"))["themes"]
+    theme_ids = [t.get("id") for t in themes]
+    for t in themes:
+        if not ID_RE.match(t.get("id", "")) or not str(t.get("title", "")).strip():
+            errors.append(f"tema non valido: {t!r}")
+    if len(set(theme_ids)) != len(theme_ids):
+        errors.append("id tema duplicato in themes.json")
     meta = load(os.path.join(DATA, "threads.json"))["threads"]
     threads = {}
     for t in meta:
@@ -51,6 +59,8 @@ def main():
                 errors.append(f"{tid}: campo {k} vuoto")
         if t.get("status") not in STATUSES:
             errors.append(f"{tid}: status deve essere uno di {sorted(STATUSES)}")
+        if t.get("theme") not in theme_ids:
+            errors.append(f"{tid}: theme deve essere uno di {theme_ids}")
         if not DATE_RE.match(str(t.get("created", ""))):
             errors.append(f"{tid}: created non è una data AAAA-MM-GG")
         threads[tid] = t
@@ -103,6 +113,7 @@ def main():
             "related": related,
             "status": t["status"],
             "summary": t["summary"],
+            "theme": t["theme"],
             "title": t["title"],
         })
         index.append({
@@ -112,13 +123,14 @@ def main():
             "id": tid,
             "last": items[-1]["date"] if items else None,
             "status": t["status"],
+            "theme": t["theme"],
             "title": t["title"],
         })
         if not items:
             print(f"Avviso: il filone {tid} non ha ancora notizie")
     index.sort(key=lambda x: x["last"] or "", reverse=True)
     index.sort(key=lambda x: x["status"] != "aperto")
-    write(os.path.join(OUT, "index.json"), {"threads": index})
+    write(os.path.join(OUT, "index.json"), {"themes": themes, "threads": index})
 
     keep = {f"{tid}.json" for tid in threads} | {"index.json"}
     for name in os.listdir(OUT):

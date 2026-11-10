@@ -85,6 +85,17 @@ h2{font-size:13px;text-transform:uppercase;letter-spacing:.08em;color:var(--acce
 .trow b{font-family:Georgia,"Times New Roman",serif;font-size:17px;font-weight:600;display:block;margin-bottom:3px}
 .trow span{font-size:13px;color:var(--muted)}
 .intro{color:var(--muted);font-size:14.5px;margin:4px 0 0}
+.tgrid{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:16px}
+.tcard{display:flex;flex-direction:column;gap:4px;text-decoration:none;color:inherit;background:var(--card);
+  border:1px solid var(--line);border-top:3px solid var(--accent);border-radius:12px;padding:12px 13px;min-height:118px}
+.tcard b{font-family:Georgia,"Times New Roman",serif;font-size:17px;line-height:1.2}
+.tcard small{color:var(--muted);font-size:12.5px;line-height:1.35;flex:1}
+.tcard span{font-size:12.5px;font-weight:600;color:var(--chip-ink)}
+.tcard.quiet span{color:var(--muted);font-weight:400}
+details.arch{margin-top:18px}
+details.arch summary{cursor:pointer;color:var(--chip-ink);font-size:14px;padding:8px 0}
+details.arch .trow{opacity:.85}
+@media (max-width:340px){.tgrid{grid-template-columns:1fr}}
 footer{max-width:720px;margin:0 auto;padding:0 16px 30px;color:var(--muted);font-size:12px}
 </style>
 </head>
@@ -93,7 +104,7 @@ footer{max-width:720px;margin:0 auto;padding:0 16px 30px;color:var(--muted);font
   <div class="top">
     <h1><a href="#/">Rassegna<span>.</span></a></h1>
     <div class="nav">
-      <a class="navtxt" id="tolist" href="#/filoni">Filoni</a>
+      <a class="navtxt" id="tolist" href="#/temi">Temi</a>
       <button id="prev" aria-label="Edizione precedente">‹</button>
       <button id="next" aria-label="Edizione successiva">›</button>
     </div>
@@ -105,7 +116,7 @@ footer{max-width:720px;margin:0 auto;padding:0 16px 30px;color:var(--muted);font
 <footer id="foot"></footer>
 <script>
 (function(){
-  var dates=[], idx=0, current=null, threads={}, PENDING_DAYS=3;
+  var dates=[], idx=0, current=null, threads={}, themes=[], PENDING_DAYS=3, ACTIVE_DAYS=14;
   var $=function(id){return document.getElementById(id)};
   function esc(s){return String(s==null?'':s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]})}
   function safeUrl(u){return /^https:\/\//i.test(u||'')?u:'#'}
@@ -121,13 +132,16 @@ footer{max-width:720px;margin:0 auto;padding:0 16px 30px;color:var(--muted);font
   // Un collegamento resta "da verificare" per PENDING_DAYS giorni dalla sua creazione.
   function pending(added){return !!added && (toUTC(today())-toUTC(added))/864e5 < PENDING_DAYS}
   function pendTag(){return '<span class="pend" title="Collegamento creato in automatico, in attesa di controllo">da verificare</span>'}
+  // Un filone è "attivo" se è aperto e ha avuto notizie negli ultimi ACTIVE_DAYS giorni.
+  function active(t){return t.status==='aperto' && !!t.last && (toUTC(today())-toUTC(t.last))/864e5 <= ACTIVE_DAYS}
+  function themeOf(id){for(var i=0;i<themes.length;i++)if(themes[i].id===id)return themes[i];return null}
   function puntate(n){return n+(n===1?' puntata':' puntate')}
   function getJSON(u){return fetch(u,{cache:'no-cache'}).then(function(r){if(!r.ok)throw new Error(r.status);return r.json()})}
   function state(msg){$('main').innerHTML='<div class="state">'+esc(msg)+'</div>'}
   function setMode(mode){
     var ed=mode==='edition';
     ['prev','next','tabs','date'].forEach(function(id){$(id).classList.toggle('hidden',!ed)});
-    $('tolist').classList.toggle('hidden',mode==='list');
+    $('tolist').classList.toggle('hidden',mode==='themes');
     if(!ed)$('foot').textContent='';
   }
   function threadChip(th){
@@ -159,7 +173,9 @@ footer{max-width:720px;margin:0 auto;padding:0 16px 30px;color:var(--muted);font
   function renderThread(t){
     setMode('thread'); document.title=t.title+' · Rassegna';
     var items=t.items||[];
-    var html='<div class="crumb"><a href="#/">‹ Rassegna</a> · <a href="#/filoni">Tutti i filoni</a></div>'+
+    var th=themeOf(t.theme);
+    var html='<div class="crumb"><a href="#/">‹ Rassegna</a> · <a href="#/temi">Temi</a>'+
+      (th?' · <a href="#/tema/'+safeId(th.id)+'">'+esc(th.title)+'</a>':'')+'</div>'+
       '<h2 class="thtitle">'+esc(t.title)+'</h2><div class="thmeta"><span>'+(t.status==='chiuso'?'Concluso':'In corso')+
       ' · '+puntate(items.length)+(items.length?' · dal '+esc(fmtShort(items[0].date))+' al '+esc(fmtShort(items[items.length-1].date)):'')+
       '</span>'+(pending(t.created)?pendTag():'')+'</div>'+
@@ -183,24 +199,39 @@ footer{max-width:720px;margin:0 auto;padding:0 16px 30px;color:var(--muted);font
     }
     $('main').innerHTML=html;
   }
-  function renderList(){
-    setMode('list'); document.title='Filoni · Rassegna';
-    var all=Object.keys(threads).map(function(k){return threads[k]});
-    var html='<div class="crumb"><a href="#/">‹ Rassegna</a></div><h2 class="thtitle">Filoni</h2>'+
-      '<p class="intro">Le storie che durano più di un giorno, con tutte le puntate in ordine: per capire come si è arrivati a oggi.</p>';
-    [['aperto','In corso'],['chiuso','Conclusi']].forEach(function(g){
-      var list=all.filter(function(t){return t.status===g[0]});
-      if(!list.length)return;
-      html+='<h2>'+g[1]+'</h2>';
-      list.forEach(function(t){
-        html+='<a class="trow" href="#/filone/'+safeId(t.id)+'"><b>'+esc(t.title)+'</b><span>'+puntate(t.count)+
-          (t.first?' · dal '+esc(fmtShort(t.first))+' al '+esc(fmtShort(t.last)):'')+'</span> '+(pending(t.created)?pendTag():'')+'</a>';
-      });
+  function threadRow(t){
+    return '<a class="trow" href="#/filone/'+safeId(t.id)+'"><b>'+esc(t.title)+'</b><span>'+puntate(t.count)+
+      (t.first?' · dal '+esc(fmtShort(t.first))+' al '+esc(fmtShort(t.last)):'')+(t.status==='chiuso'?' · concluso':'')+
+      '</span> '+(pending(t.created)?pendTag():'')+'</a>';
+  }
+  function listOf(themeId){
+    return Object.keys(threads).map(function(k){return threads[k]})
+      .filter(function(t){return t.theme===themeId})
+      .sort(function(x,y){return (y.last||'').localeCompare(x.last||'')});
+  }
+  function renderThemes(){
+    setMode('themes'); document.title='Temi · Rassegna';
+    var html='<div class="crumb"><a href="#/">‹ Rassegna</a></div><h2 class="thtitle">Temi</h2>'+
+      '<p class="intro">Le storie che durano più di un giorno, divise per tema. Ogni storia raccoglie tutte le puntate in ordine, per capire come si è arrivati a oggi.</p><div class="tgrid">';
+    themes.forEach(function(th){
+      var n=listOf(th.id).filter(active).length;
+      html+='<a class="tcard'+(n?'':' quiet')+'" href="#/tema/'+safeId(th.id)+'"><b>'+esc(th.title)+'</b><small>'+esc(th.description)+
+        '</small><span>'+(n?(n===1?'1 storia in corso':n+' storie in corso'):'Nessuna storia in corso')+'</span></a>';
     });
-    if(!all.length) html+='<div class="empty">Nessun filone ancora.</div>';
+    $('main').innerHTML=html+'</div>';
+  }
+  function renderTheme(id){
+    var th=themeOf(id); if(!th){state('Tema non trovato.');return}
+    setMode('theme'); document.title=th.title+' · Rassegna';
+    var all=listOf(id), act=all.filter(active), old=all.filter(function(t){return !active(t)});
+    var html='<div class="crumb"><a href="#/">‹ Rassegna</a> · <a href="#/temi">Temi</a></div>'+
+      '<h2 class="thtitle">'+esc(th.title)+'</h2><p class="intro">'+esc(th.description)+'</p><h2>Storie in corso</h2>';
+    html+=act.length?act.map(threadRow).join(''):'<div class="empty">Nessuna storia in corso su questo tema.</div>';
+    if(old.length) html+='<details class="arch"><summary>Archivio: '+(old.length===1?'1 storia ferma o conclusa':old.length+' storie ferme o concluse')+'</summary>'+
+      old.map(threadRow).join('')+'</details>';
     $('main').innerHTML=html;
   }
-  function isRoute(){return /^#\/(filone\/|filoni$)/.test(location.hash)}
+  function isRoute(){return /^#\/(filone\/|tema\/|temi$|filoni$)/.test(location.hash)}
   function loadEdition(i){
     idx=i; state('Caricamento…');
     getJSON('data/'+dates[i]+'.json').then(function(doc){if(i!==idx)return;current=doc;if(!isRoute()){renderEdition(doc);window.scrollTo(0,0)}})
@@ -210,7 +241,9 @@ footer{max-width:720px;margin:0 auto;padding:0 16px 30px;color:var(--muted);font
     var m=(location.hash||'').match(/^#\/filone\/([a-z0-9-]+)$/);
     if(m){state('Caricamento…');var h=location.hash;getJSON('data/threads/'+m[1]+'.json').then(function(t){if(location.hash!==h)return;renderThread(t);window.scrollTo(0,0)})
       .catch(function(){if(location.hash===h)state('Filone non trovato o non disponibile offline.')});return}
-    if(location.hash==='#/filoni'){renderList();window.scrollTo(0,0);return}
+    var tm=(location.hash||'').match(/^#\/tema\/([a-z0-9-]+)$/);
+    if(tm){renderTheme(tm[1]);window.scrollTo(0,0);return}
+    if(location.hash==='#/temi'||location.hash==='#/filoni'){renderThemes();window.scrollTo(0,0);return}
     if(current)renderEdition(current);else if(dates.length)loadEdition(idx);
   }
   $('prev').onclick=function(){if(idx<dates.length-1)loadEdition(idx+1)};
@@ -221,7 +254,7 @@ footer{max-width:720px;margin:0 auto;padding:0 16px 30px;color:var(--muted);font
   });
   window.addEventListener('hashchange',route);
   var threadsReady=getJSON('data/threads/index.json')
-    .then(function(d){(d.threads||[]).forEach(function(t){threads[t.id]=t})}).catch(function(){});
+    .then(function(d){themes=d.themes||[];(d.threads||[]).forEach(function(t){threads[t.id]=t})}).catch(function(){});
   getJSON('data/index.json').then(function(d){
     dates=(d.dates||[]).slice().sort().reverse();
     return threadsReady.then(function(){
