@@ -46,6 +46,15 @@
       "summary": "Su richiesta italiana i ministri degli Esteri discutono della guerra ibrida; la Francia accusa i pasdaran iraniani, Tajani parla di hacker filorussi.",
       "title": "G7 di Parigi, gli attacchi hacker al centro: Tajani chiede unità",
       "url": "https://www.adnkronos.com/internazionale/esteri/attacchi-hacker-g7-parigi-focus-oggi_2bl18RGG8kAYew59t1o03w"
+    },
+    {
+      "added": "2026-11-11",
+      "date": "2026-11-11",
+      "section": "Sicurezza e giustizia",
+      "source": "ANSA",
+      "summary": "Dopo due ore di Comitato per la sicurezza: per gli inquirenti gli attacchi puntano a destabilizzare il Paese con allarmi infondati. Più coordinamento tra le forze.",
+      "title": "Attacchi hacker, il Viminale rafforza il monitoraggio dei sistemi vulnerabili",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/10/rafforzare-il-monitoraggio-dei-sistemi-di-sicurezza-vulnerabili-dopo-gli-attacchi-hacker_a69e29d7-22a9-40af-b259-21470a0b0e46.html"
     }
   ],
   "related": [
@@ -55,7 +64,7 @@
     }
   ],
   "status": "aperto",
-  "summary": "Da inizio novembre una serie di attacchi informatici colpisce l'Italia: prima i sistemi di refrigerazione dei supermercati, poi la società della galleria del Brennero e una «taglia» filorussa sui dati del ministro Tajani. Il Viminale ha convocato il Comitato per la sicurezza e l'Italia ha portato il tema al G7 di Parigi, dove la Francia accusa l'Iran.",
+  "summary": "Da inizio novembre una serie di attacchi informatici colpisce l'Italia: i sistemi di refrigerazione dei supermercati, la società della galleria del Brennero, una «taglia» filorussa sui dati del ministro Tajani. L'Italia ha portato il tema al G7 di Parigi; il Comitato per la sicurezza al Viminale ha deciso di rafforzare il monitoraggio dei sistemi più vulnerabili.",
   "theme": "sicurezza",
   "title": "Attacchi informatici all'Italia"
 }

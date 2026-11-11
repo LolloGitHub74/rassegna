@@ -38,14 +38,54 @@
   ],
   "threads": [
     {
-      "count": 5,
+      "count": 13,
+      "created": "2026-11-09",
+      "first": "2026-11-03",
+      "id": "manovra-2027",
+      "last": "2026-11-11",
+      "status": "aperto",
+      "theme": "economia",
+      "title": "Manovra 2027"
+    },
+    {
+      "count": 6,
       "created": "2026-11-09",
       "first": "2026-11-03",
       "id": "attacchi-informatici-italia",
-      "last": "2026-11-10",
+      "last": "2026-11-11",
       "status": "aperto",
       "theme": "sicurezza",
       "title": "Attacchi informatici all'Italia"
+    },
+    {
+      "count": 6,
+      "created": "2026-11-09",
+      "first": "2026-11-04",
+      "id": "negoziati-ucraina",
+      "last": "2026-11-11",
+      "status": "aperto",
+      "theme": "esteri",
+      "title": "Ucraina, i negoziati di pace"
+    },
+    {
+      "count": 4,
+      "created": "2026-11-09",
+      "first": "2026-11-03",
+      "id": "quotazione-anthropic",
+      "last": "2026-11-11",
+      "status": "aperto",
+      "theme": "tech",
+      "title": "La quotazione in Borsa di Anthropic"
+    },
+    {
+      "count": 1,
+      "created": "2026-11-11",
+      "first": "2026-11-11",
+      "id": "maltempo-novembre-2026",
+      "last": "2026-11-11",
+      "status": "aperto",
+      "theme": "ambiente",
+      "title": "Maltempo di novembre"
     },
     {
       "count": 4,
@@ -66,16 +106,6 @@
       "status": "aperto",
       "theme": "esteri",
       "title": "Crisi tra Iran e Stati Uniti"
-    },
-    {
-      "count": 3,
-      "created": "2026-11-09",
-      "first": "2026-11-03",
-      "id": "quotazione-anthropic",
-      "last": "2026-11-10",
-      "status": "aperto",
-      "theme": "tech",
-      "title": "La quotazione in Borsa di Anthropic"
     },
     {
       "count": 3,
@@ -138,16 +168,6 @@
       "title": "Milano, il futuro di San Siro"
     },
     {
-      "count": 9,
-      "created": "2026-11-09",
-      "first": "2026-11-03",
-      "id": "manovra-2027",
-      "last": "2026-11-09",
-      "status": "aperto",
-      "theme": "economia",
-      "title": "Manovra 2027"
-    },
-    {
       "count": 5,
       "created": "2026-11-09",
       "first": "2026-11-03",
@@ -186,16 +206,6 @@
       "status": "aperto",
       "theme": "sicurezza",
       "title": "Falsi allarmi bomba in Europa"
-    },
-    {
-      "count": 5,
-      "created": "2026-11-09",
-      "first": "2026-11-04",
-      "id": "negoziati-ucraina",
-      "last": "2026-11-07",
-      "status": "aperto",
-      "theme": "esteri",
-      "title": "Ucraina, i negoziati di pace"
     },
     {
       "count": 2,

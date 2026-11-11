@@ -1,0 +1,160 @@
+{
+  "date": "2026-11-11",
+  "sections": [
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "Tajani e Salvini chiedono a Meloni un incontro per decidere quali correzioni alla legge di bilancio valutare. Non c'è ancora una data.",
+          "thread": {
+            "added": "2026-11-11",
+            "id": "manovra-2027"
+          },
+          "title": "Manovra, verso un nuovo vertice di maggioranza sulle modifiche",
+          "url": "https://www.ansa.it/sito/notizie/politica/2026/11/10/verso-un-nuovo-vertice-maggioranza-sulla-manovra-per-fare-il-punto-sulle_5a86a332-6d2c-420b-aeb5-6bd2eb586258.html"
+        }
+      ],
+      "key": "politica",
+      "title": "Politica interna"
+    },
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "In audizione sulla legge di bilancio l'associazione delle banche ricorda il peso delle misure già prese sul settore dal 2025 a oggi.",
+          "thread": {
+            "added": "2026-11-11",
+            "id": "manovra-2027"
+          },
+          "title": "Manovra, l'Abi: «Sulle banche 22 miliardi di misure fiscali dal 2025»",
+          "url": "https://ansa.it/sito/notizie/politica/2026/11/10/labi-sulle-banche-dal-2025-misure-fiscali-per-22-miliardi-di-euro_c2e7ae7d-cb17-4bcb-80d1-2c3b67244d5f.html"
+        },
+        {
+          "source": "ANSA",
+          "summary": "Emendamenti di maggioranza e opposizione al ddl concorrenza chiedono di permettere le promozioni nei giorni prima dei saldi; in arrivo anche una stretta sul telemarketing.",
+          "title": "Commercio, spinta bipartisan per gli sconti liberi anche prima dei saldi",
+          "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/10/sconti-liberi-anche-prima-dei-saldi-spinta-bipartisan-in-parlamento_f0234c9f-550e-4c0a-b10c-1786fe7da132.html"
+        }
+      ],
+      "key": "economia",
+      "title": "Economia e lavoro"
+    },
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "Dopo due ore di Comitato per la sicurezza: per gli inquirenti gli attacchi puntano a destabilizzare il Paese con allarmi infondati. Più coordinamento tra le forze.",
+          "thread": {
+            "added": "2026-11-11",
+            "id": "attacchi-informatici-italia"
+          },
+          "title": "Attacchi hacker, il Viminale rafforza il monitoraggio dei sistemi vulnerabili",
+          "update": true,
+          "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/10/rafforzare-il-monitoraggio-dei-sistemi-di-sicurezza-vulnerabili-dopo-gli-attacchi-hacker_a69e29d7-22a9-40af-b259-21470a0b0e46.html"
+        },
+        {
+          "source": "ANSA",
+          "summary": "Annullata con rinvio la condanna a 9 anni e mezzo per le morti da amianto di Casale Monferrato; prescritti 25 casi. Delusione tra le parti civili.",
+          "title": "Eternit, la Cassazione dispone un nuovo processo d'appello per Schmidheiny",
+          "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/10/eternit-disposto-nuovo-processo-di-appello-per-schmidheiny_9dfd62e0-995f-4129-9cf1-3a6a6a33ce01.html"
+        },
+        {
+          "source": "ANSA",
+          "summary": "Inchiesta della procura di Napoli sulla corruzione negli appalti della sanità: tredici persone raggiunte da misure cautelari.",
+          "title": "Sanità in Campania, arrestato il responsabile degli appalti regionali",
+          "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/10/in-manette-il-numero-1-degli-appalti-della-sanita-in-campania_8c3d9e11-7107-44b2-91db-c7410fcf6426.html"
+        }
+      ],
+      "key": "sicurezza",
+      "title": "Sicurezza e giustizia"
+    },
+    {
+      "items": [
+        {
+          "source": "Teleborsa",
+          "summary": "Quattro ore e mezza di trattative a porte chiuse su garanzie di sicurezza e dopoguerra; oggi si riprende. Zelensky parla di dialogo costruttivo.",
+          "thread": {
+            "added": "2026-11-11",
+            "id": "negoziati-ucraina"
+          },
+          "title": "Ucraina, primo giorno di colloqui con Usa e Russia ad Abu Dhabi",
+          "url": "https://teleborsa.ansa.it/notiziario/economia/ucraina-finito-il-primo-giorno-di-colloqui-con-usa-e-russia-ad-abu-dhabi-si-riprende-domani/"
+        },
+        {
+          "source": "Dire",
+          "summary": "Dopo i nubifragi del 7-8 novembre le organizzazioni umanitarie chiedono a Israele di aprire i valichi a tende invernali e prefabbricati.",
+          "title": "Gaza, l'alluvione travolge le tende degli sfollati: le ong chiedono case",
+          "url": "https://www.dire.it/10-11-2026/1287368-la-testimonianza-da-gaza-colpita-da-alluvione-gli-sfollati-usano-i-rifiuti-come-riparo/"
+        }
+      ],
+      "key": "esteri",
+      "title": "Politica estera"
+    },
+    {
+      "items": [
+        {
+          "source": "TechCrunch",
+          "summary": "Partito il roadshow: 825 milioni di azioni in vendita, prezzo fissato il 18 novembre e debutto al Nasdaq il 19. Valutazione sotto le attese di qualche settimana fa.",
+          "thread": {
+            "added": "2026-11-11",
+            "id": "quotazione-anthropic"
+          },
+          "title": "Anthropic, prezzo tra 70 e 78 dollari: vale fino a 1.400 miliardi",
+          "update": true,
+          "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
+        },
+        {
+          "source": "ANSA",
+          "summary": "La Commissione europea aggiorna le linee guida per piattaforme digitali e intelligenza artificiale in vista delle elezioni: si può partecipare fino al 23 novembre.",
+          "title": "Ue, consultazione sulle regole contro i rischi elettorali online",
+          "url": "https://ansa.it/europa/notizie/rubriche/altrenews/2026/11/10/al-via-consultazione-ue-per-aggiornare-linee-guida-su-rischi-elettorali-online_5fb04015-9c51-4cf3-b130-d35c3e4d496d.html"
+        }
+      ],
+      "key": "tech",
+      "title": "Tecnologia e AI"
+    },
+    {
+      "items": [
+        {
+          "source": "Sky TG24",
+          "summary": "Piogge, vento forte e neve in montagna; la fase più intensa è attesa tra giovedì e venerdì, con oltre 200 millimetri tra Liguria di Levante e Alta Toscana.",
+          "thread": {
+            "added": "2026-11-11",
+            "id": "maltempo-novembre-2026"
+          },
+          "title": "Maltempo, tempesta atlantica sull'Italia: nubifragi fino a sabato",
+          "url": "https://tg24.sky.it/cronaca/2026/11/10/tempesta-atlantica-nubifragi-maltempo-previsioni-meteo"
+        }
+      ],
+      "key": "ambiente",
+      "title": "Ambiente e clima"
+    },
+    {
+      "items": [
+        {
+          "source": "Sky TG24",
+          "summary": "Cisl, Uil, Snals e Anief in piazza Vidoni a Roma contro i tagli al personale; il 16 assemblee nelle scuole e il 20 lo sciopero della Flc Cgil.",
+          "thread": {
+            "added": "2026-11-11",
+            "id": "manovra-2027"
+          },
+          "title": "Scuola, oggi il sit-in dei sindacati contro i tagli della manovra",
+          "url": "https://tg24.sky.it/cronaca/2026/11/05/tagli-scuola-sit-in-protesta-11-movembre"
+        },
+        {
+          "source": "ANSA",
+          "summary": "Manifestazione unitaria a Roma «per difendere il diritto alla cura e il futuro del Servizio sanitario nazionale», contro le scelte della manovra.",
+          "thread": {
+            "added": "2026-11-11",
+            "id": "manovra-2027"
+          },
+          "title": "Sanità, medici e studenti insieme in piazza il 5 dicembre",
+          "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/10/medici-e-studenti-uniti-per-la-sanita-il-5-dicembre-in-piazza_f0ee4eeb-dc12-4f70-91da-79dace74b2bb.html"
+        }
+      ],
+      "key": "societa",
+      "title": "Società"
+    }
+  ],
+  "updatedAt": "2026-11-11T06:43:20+01:00"
+}
