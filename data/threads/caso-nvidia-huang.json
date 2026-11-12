@@ -19,6 +19,15 @@
       "summary": "Il titolo scivola dopo l'inchiesta interna sulla relazione del Ceo con una presunta spia cinese. Pechino nega, Trump difende Huang.",
       "title": "Nvidia perde il 4,4% a Wall Street dopo l'indagine su Huang",
       "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/09/scandalo-nvidia-il-cda-apre-unindagine-sullaffaire-del-ceo-con-una_b836320f-e2c1-45f4-afe6-4a8f097fa5b6.html"
+    },
+    {
+      "added": "2026-11-12",
+      "date": "2026-11-12",
+      "section": "Tecnologia e AI",
+      "source": "U.S. News",
+      "summary": "Trump conferma l'indagine dell'Fbi ma difende il capo di Nvidia; tre commissioni della Camera lo convocano a porte chiuse il 18 novembre.",
+      "title": "Caso Huang, l'Fbi indaga e il Congresso chiede un'audizione",
+      "url": "https://www.usnews.com/news/national-news/articles/2026-11-10/nvidia-ceo-jensen-huang-faces-scrutiny-over-alleged-spy-ties"
     }
   ],
   "related": [
@@ -28,7 +37,7 @@
     }
   ],
   "status": "aperto",
-  "summary": "Il consiglio di Nvidia ha aperto un'indagine indipendente dopo che il Ceo Jensen Huang ha ammesso una relazione con una manager ritenuta dall'intelligence Usa una spia cinese. Huang resta al suo posto, ma il titolo è sceso a Wall Street.",
+  "summary": "Il consiglio di Nvidia ha aperto un'indagine dopo che il Ceo Jensen Huang ha ammesso una relazione con una manager ritenuta una spia cinese. Indaga anche l'Fbi e tre commissioni della Camera Usa lo hanno convocato; Trump lo difende. Il titolo è sceso a Wall Street.",
   "theme": "tech",
   "title": "Nvidia, il caso Huang"
 }

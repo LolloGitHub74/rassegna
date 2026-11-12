@@ -1,0 +1,122 @@
+{
+  "date": "2026-11-12",
+  "sections": [
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "Pd, M5S e Avs accettano l'invito a Palazzo Chigi, ma chiedono che la premier riferisca in Aula. Il governo: il calendario scolastico non cambierà.",
+          "thread": {
+            "added": "2026-11-12",
+            "id": "allarmi-bomba-europa"
+          },
+          "title": "Allarmi nelle scuole, Meloni convoca i leader dell'opposizione",
+          "url": "https://ansa.it/sito/notizie/politica/2026/11/11/non-cambieranno-il-calendario-delle-scuole-e-meloni-chiama-le-opposizioni_777ad9b7-5940-4f12-a318-bab5b8c213c7.html"
+        },
+        {
+          "source": "Il Sole 24 Ore",
+          "summary": "Nessun candidato raggiunge il quorum dei tre quinti: il centrodestra vota scheda bianca, le opposizioni protestano. Data del terzo scrutinio da fissare.",
+          "title": "Csm, seconda fumata nera in Parlamento per i dieci membri laici",
+          "url": "https://ntplusdiritto.ilsole24ore.com/art/csm-parlamento-nuova-fumata-nera-i-laici-AJinUzCC"
+        }
+      ],
+      "key": "politica",
+      "title": "Politica interna"
+    },
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "Le previsioni indicano anche una disoccupazione in calo al 6% quest'anno, con l'occupazione che cresce più lentamente.",
+          "title": "Istat, il Pil cresce dello 0,9% nel 2026 e rallenta allo 0,6% nel 2027",
+          "url": "https://www.ansa.it/sito/notizie/economia/aziende/2026/11/11/nel-2026-il-pil-09-scende-a-06-lanno-prossimo_1cdb337a-67bc-484f-9ac1-be18d2a68df2.html"
+        }
+      ],
+      "key": "economia",
+      "title": "Economia e lavoro"
+    },
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "Evacuazioni e controlli in centinaia di istituti, nessun pericolo concreto. Meloni parla di una «strategia per il caos» per spaventare il Paese.",
+          "thread": {
+            "added": "2026-11-12",
+            "id": "allarmi-bomba-europa"
+          },
+          "title": "«Vi annienteremo», mail con allarme bomba a circa 6.000 scuole",
+          "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/11/vi-annienteremo-lallarme-bomba-in-6.000-scuole-italiane.-meloni-strategia-per-il-caos_870b0024-72d2-4b15-bab5-0c74dcc1d653.html"
+        }
+      ],
+      "key": "sicurezza",
+      "title": "Sicurezza e giustizia"
+    },
+    {
+      "items": [
+        {
+          "source": "Il Fatto Quotidiano",
+          "summary": "Chiusi i colloqui con un accordo di principio su uno scambio su larga scala, nessun passo avanti su tregua e territori. Kushner e Witkoff ora vedranno Putin e Zelensky.",
+          "thread": {
+            "added": "2026-11-12",
+            "id": "negoziati-ucraina"
+          },
+          "title": "Ucraina, a Abu Dhabi intesa sullo scambio di prigionieri",
+          "update": true,
+          "url": "https://www.ilfattoquotidiano.it/2026/11/11/negoziati-russia-ucraina-abu-dhabi-progressi-notizie/8568320/"
+        }
+      ],
+      "key": "esteri",
+      "title": "Politica estera"
+    },
+    {
+      "items": [
+        {
+          "source": "U.S. News",
+          "summary": "Trump conferma l'indagine dell'Fbi ma difende il capo di Nvidia; tre commissioni della Camera lo convocano a porte chiuse il 18 novembre.",
+          "thread": {
+            "added": "2026-11-12",
+            "id": "caso-nvidia-huang"
+          },
+          "title": "Caso Huang, l'Fbi indaga e il Congresso chiede un'audizione",
+          "url": "https://www.usnews.com/news/national-news/articles/2026-11-10/nvidia-ceo-jensen-huang-faces-scrutiny-over-alleged-spy-ties"
+        }
+      ],
+      "key": "tech",
+      "title": "Tecnologia e AI"
+    },
+    {
+      "items": [
+        {
+          "source": "MeteoWeb",
+          "summary": "Piogge torrenziali e venti di burrasca al Centro-Nord: oggi la fase più intensa, scuole chiuse in alcune città del Levante ligure.",
+          "thread": {
+            "added": "2026-11-12",
+            "id": "maltempo-novembre-2026"
+          },
+          "title": "Maltempo, allerta rossa in Toscana e arancione in Liguria ed Emilia",
+          "update": true,
+          "url": "https://www.meteoweb.eu/2026/11/allerta-meteo-protezione-civile-12-novembre-piogge-torrenziali-al-centro-nord-e-venti-di-burrasca-allarme-rosso-in-una-regione-arancione-in-altre-2/1002002166/"
+        }
+      ],
+      "key": "ambiente",
+      "title": "Ambiente e clima"
+    },
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "Gli assessori regionali dicono che le risorse previste dalla manovra non bastano a mantenere le prestazioni offerte quest'anno.",
+          "thread": {
+            "added": "2026-11-12",
+            "id": "manovra-2027"
+          },
+          "title": "Sanità, le Regioni: «Con questi fondi non garantiamo i servizi del 2026»",
+          "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/11/regionicon-i-dati-che-abbiamo-non-riusciamo-a-garantire-quanto-fatto-nel_e426ad4a-4347-422b-8c58-e1321dca9faa.html"
+        }
+      ],
+      "key": "societa",
+      "title": "Società"
+    }
+  ],
+  "updatedAt": "2026-11-12T06:44:17+01:00"
+}

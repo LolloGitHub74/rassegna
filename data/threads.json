@@ -29,9 +29,9 @@
         "attacchi-informatici-italia"
       ],
       "status": "aperto",
-      "summary": "Falsi allarmi bomba via mail hanno colpito decine di voli in Europa, anche italiani, e poi redazioni a Dublino alla vigilia del vertice Ue. Crosetto parla di «minacce ibride», il premier irlandese di minacce «coordinate»; in Italia indaga l'Antiterrorismo.",
+      "summary": "Da inizio novembre falsi allarmi bomba via mail colpiscono voli in Europa, redazioni a Dublino e, l'11 novembre, circa 6.000 scuole italiane. Crosetto parla di «minacce ibride», Meloni di una «strategia per il caos» e ha convocato i leader dell'opposizione; indaga l'Antiterrorismo.",
       "theme": "sicurezza",
-      "title": "Falsi allarmi bomba in Europa"
+      "title": "Falsi allarmi bomba"
     },
     {
       "created": "2026-11-09",
@@ -70,7 +70,7 @@
       "id": "negoziati-ucraina",
       "related": [],
       "status": "aperto",
-      "summary": "Russi e ucraini si sono incontrati alla Casa Bianca e Trump si dice «molto vicino» a un accordo. Zelensky esclude un contatto diretto con Putin. Meloni chiede che l'Ue nomini un proprio negoziatore e Costa porta la proposta al vertice di Dublino.",
+      "summary": "Russi e ucraini si sono incontrati alla Casa Bianca e poi ad Abu Dhabi con la mediazione Usa: c'è un'intesa di principio su un grande scambio di prigionieri, ma nessun passo avanti su tregua e territori. Meloni chiede che l'Ue nomini un proprio negoziatore.",
       "theme": "esteri",
       "title": "Ucraina, i negoziati di pace"
     },
@@ -161,7 +161,7 @@
         "bolla-ai"
       ],
       "status": "aperto",
-      "summary": "Il consiglio di Nvidia ha aperto un'indagine indipendente dopo che il Ceo Jensen Huang ha ammesso una relazione con una manager ritenuta dall'intelligence Usa una spia cinese. Huang resta al suo posto, ma il titolo è sceso a Wall Street.",
+      "summary": "Il consiglio di Nvidia ha aperto un'indagine dopo che il Ceo Jensen Huang ha ammesso una relazione con una manager ritenuta una spia cinese. Indaga anche l'Fbi e tre commissioni della Camera Usa lo hanno convocato; Trump lo difende. Il titolo è sceso a Wall Street.",
       "theme": "tech",
       "title": "Nvidia, il caso Huang"
     },
@@ -179,7 +179,7 @@
       "id": "maltempo-novembre-2026",
       "related": [],
       "status": "aperto",
-      "summary": "A novembre una serie di perturbazioni atlantiche porta piogge intense, vento forte e allerte in diverse regioni, soprattutto sul versante tirrenico e al Nord.",
+      "summary": "A novembre una serie di perturbazioni atlantiche porta piogge intense, vento forte e allerte in diverse regioni. Il 12 novembre allerta rossa in Toscana e arancione in Liguria ed Emilia-Romagna, con scuole chiuse in alcune città.",
       "theme": "ambiente",
       "title": "Maltempo di novembre"
     }
