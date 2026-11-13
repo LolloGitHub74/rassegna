@@ -38,6 +38,46 @@
   ],
   "threads": [
     {
+      "count": 6,
+      "created": "2026-11-09",
+      "first": "2026-11-06",
+      "id": "allarmi-bomba-europa",
+      "last": "2026-11-13",
+      "status": "aperto",
+      "theme": "sicurezza",
+      "title": "Falsi allarmi bomba"
+    },
+    {
+      "count": 8,
+      "created": "2026-11-09",
+      "first": "2026-11-04",
+      "id": "negoziati-ucraina",
+      "last": "2026-11-13",
+      "status": "aperto",
+      "theme": "esteri",
+      "title": "Ucraina, i negoziati di pace"
+    },
+    {
+      "count": 5,
+      "created": "2026-11-09",
+      "first": "2026-11-03",
+      "id": "caro-vita-bollette",
+      "last": "2026-11-13",
+      "status": "aperto",
+      "theme": "economia",
+      "title": "Caro vita e bollette"
+    },
+    {
+      "count": 3,
+      "created": "2026-11-11",
+      "first": "2026-11-11",
+      "id": "maltempo-novembre-2026",
+      "last": "2026-11-13",
+      "status": "aperto",
+      "theme": "ambiente",
+      "title": "Maltempo di novembre"
+    },
+    {
       "count": 14,
       "created": "2026-11-09",
       "first": "2026-11-03",
@@ -48,26 +88,6 @@
       "title": "Manovra 2027"
     },
     {
-      "count": 5,
-      "created": "2026-11-09",
-      "first": "2026-11-06",
-      "id": "allarmi-bomba-europa",
-      "last": "2026-11-12",
-      "status": "aperto",
-      "theme": "sicurezza",
-      "title": "Falsi allarmi bomba"
-    },
-    {
-      "count": 7,
-      "created": "2026-11-09",
-      "first": "2026-11-04",
-      "id": "negoziati-ucraina",
-      "last": "2026-11-12",
-      "status": "aperto",
-      "theme": "esteri",
-      "title": "Ucraina, i negoziati di pace"
-    },
-    {
       "count": 3,
       "created": "2026-11-10",
       "first": "2026-11-09",
@@ -76,16 +96,6 @@
       "status": "aperto",
       "theme": "tech",
       "title": "Nvidia, il caso Huang"
-    },
-    {
-      "count": 2,
-      "created": "2026-11-11",
-      "first": "2026-11-11",
-      "id": "maltempo-novembre-2026",
-      "last": "2026-11-12",
-      "status": "aperto",
-      "theme": "ambiente",
-      "title": "Maltempo di novembre"
     },
     {
       "count": 6,
@@ -146,16 +156,6 @@
       "status": "aperto",
       "theme": "politica",
       "title": "Centrosinistra, verso un programma comune"
-    },
-    {
-      "count": 4,
-      "created": "2026-11-09",
-      "first": "2026-11-03",
-      "id": "caro-vita-bollette",
-      "last": "2026-11-10",
-      "status": "aperto",
-      "theme": "economia",
-      "title": "Caro vita e bollette"
     },
     {
       "count": 2,

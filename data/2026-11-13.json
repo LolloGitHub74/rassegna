@@ -1,0 +1,114 @@
+{
+  "date": "2026-11-13",
+  "sections": [
+    {
+      "items": [
+        {
+          "source": "AGI",
+          "summary": "Meloni chiede unità: «Sulla sicurezza non c'è maggioranza o opposizione». Le opposizioni chiedono comunque che il governo riferisca in Parlamento.",
+          "thread": {
+            "added": "2026-11-13",
+            "id": "allarmi-bomba-europa"
+          },
+          "title": "Allarmi nelle scuole, vertice tra Meloni e le opposizioni a Palazzo Chigi",
+          "update": true,
+          "url": "https://www.agi.it/politica/news/2026-11-12/scuole-allarmi-bomba-vertice-governo-opposizioni-39992328/"
+        }
+      ],
+      "key": "politica",
+      "title": "Politica interna"
+    },
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "Cgil, Cisl, Uil e tredici associazioni di imprese, da Confindustria a Confcommercio, siglano un accordo su chi rappresenta i lavoratori e sui salari.",
+          "title": "Lavoro, sindacati e imprese firmano l'intesa su rappresentanza e contratti",
+          "url": "https://www.ansa.it/sito/notizie/economia/2026/11/12/imprese-sindacati-siglata-lintesa-su-rappresentanza-e-contratti_393c99df-924d-49cb-9d28-29501660ca00.html"
+        },
+        {
+          "source": "ANSA",
+          "summary": "Il Fondo monetario riconosce «progressi impressionanti» sul debito e prevede il deficit al 3% del Pil, ma chiede coperture per gli aiuti sulle bollette.",
+          "thread": {
+            "added": "2026-11-13",
+            "id": "caro-vita-bollette"
+          },
+          "title": "Fmi all'Italia: compensare ogni misura contro il caro energia",
+          "url": "https://www.ansa.it/sito/notizie/economia/2026/11/12/fmi-litalia-compensi-ogni-nuova-misura-contro-il-caro-energia_16fb5af7-a799-443b-bd68-178aa771e8d3.html"
+        }
+      ],
+      "key": "economia",
+      "title": "Economia e lavoro"
+    },
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "Il Ros esegue perquisizioni disposte dalla procura di Caltanissetta nell'inchiesta sulla strage di via D'Amelio e sulla scomparsa dell'agenda.",
+          "title": "Agenda rossa di Borsellino, perquisizioni all'ex capo della Polizia De Gennaro",
+          "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/12/lagenda-rossa-di-borsellino-perquisizioni-allex-capo-della-polizia-de-gennaro_4f725d2f-4016-4316-9cbb-d99677d42f7c.html"
+        },
+        {
+          "source": "ANSA",
+          "summary": "Il Riesame di Ancona conferma la custodia nell'inchiesta su appalti truccati e infiltrazioni mafiose; tra gli arrestati l'ex capo di gabinetto della Regione.",
+          "title": "Ricostruzione post-sisma nelle Marche, restano in carcere sei arrestati",
+          "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/12/inchiesta-sisma-il-riesame-conferma-la-custodia-in-carcere-per-6-arrestati_df83e9b1-1075-4056-a6d8-13da27f47a34.html"
+        }
+      ],
+      "key": "sicurezza",
+      "title": "Sicurezza e giustizia"
+    },
+    {
+      "items": [
+        {
+          "source": "Il Fatto Quotidiano",
+          "summary": "Gli inviati di Trump a Mosca dopo Abu Dhabi propongono un nuovo accordo di sicurezza europeo e un tavolo con l'Ue; poi andranno da Zelensky a Dublino.",
+          "thread": {
+            "added": "2026-11-13",
+            "id": "negoziati-ucraina"
+          },
+          "title": "Ucraina, Witkoff e Kushner da Putin: gli Usa chiedono un patto per l'Europa",
+          "update": true,
+          "url": "https://www.ilfattoquotidiano.it/2026/11/12/witkoff-kushner-putin-mosca-accordo-sicurezza-notizie/8568930/"
+        }
+      ],
+      "key": "esteri",
+      "title": "Politica estera"
+    },
+    {
+      "items": [
+        {
+          "source": "Law360",
+          "summary": "Alcune organizzazioni non profit chiedono a un tribunale della California di bloccare lo sviluppo di un'intelligenza artificiale che possa sfuggire al controllo umano.",
+          "title": "AI, causa contro OpenAI, Anthropic, Google e Meta per fermare i modelli avanzati",
+          "url": "https://law360.com/articles/2549592/anthropic-openai-face-suit-to-halt-insane-ai-development"
+        }
+      ],
+      "key": "tech",
+      "title": "Tecnologia e AI"
+    },
+    {
+      "items": [
+        {
+          "source": "AGI",
+          "summary": "Esondazioni a Massa e La Spezia, strade chiuse e frazioni isolate; a Ventimiglia la piena del Roja travolge migranti accampati nel letto del fiume.",
+          "thread": {
+            "added": "2026-11-13",
+            "id": "maltempo-novembre-2026"
+          },
+          "title": "Maltempo, fiumi esondati e frane tra Toscana e Liguria: dispersi a Ventimiglia",
+          "update": true,
+          "url": "https://www.agi.it/cronaca/news/2026-11-12/maltempo-toscana-liguria-39993599/"
+        }
+      ],
+      "key": "ambiente",
+      "title": "Ambiente e clima"
+    },
+    {
+      "items": [],
+      "key": "societa",
+      "title": "Società"
+    }
+  ],
+  "updatedAt": "2026-11-13T06:43:33+01:00"
+}
