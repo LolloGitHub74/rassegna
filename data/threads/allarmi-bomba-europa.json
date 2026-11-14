@@ -55,6 +55,15 @@
       "summary": "Meloni chiede unità: «Sulla sicurezza non c'è maggioranza o opposizione». Le opposizioni chiedono comunque che il governo riferisca in Parlamento.",
       "title": "Allarmi nelle scuole, vertice tra Meloni e le opposizioni a Palazzo Chigi",
       "url": "https://www.agi.it/politica/news/2026-11-12/scuole-allarmi-bomba-vertice-governo-opposizioni-39992328/"
+    },
+    {
+      "added": "2026-11-14",
+      "date": "2026-11-14",
+      "section": "Sicurezza e giustizia",
+      "source": "ANSA",
+      "summary": "Una circolare di Piantedosi a prefetti e questori indica che le mail identiche inviate in massa non bastano a far evacuare scuole e uffici.",
+      "title": "Allarmi bomba, il Viminale: inattendibili le minacce via mail seriali",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/13/circolare-viminale-minaccia-inattendibile-se-attraverso-mail-bombing_ca1d2b9c-c7e2-4e00-afb9-6dccb59191fb.html"
     }
   ],
   "related": [
@@ -64,7 +73,7 @@
     }
   ],
   "status": "aperto",
-  "summary": "Da inizio novembre falsi allarmi bomba via mail colpiscono voli in Europa, redazioni a Dublino e, l'11 novembre, migliaia di scuole italiane. Meloni parla di «strategia per il caos» e ha incontrato i leader dell'opposizione chiedendo unità; indaga l'Antiterrorismo.",
+  "summary": "Da inizio novembre falsi allarmi bomba via mail colpiscono voli in Europa, redazioni a Dublino e, l'11 novembre, migliaia di scuole italiane. Meloni ha incontrato le opposizioni chiedendo unità e il Viminale ha stabilito che le mail seriali identiche vanno considerate inattendibili.",
   "theme": "sicurezza",
   "title": "Falsi allarmi bomba"
 }

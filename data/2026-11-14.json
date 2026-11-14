@@ -1,0 +1,140 @@
+{
+  "date": "2026-11-14",
+  "sections": [
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "L'amministratore delegato di Intesa Sanpaolo critica le norme sul settore bancario; la premier replica che le misure «non sono sudamericane».",
+          "thread": {
+            "added": "2026-11-14",
+            "id": "manovra-2027"
+          },
+          "title": "Manovra, scontro tra Meloni e Messina sulle banche",
+          "url": "https://www.ansa.it/sito/notizie/economia/2026/11/12/dal-governo-norme-sudamericane-e-scontro-messina-meloni_66cb92ca-cf90-4cae-a644-923b05b820c5.html"
+        }
+      ],
+      "key": "politica",
+      "title": "Politica interna"
+    },
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "L'agenzia mantiene il giudizio BBB+ con prospettive positive e vede una crescita sopra le attese. Il ministro dell'Economia Giorgetti: «È la strada giusta».",
+          "title": "S&P conferma il rating dell'Italia: «La crescita supererà le stime»",
+          "url": "https://www.ansa.it/sito/notizie/economia/2026/11/13/sp-conferma-il-rating-sullitalia-la-crescita-superera-le-stime.-giorgetti-e-la-strada-giusta_968a7f83-4609-47b6-b8c7-0b1ab287d3a7.html"
+        },
+        {
+          "source": "Adnkronos",
+          "summary": "Il governo apre a nuovi fondi per la sanità; Cisl e Uil apprezzano, la Cgil, senza Landini al tavolo, giudica l'incontro «politicamente inutile».",
+          "thread": {
+            "added": "2026-11-14",
+            "id": "manovra-2027"
+          },
+          "title": "Manovra, sindacati a Palazzo Chigi: la Cgil conferma lo sciopero del 20",
+          "url": "https://adnkronos.com/economia/manovra-stop-misure-scuola-cgil-sindacati-oggi_1FkIkC7Xv45JuMA59HHqlo"
+        }
+      ],
+      "key": "economia",
+      "title": "Economia e lavoro"
+    },
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "Una circolare di Piantedosi a prefetti e questori indica che le mail identiche inviate in massa non bastano a far evacuare scuole e uffici.",
+          "thread": {
+            "added": "2026-11-14",
+            "id": "allarmi-bomba-europa"
+          },
+          "title": "Allarmi bomba, il Viminale: inattendibili le minacce via mail seriali",
+          "update": true,
+          "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/13/circolare-viminale-minaccia-inattendibile-se-attraverso-mail-bombing_ca1d2b9c-c7e2-4e00-afb9-6dccb59191fb.html"
+        },
+        {
+          "source": "ANSA",
+          "summary": "La Corte d'Assise di Trento accoglie la revisione del processo: Monica Busetto, 75 anni, non uccise la vicina di casa.",
+          "title": "Delitto di Mestre, l'infermiera condannata a 25 anni torna libera",
+          "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/13/monica-busetto-linfermiera-condannata-a-25-anni-torna-libera-non-uccise-lei_8746d202-203b-435f-ac8d-c7ce3495b6fa.html"
+        },
+        {
+          "source": "ANSA",
+          "summary": "Rigettato il reclamo dei genitori, che chiedevano il ricongiungimento immediato con i tre figli. Il loro avvocato annuncia ricorso in Cassazione.",
+          "title": "Famiglia nel bosco, la Corte d'appello respinge il rientro dei bambini",
+          "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/13/pillon-rigettato-il-ricorso-della-famiglia-del-bosco.-no-al-rientro-definitivo-dei_796a5aab-263b-44ce-aa32-966d9dec0e04.html"
+        }
+      ],
+      "key": "sicurezza",
+      "title": "Sicurezza e giustizia"
+    },
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "Al vertice informale Ue si decide un team negoziale europeo che affiancherà gli Usa; entro due settimane la scelta di chi rappresenterà l'Europa.",
+          "thread": {
+            "added": "2026-11-14",
+            "id": "negoziati-ucraina"
+          },
+          "title": "Ucraina, nasce il «formato di Dublino»: l'Italia nel gruppo E5",
+          "update": true,
+          "url": "https://www.ansa.it/europa/notizie/rubriche/altrenews/2026/11/13/ansa-sullucraina-nasce-il-formato-di-dublino.-meloni-incassa-il-posto-negli-e5_b9708bd0-ee83-41ff-8378-c1780327f919.html"
+        },
+        {
+          "source": "Domani",
+          "summary": "Dopo Putin, Witkoff e Kushner incontrano Zelensky a Dublino: Mosca e Kiev accettano la presenza dell'Europa. Kushner parla di «progressi significativi».",
+          "thread": {
+            "added": "2026-11-14",
+            "id": "negoziati-ucraina"
+          },
+          "title": "Ucraina, gli europei ai prossimi negoziati con la Russia",
+          "update": true,
+          "url": "https://www.editorialedomani.it/politica/mondo/negoziati-ucraina-russia-usa-trump-kushner-witkoff-europa-dublino-zelensky-prigionieri-sh2y51mf"
+        },
+        {
+          "source": "ANSA",
+          "summary": "Stop nazionale per un problema di comunicazione che riguarda tutti i centri di controllo, spiega il segretario ai Trasporti Sean Duffy.",
+          "title": "Usa, l'autorità dell'aviazione blocca il traffico aereo in tutto il Paese",
+          "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/13/authority-trasporto-aereo-usa-dispone-blocco-nazionale-per-circostanze-straordinarie_c6fde2a2-fb3e-4ee0-8c85-40d12bb69160.html"
+        }
+      ],
+      "key": "esteri",
+      "title": "Politica estera"
+    },
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "Il blocco di Outlook e di altri servizi si prolunga e tocca anche alcune infrastrutture; il titolo apre in calo dell'1,5% al Nasdaq.",
+          "title": "Microsoft, disservizi in tutto il mondo: colpiti governi e aziende",
+          "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/13/proseguono-disservizi-di-microsoft-colpiti-governi-e-aziende-in-tutto-il-mondo_d622ba6e-1cbc-4cd1-9d0e-b71bb48e359d.html"
+        }
+      ],
+      "key": "tech",
+      "title": "Tecnologia e AI"
+    },
+    {
+      "items": [],
+      "key": "ambiente",
+      "title": "Ambiente e clima"
+    },
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "Dopo l'incontro con i sindacati salta la norma che avrebbe ridotto quasi 7mila posti tra docenti e personale Ata. Restano aperti sanità e pensioni.",
+          "thread": {
+            "added": "2026-11-14",
+            "id": "manovra-2027"
+          },
+          "title": "Scuola, il governo ritira la misura contestata. Meloni: «Non erano tagli»",
+          "url": "https://www.ansa.it/sito/notizie/politica/2026/11/13/manovra-il-governo-apre-alle-modifiche-saltano-i-tagli-alla-scuola-piu_a9e7d8e3-ebe1-4229-a908-26b2f2a973d6.html"
+        }
+      ],
+      "key": "societa",
+      "title": "Società"
+    }
+  ],
+  "updatedAt": "2026-11-14T06:42:26+01:00"
+}
