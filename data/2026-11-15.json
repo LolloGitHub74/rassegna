@@ -1,0 +1,105 @@
+{
+  "date": "2026-11-15",
+  "sections": [
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "In un video la premier difende l'estensione della tassa piatta dal 2027 e accusa la sinistra di considerare gli autonomi «di serie B». Per l'Iva serve l'ok Ue.",
+          "thread": {
+            "added": "2026-11-15",
+            "id": "manovra-2027"
+          },
+          "title": "Manovra, Meloni rilancia la flat tax per gli autonomi fino a 100mila euro",
+          "url": "https://www.ansa.it/sito/notizie/politica/2026/11/14/meloni-per-la-sinistra-gli-autonomi-di-serie-b-noi-aiutiamo-chi-rischia_a45aae7e-ea75-4996-a2d0-5519950bc747.html"
+        },
+        {
+          "source": "ANSA",
+          "summary": "Con il disservizio sono comparsi profili falsi che attaccavano Lega e Salvini. Piccolotti (Avs) chiede regole sulla propaganda politica digitale.",
+          "title": "Social, il blackout di Microsoft smaschera reti di bot contro la Lega",
+          "url": "https://www.ansa.it/sito/notizie/politica/2026/11/14/lega-eserciti-di-bot-inquinano-confronto-democratico-anche-sui-social-di-salvini_3b12b190-cf89-4c45-96d5-1d1ed0c1b93c.html"
+        }
+      ],
+      "key": "politica",
+      "title": "Politica interna"
+    },
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "Il presidente degli industriali critica la rateizzazione decennale dei crediti in manovra e chiede un tavolo sui circa 2 miliardi di crediti delle aziende.",
+          "thread": {
+            "added": "2026-11-15",
+            "id": "manovra-2027"
+          },
+          "title": "Confindustria, Orsini: il Superbonus a 10 anni mina la fiducia delle imprese",
+          "url": "https://www.ansa.it/sito/notizie/economia/2026/11/14/orsini-la-manovra-momento-complicato-ci-aspettiamo-risposte_e7e1de2d-a227-4024-9594-d9523aab3ffe.html"
+        }
+      ],
+      "key": "economia",
+      "title": "Economia e lavoro"
+    },
+    {
+      "items": [],
+      "key": "sicurezza",
+      "title": "Sicurezza e giustizia"
+    },
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "Dopo ore di caos negli aeroporti e cancellazioni anche in Europa, la Faa toglie lo stop nazionale; problemi anche al servizio meteorologico.",
+          "title": "Usa, revocato il blocco dei voli in tutto il Paese",
+          "update": true,
+          "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/revocato-il-blocco-dei-voli-negli-stati-uniti_d2a6ded1-a075-4399-8855-8bc69e436c24.html"
+        },
+        {
+          "source": "ANSA",
+          "summary": "Il leader incaricato di formare il governo definisce la proposta del premier uscente una manovra propagandistica; proseguono i colloqui con gli altri partiti.",
+          "title": "Israele, Eisenkot respinge l'offerta di unità di Netanyahu: «Un trucco»",
+          "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/14/eisenkot-proposta-unita-di-netanyahu-ennesimo-trucco-colloqui-gia-programmati_140ef535-21f4-48a6-930b-e1f977b62d86.html"
+        }
+      ],
+      "key": "esteri",
+      "title": "Politica estera"
+    },
+    {
+      "items": [
+        {
+          "source": "CNN",
+          "summary": "Il fondatore lascia la guida dell'azienda mentre è sotto indagine per la relazione con una presunta spia cinese; la direttrice finanziaria lo sostituisce.",
+          "thread": {
+            "added": "2026-11-15",
+            "id": "caso-nvidia-huang"
+          },
+          "title": "Nvidia, Jensen Huang si dimette dopo 33 anni: Kress amministratrice ad interim",
+          "url": "https://www.cnn.com/2026/11/12/tech/jensen-huang-nvidia-resigns"
+        }
+      ],
+      "key": "tech",
+      "title": "Tecnologia e AI"
+    },
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "Ad Antalya i Paesi restano divisi su 1,5 gradi, uscita dai combustibili fossili e adattamento; la prima bozza della Cover Decision è attesa a inizio settimana.",
+          "thread": {
+            "added": "2026-11-15",
+            "id": "cop31-antalya"
+          },
+          "title": "Cop31, posizioni ancora distanti sul documento politico finale",
+          "url": "https://ansa.it/ansa2030/notizie/lavoro_formazione/2026/11/14/cop31-ecco-posizioni-ancora-distanti-sul-documento-politico-cover-decision_b73726da-dbb3-406a-ad49-58ce67b2c47e.html"
+        }
+      ],
+      "key": "ambiente",
+      "title": "Ambiente e clima"
+    },
+    {
+      "items": [],
+      "key": "societa",
+      "title": "Società"
+    }
+  ],
+  "updatedAt": "2026-11-15T06:43:04+01:00"
+}

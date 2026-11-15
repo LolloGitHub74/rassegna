@@ -28,6 +28,15 @@
       "summary": "Trump conferma l'indagine dell'Fbi ma difende il capo di Nvidia; tre commissioni della Camera lo convocano a porte chiuse il 18 novembre.",
       "title": "Caso Huang, l'Fbi indaga e il Congresso chiede un'audizione",
       "url": "https://www.usnews.com/news/national-news/articles/2026-11-10/nvidia-ceo-jensen-huang-faces-scrutiny-over-alleged-spy-ties"
+    },
+    {
+      "added": "2026-11-15",
+      "date": "2026-11-15",
+      "section": "Tecnologia e AI",
+      "source": "CNN",
+      "summary": "Il fondatore lascia la guida dell'azienda mentre è sotto indagine per la relazione con una presunta spia cinese; la direttrice finanziaria lo sostituisce.",
+      "title": "Nvidia, Jensen Huang si dimette dopo 33 anni: Kress amministratrice ad interim",
+      "url": "https://www.cnn.com/2026/11/12/tech/jensen-huang-nvidia-resigns"
     }
   ],
   "related": [
@@ -37,7 +46,7 @@
     }
   ],
   "status": "aperto",
-  "summary": "Il consiglio di Nvidia ha aperto un'indagine dopo che il Ceo Jensen Huang ha ammesso una relazione con una manager ritenuta una spia cinese. Indaga anche l'Fbi e tre commissioni della Camera Usa lo hanno convocato; Trump lo difende. Il titolo è sceso a Wall Street.",
+  "summary": "Il consiglio di Nvidia ha aperto un'indagine dopo che il fondatore Jensen Huang ha ammesso una relazione con una manager ritenuta una spia cinese; indagano anche l'Fbi e il Congresso Usa. Il 12 novembre Huang si è dimesso dopo 33 anni: la direttrice finanziaria Colette Kress guida l'azienda ad interim e il titolo è in forte calo.",
   "theme": "tech",
   "title": "Nvidia, il caso Huang"
 }

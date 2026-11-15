@@ -161,7 +161,7 @@
         "bolla-ai"
       ],
       "status": "aperto",
-      "summary": "Il consiglio di Nvidia ha aperto un'indagine dopo che il Ceo Jensen Huang ha ammesso una relazione con una manager ritenuta una spia cinese. Indaga anche l'Fbi e tre commissioni della Camera Usa lo hanno convocato; Trump lo difende. Il titolo è sceso a Wall Street.",
+      "summary": "Il consiglio di Nvidia ha aperto un'indagine dopo che il fondatore Jensen Huang ha ammesso una relazione con una manager ritenuta una spia cinese; indagano anche l'Fbi e il Congresso Usa. Il 12 novembre Huang si è dimesso dopo 33 anni: la direttrice finanziaria Colette Kress guida l'azienda ad interim e il titolo è in forte calo.",
       "theme": "tech",
       "title": "Nvidia, il caso Huang"
     },
@@ -182,6 +182,15 @@
       "summary": "A novembre una serie di perturbazioni atlantiche porta piogge intense e vento forte. Il 12 novembre, con allerta rossa in Toscana, sono esondati fiumi a Massa e La Spezia, con frane e frazioni isolate; a Ventimiglia la piena del Roja ha travolto migranti accampati nel fiume.",
       "theme": "ambiente",
       "title": "Maltempo di novembre"
+    },
+    {
+      "created": "2026-11-15",
+      "id": "cop31-antalya",
+      "related": [],
+      "status": "aperto",
+      "summary": "La conferenza Onu sul clima di quest'anno si tiene ad Antalya, in Turchia, con la guida dei negoziati affidata all'Australia. I Paesi sono divisi sull'obiettivo di 1,5 gradi, sull'uscita dai combustibili fossili e sull'adattamento.",
+      "theme": "ambiente",
+      "title": "Cop31, la conferenza sul clima di Antalya"
     }
   ]
 }

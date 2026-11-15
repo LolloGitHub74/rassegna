@@ -38,14 +38,34 @@
   ],
   "threads": [
     {
-      "count": 17,
+      "count": 19,
       "created": "2026-11-09",
       "first": "2026-11-03",
       "id": "manovra-2027",
-      "last": "2026-11-14",
+      "last": "2026-11-15",
       "status": "aperto",
       "theme": "economia",
       "title": "Manovra 2027"
+    },
+    {
+      "count": 4,
+      "created": "2026-11-10",
+      "first": "2026-11-09",
+      "id": "caso-nvidia-huang",
+      "last": "2026-11-15",
+      "status": "aperto",
+      "theme": "tech",
+      "title": "Nvidia, il caso Huang"
+    },
+    {
+      "count": 1,
+      "created": "2026-11-15",
+      "first": "2026-11-15",
+      "id": "cop31-antalya",
+      "last": "2026-11-15",
+      "status": "aperto",
+      "theme": "ambiente",
+      "title": "Cop31, la conferenza sul clima di Antalya"
     },
     {
       "count": 7,
@@ -86,16 +106,6 @@
       "status": "aperto",
       "theme": "ambiente",
       "title": "Maltempo di novembre"
-    },
-    {
-      "count": 3,
-      "created": "2026-11-10",
-      "first": "2026-11-09",
-      "id": "caso-nvidia-huang",
-      "last": "2026-11-12",
-      "status": "aperto",
-      "theme": "tech",
-      "title": "Nvidia, il caso Huang"
     },
     {
       "count": 6,
