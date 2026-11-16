@@ -1,0 +1,105 @@
+{
+  "date": "2026-11-16",
+  "sections": [
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "Alla festa per i 40 anni dei Verdi la segretaria del Pd promette un programma comune che parte dalle proposte già presentate, non da zero.",
+          "thread": {
+            "added": "2026-11-16",
+            "id": "centrosinistra-alleanza"
+          },
+          "title": "Centrosinistra, Schlein ai Verdi: «Insieme per un governo progressista»",
+          "url": "https://www.ansa.it/sito/notizie/politica/2026/11/15/schlein-dai-verdi-insieme-per-un-governo-progressista-femminista-e-ecologista_67e6cc30-005b-4e2e-a2d3-555e55b6274c.html"
+        }
+      ],
+      "key": "politica",
+      "title": "Politica interna"
+    },
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "Proposte per limitare i bot nelle assistenze clienti e assicurare la possibilità di parlare con una persona, dopo la stretta sul telemarketing.",
+          "title": "Call center, in Parlamento la spinta per garantire un operatore umano",
+          "url": "https://ansa.it/sito/notizie/economia/2026/11/15/stop-ai-bot-nei-call-center-in-parlamento-spinta-per-operatore-umano_eb5779a0-477f-42b1-b394-6a59515a6502.html"
+        }
+      ],
+      "key": "economia",
+      "title": "Economia e lavoro"
+    },
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "La procura per i minorenni indaga sui due ragazzi, oggi maggiorenni; nei loro archivi anche guide per costruire ordigni artigianali.",
+          "title": "Bari, due hacker quindicenni rubavano identità digitali e dati sensibili",
+          "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/15/hacker-15enni-rubavano-identita-digitale-e-dati-sensibili_32fa57bc-e957-4648-a0fe-a1798f76fb4d.html"
+        }
+      ],
+      "key": "sicurezza",
+      "title": "Sicurezza e giustizia"
+    },
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "Lavrov ribadisce gli obiettivi di Putin: ritiro ucraino da quattro regioni, neutralità e niente Nato, stop alle sanzioni. Il Cremlino minaccia l'uso della forza.",
+          "thread": {
+            "added": "2026-11-16",
+            "id": "negoziati-ucraina"
+          },
+          "title": "Ucraina, Mosca resta ferma sulle condizioni del 2024",
+          "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/15/ritiro-neutralita-e-stop-alle-sanzioni-il-diktat-del-2024_b668755c-70ee-46c5-90c6-a270d8bdb8aa.html"
+        },
+        {
+          "source": "ANSA",
+          "summary": "Prosegue il viaggio in America Latina: il pontefice arriva in Perù dopo l'intervento per rimuovere un tumore al polmone destro.",
+          "title": "Papa Leone a Cusco, l'Angelus a 3mila metri dopo l'operazione",
+          "url": "https://www.ansa.it/vaticano/notizie/2026/11/15/il-papa-a-cusco-langelus-a-3mila-metri-dopo-loperazione-_9a8adf03-7d7d-4158-b2d8-3ccd37cc5021.html"
+        }
+      ],
+      "key": "esteri",
+      "title": "Politica estera"
+    },
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "Secondo lo scoop del quotidiano britannico il fondatore, dimessosi tre giorni fa dopo lo scandalo, valuta un clamoroso ritorno come amministratore delegato.",
+          "thread": {
+            "added": "2026-11-16",
+            "id": "caso-nvidia-huang"
+          },
+          "title": "Nvidia, il Financial Times: Huang pensa a tornare alla guida",
+          "update": true,
+          "url": "https://ansa.it/sito/notizie/mondo/2026/11/15/scoop-del-financial-times-huang-pensa-a-un-clamoroso-ritorno-alla-guida_5f2ba24d-056b-4f96-aca8-03e59566888d.html"
+        },
+        {
+          "source": "CNBC",
+          "summary": "I mercati aspettano i risultati di Nvidia e la quotazione di Anthropic, con prezzo fissato mercoledì e primi scambi al Nasdaq giovedì 19 novembre.",
+          "thread": {
+            "added": "2026-11-16",
+            "id": "quotazione-anthropic"
+          },
+          "title": "Borse, settimana decisiva: conti di Nvidia e debutto di Anthropic",
+          "url": "https://cnbc.com/2026/11/15/stock-market-today-live-updates.html"
+        }
+      ],
+      "key": "tech",
+      "title": "Tecnologia e AI"
+    },
+    {
+      "items": [],
+      "key": "ambiente",
+      "title": "Ambiente e clima"
+    },
+    {
+      "items": [],
+      "key": "societa",
+      "title": "Società"
+    }
+  ],
+  "updatedAt": "2026-11-16T06:43:02+01:00"
+}

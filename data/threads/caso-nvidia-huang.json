@@ -37,6 +37,15 @@
       "summary": "Il fondatore lascia la guida dell'azienda mentre è sotto indagine per la relazione con una presunta spia cinese; la direttrice finanziaria lo sostituisce.",
       "title": "Nvidia, Jensen Huang si dimette dopo 33 anni: Kress amministratrice ad interim",
       "url": "https://www.cnn.com/2026/11/12/tech/jensen-huang-nvidia-resigns"
+    },
+    {
+      "added": "2026-11-16",
+      "date": "2026-11-16",
+      "section": "Tecnologia e AI",
+      "source": "ANSA",
+      "summary": "Secondo lo scoop del quotidiano britannico il fondatore, dimessosi tre giorni fa dopo lo scandalo, valuta un clamoroso ritorno come amministratore delegato.",
+      "title": "Nvidia, il Financial Times: Huang pensa a tornare alla guida",
+      "url": "https://ansa.it/sito/notizie/mondo/2026/11/15/scoop-del-financial-times-huang-pensa-a-un-clamoroso-ritorno-alla-guida_5f2ba24d-056b-4f96-aca8-03e59566888d.html"
     }
   ],
   "related": [
@@ -46,7 +55,7 @@
     }
   ],
   "status": "aperto",
-  "summary": "Il consiglio di Nvidia ha aperto un'indagine dopo che il fondatore Jensen Huang ha ammesso una relazione con una manager ritenuta una spia cinese; indagano anche l'Fbi e il Congresso Usa. Il 12 novembre Huang si è dimesso dopo 33 anni: la direttrice finanziaria Colette Kress guida l'azienda ad interim e il titolo è in forte calo.",
+  "summary": "Il consiglio di Nvidia ha aperto un'indagine dopo che il fondatore Jensen Huang ha ammesso una relazione con una manager ritenuta una spia cinese; indagano anche l'Fbi e il Congresso Usa. Il 12 novembre Huang si è dimesso e la direttrice finanziaria Colette Kress guida l'azienda ad interim; secondo il Financial Times Huang valuta un ritorno.",
   "theme": "tech",
   "title": "Nvidia, il caso Huang"
 }
