@@ -1,0 +1,98 @@
+{
+  "date": "2026-11-17",
+  "sections": [
+    {
+      "items": [
+        {
+          "source": "Il Fatto Quotidiano",
+          "summary": "Il nuovo presidente della Corte costituzionale promette di agire «senza ritardi» sui ricorsi, ma prima deve arrivare una questione da un tribunale: se ne parla a fine gennaio.",
+          "thread": {
+            "added": "2026-11-17",
+            "id": "legge-elettorale"
+          },
+          "title": "Legge elettorale, Viganò: la Consulta deciderà il prima possibile",
+          "url": "https://www.ilfattoquotidiano.it/2026/11/16/legge-elettorale-il-nuovo-presidente-della-consulta-serve-certezza-sulle-regole-faremo-di-tutto-per-una-decisione-rapida/8573610/"
+        }
+      ],
+      "key": "politica",
+      "title": "Politica interna"
+    },
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "Gli incassi dei Comuni dall'imposta pagata dai turisti continuano a crescere e quest'anno dovrebbero superare ogni livello precedente.",
+          "title": "Turismo, la tassa di soggiorno verso il record di 1,3 miliardi nel 2026",
+          "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/16/tassa-di-soggiorno-verso-il-record-di-13-miliardi-nel-2026_615aa544-9203-4017-927b-83632838d1e3.html"
+        }
+      ],
+      "key": "economia",
+      "title": "Economia e lavoro"
+    },
+    {
+      "items": [],
+      "key": "sicurezza",
+      "title": "Sicurezza e giustizia"
+    },
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "Secondo il New York Times la Theodore Roosevelt si unisce alle altre due in Medio Oriente e un nuovo attacco americano potrebbe arrivare a giorni.",
+          "thread": {
+            "added": "2026-11-17",
+            "id": "crisi-iran-usa"
+          },
+          "title": "Iran, nuovi droni sul Bahrein: arriva la terza portaerei Usa",
+          "url": "https://www.ansa.it/ansamed/it/notizie/rubriche/politica/2026/11/16/terza-portaerei-usa-arriva-in-medio-oriente-dopo-attacchi-iran-al-bahrain_c0740c96-1202-42e0-9b2e-2d195d65871c.html"
+        },
+        {
+          "source": "ANSA",
+          "summary": "Il Consiglio Ue colpisce chi diffonde propaganda e attacchi informatici per conto di Mosca e approva un nuovo pagamento da 8 miliardi all'Ucraina.",
+          "thread": {
+            "added": "2026-11-17",
+            "id": "negoziati-ucraina"
+          },
+          "title": "Ue, nuove sanzioni contro la disinformazione russa e un gruppo di hacker",
+          "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/16/ok-dal-consiglio-ue-a-un-nuovo-pagamento-da-8-miliardi-a-kiev_4a452eb8-fb3c-43d7-a916-c31861c4a62d.html"
+        }
+      ],
+      "key": "esteri",
+      "title": "Politica estera"
+    },
+    {
+      "items": [
+        {
+          "source": "The Washington Post",
+          "summary": "Una nuova regola dell'amministrazione Trump chiude la scappatoia che permetteva alle imprese cinesi di usare i chip più avanzati tramite il cloud.",
+          "title": "Chip AI, Washington limita l'accesso a distanza delle aziende cinesi",
+          "url": "https://washingtonpost.com/technology/2026/11/16/trump-officials-issue-rule-restrict-sales-ai-chips-china"
+        }
+      ],
+      "key": "tech",
+      "title": "Tecnologia e AI"
+    },
+    {
+      "items": [
+        {
+          "source": "Il Fatto Quotidiano",
+          "summary": "Diciotto pagine e 144 punti, molti destinati a cambiare: il capo negoziatore Bowen ammette disaccordi. La fase finale si chiude venerdì 20 novembre.",
+          "thread": {
+            "added": "2026-11-17",
+            "id": "cop31-antalya"
+          },
+          "title": "Cop31, la prima bozza chiede di accelerare l'uscita dai combustibili fossili",
+          "url": "https://www.ilfattoquotidiano.it/2026/11/16/cop31-turchia-bozza-documento-finale-notizie/8573889/"
+        }
+      ],
+      "key": "ambiente",
+      "title": "Ambiente e clima"
+    },
+    {
+      "items": [],
+      "key": "societa",
+      "title": "Società"
+    }
+  ],
+  "updatedAt": "2026-11-17T06:42:49+01:00"
+}

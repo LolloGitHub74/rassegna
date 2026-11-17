@@ -61,7 +61,7 @@
         "midterm-usa-2026"
       ],
       "status": "aperto",
-      "summary": "Dopo i raid Usa sull'isola iraniana di Qeshm, Trump alterna minacce («o certifico l'accordo o li distruggo») e aperture. Teheran legge il voto americano come un no alla guerra. Al centro ci sono il nucleare e lo Stretto di Hormuz: secondo indiscrezioni l'Iran offrirebbe di riaprirlo in cambio di fondi congelati.",
+      "summary": "Dopo i raid Usa sull'isola iraniana di Qeshm, Trump alterna minacce e aperture, con trattative su nucleare e Stretto di Hormuz. A metà novembre l'Iran ha colpito con droni il Bahrein, dove ci sono basi americane; gli Usa hanno mandato una terza portaerei e un nuovo attacco potrebbe arrivare a breve.",
       "theme": "esteri",
       "title": "Crisi tra Iran e Stati Uniti"
     },
@@ -188,9 +188,18 @@
       "id": "cop31-antalya",
       "related": [],
       "status": "aperto",
-      "summary": "La conferenza Onu sul clima di quest'anno si tiene ad Antalya, in Turchia, con la guida dei negoziati affidata all'Australia. I Paesi sono divisi sull'obiettivo di 1,5 gradi, sull'uscita dai combustibili fossili e sull'adattamento.",
+      "summary": "La conferenza Onu sul clima di quest'anno si tiene ad Antalya, in Turchia, con la guida dei negoziati affidata all'Australia. La prima bozza del documento finale chiede di accelerare l'uscita dai combustibili fossili, ma i Paesi restano divisi; la chiusura è prevista il 20 novembre.",
       "theme": "ambiente",
       "title": "Cop31, la conferenza sul clima di Antalya"
+    },
+    {
+      "created": "2026-11-17",
+      "id": "legge-elettorale",
+      "related": [],
+      "status": "aperto",
+      "summary": "La nuova legge elettorale voluta dalla maggioranza è entrata in vigore a ottobre 2026. Le opposizioni hanno presentato ricorsi in molti tribunali per portarla davanti alla Corte costituzionale prima delle elezioni del 2027; il nuovo presidente della Consulta promette tempi rapidi.",
+      "theme": "politica",
+      "title": "La nuova legge elettorale"
     }
   ]
 }

@@ -38,14 +38,44 @@
   ],
   "threads": [
     {
-      "count": 11,
+      "count": 7,
+      "created": "2026-11-09",
+      "first": "2026-11-03",
+      "id": "crisi-iran-usa",
+      "last": "2026-11-17",
+      "status": "aperto",
+      "theme": "esteri",
+      "title": "Crisi tra Iran e Stati Uniti"
+    },
+    {
+      "count": 12,
       "created": "2026-11-09",
       "first": "2026-11-04",
       "id": "negoziati-ucraina",
-      "last": "2026-11-16",
+      "last": "2026-11-17",
       "status": "aperto",
       "theme": "esteri",
       "title": "Ucraina, i negoziati di pace"
+    },
+    {
+      "count": 2,
+      "created": "2026-11-15",
+      "first": "2026-11-15",
+      "id": "cop31-antalya",
+      "last": "2026-11-17",
+      "status": "aperto",
+      "theme": "ambiente",
+      "title": "Cop31, la conferenza sul clima di Antalya"
+    },
+    {
+      "count": 1,
+      "created": "2026-11-17",
+      "first": "2026-11-17",
+      "id": "legge-elettorale",
+      "last": "2026-11-17",
+      "status": "aperto",
+      "theme": "politica",
+      "title": "La nuova legge elettorale"
     },
     {
       "count": 5,
@@ -86,16 +116,6 @@
       "status": "aperto",
       "theme": "economia",
       "title": "Manovra 2027"
-    },
-    {
-      "count": 1,
-      "created": "2026-11-15",
-      "first": "2026-11-15",
-      "id": "cop31-antalya",
-      "last": "2026-11-15",
-      "status": "aperto",
-      "theme": "ambiente",
-      "title": "Cop31, la conferenza sul clima di Antalya"
     },
     {
       "count": 7,
@@ -146,16 +166,6 @@
       "status": "aperto",
       "theme": "economia",
       "title": "Ex Ilva"
-    },
-    {
-      "count": 6,
-      "created": "2026-11-09",
-      "first": "2026-11-03",
-      "id": "crisi-iran-usa",
-      "last": "2026-11-10",
-      "status": "aperto",
-      "theme": "esteri",
-      "title": "Crisi tra Iran e Stati Uniti"
     },
     {
       "count": 3,
