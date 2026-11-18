@@ -1,0 +1,98 @@
+{
+  "date": "2026-11-18",
+  "sections": [
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "Circa 6.600 proposte di modifica, il numero più alto della legislatura. FdI rilancia la sanatoria edilizia; nel campo progressista il M5S frena sugli emendamenti comuni.",
+          "thread": {
+            "added": "2026-11-18",
+            "id": "manovra-2027"
+          },
+          "title": "Manovra, record di emendamenti: la maggioranza punta sul condono",
+          "url": "https://www.ansa.it/sito/notizie/politica/2026/11/17/record-di-emendamenti-alla-manovra-la-maggioranza-vuole-il-condono_0852cc79-1b4d-45f3-a0ff-9faa1bbaab52.html"
+        }
+      ],
+      "key": "politica",
+      "title": "Politica interna"
+    },
+    {
+      "items": [
+        {
+          "source": "Il Fatto Quotidiano",
+          "summary": "Ventiquattro ore di stop e un centinaio di manifestazioni: la Cgil chiede più fondi per sanità, scuola e welfare e contesta l'aumento delle spese militari.",
+          "thread": {
+            "added": "2026-11-18",
+            "id": "manovra-2027"
+          },
+          "title": "Sciopero generale della Cgil venerdì 20: chi si ferma e perché",
+          "url": "https://www.ilfattoquotidiano.it/2026/11/17/sciopero-generale-20-novembre-cgil-notizie/8574447/"
+        }
+      ],
+      "key": "economia",
+      "title": "Economia e lavoro"
+    },
+    {
+      "items": [],
+      "key": "sicurezza",
+      "title": "Sicurezza e giustizia"
+    },
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "Il ministero degli Esteri iraniano definisce infondato il servizio; la Casa Bianca esclude minacce credibili. Intanto continuano i raid Usa vicino a Hormuz.",
+          "thread": {
+            "added": "2026-11-18",
+            "id": "crisi-iran-usa"
+          },
+          "title": "Iran, Teheran smentisce la Cnn sul piano per una «bomba sporca» a Washington",
+          "update": true,
+          "url": "https://ansa.it/sito/notizie/topnews/2026/11/17/teheran-smentisce-cnn-su-piano-per-bomba-sporca-a-washington_097e934f-2af8-4cb3-b51a-9828d082160b.html"
+        },
+        {
+          "source": "Il Sole 24 Ore",
+          "summary": "Matan Kahana ottiene 66 voti contro 52. Netanyahu torna a chiedere un governo di unità nazionale mentre Eisenkot tratta con gli altri partiti.",
+          "title": "Israele, la Knesset elegge presidente un alleato di Eisenkot",
+          "url": "https://en.ilsole24ore.com/art/007-iran-is-developing-plans-for-a-dirty-bomb-in-washington-but-the-white-house-denies-this-AJFGQ7IC"
+        }
+      ],
+      "key": "esteri",
+      "title": "Politica estera"
+    },
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "Interruzioni alla rete interna dell'agenzia di intelligence e ai servizi di Apple e Google; l'Fbi aveva appena lanciato un allarme sull'hacking con l'AI.",
+          "title": "Nsa, Apple e Gmail in tilt negli Usa: escluso un attacco informatico",
+          "url": "https://ansa.it/sito/notizie/mondo/nordamerica/2026/11/17/apple-segnala-problemi-per-alcuni-dei-suoi-servizi_1d347fc9-8a19-4347-9982-47d8e3c7c4fa.html"
+        },
+        {
+          "source": "Yahoo Finance",
+          "summary": "Nvidia presenta i primi risultati dopo le dimissioni del fondatore; oggi Anthropic fissa il prezzo delle azioni, domani il debutto al Nasdaq.",
+          "thread": {
+            "added": "2026-11-18",
+            "id": "quotazione-anthropic"
+          },
+          "title": "AI, giorni decisivi: i conti di Nvidia senza Huang e il prezzo di Anthropic",
+          "url": "https://finance.yahoo.com/markets/article/nvidias-first-post-jensen-earnings-and-anthropics-ipo-what-to-watch-this-week-110000732.html"
+        }
+      ],
+      "key": "tech",
+      "title": "Tecnologia e AI"
+    },
+    {
+      "items": [],
+      "key": "ambiente",
+      "title": "Ambiente e clima"
+    },
+    {
+      "items": [],
+      "key": "societa",
+      "title": "Società"
+    }
+  ],
+  "updatedAt": "2026-11-18T06:42:39+01:00"
+}

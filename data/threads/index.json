@@ -38,14 +38,34 @@
   ],
   "threads": [
     {
-      "count": 7,
+      "count": 21,
+      "created": "2026-11-09",
+      "first": "2026-11-03",
+      "id": "manovra-2027",
+      "last": "2026-11-18",
+      "status": "aperto",
+      "theme": "economia",
+      "title": "Manovra 2027"
+    },
+    {
+      "count": 8,
       "created": "2026-11-09",
       "first": "2026-11-03",
       "id": "crisi-iran-usa",
-      "last": "2026-11-17",
+      "last": "2026-11-18",
       "status": "aperto",
       "theme": "esteri",
       "title": "Crisi tra Iran e Stati Uniti"
+    },
+    {
+      "count": 6,
+      "created": "2026-11-09",
+      "first": "2026-11-03",
+      "id": "quotazione-anthropic",
+      "last": "2026-11-18",
+      "status": "aperto",
+      "theme": "tech",
+      "title": "La quotazione in Borsa di Anthropic"
     },
     {
       "count": 12,
@@ -78,16 +98,6 @@
       "title": "La nuova legge elettorale"
     },
     {
-      "count": 5,
-      "created": "2026-11-09",
-      "first": "2026-11-03",
-      "id": "quotazione-anthropic",
-      "last": "2026-11-16",
-      "status": "aperto",
-      "theme": "tech",
-      "title": "La quotazione in Borsa di Anthropic"
-    },
-    {
       "count": 4,
       "created": "2026-11-09",
       "first": "2026-11-08",
@@ -106,16 +116,6 @@
       "status": "aperto",
       "theme": "tech",
       "title": "Nvidia, il caso Huang"
-    },
-    {
-      "count": 19,
-      "created": "2026-11-09",
-      "first": "2026-11-03",
-      "id": "manovra-2027",
-      "last": "2026-11-15",
-      "status": "aperto",
-      "theme": "economia",
-      "title": "Manovra 2027"
     },
     {
       "count": 7,
