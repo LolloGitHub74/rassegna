@@ -1,0 +1,129 @@
+{
+  "date": "2026-11-19",
+  "sections": [
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "Il Consiglio dei ministri avvia la nomina di una figura senza incarichi politici alle spalle, dopo la rinuncia del leghista Altieri. Ora il voto delle commissioni.",
+          "thread": {
+            "added": "2026-11-19",
+            "id": "nomina-anac"
+          },
+          "title": "Anac, il governo sceglie Remo Morzenti Pellegrini come presidente",
+          "url": "https://www.ansa.it/sito/notizie/politica/2026/11/18/remo-morzenti-pellegrini-verso-la-presidenza-di-anac-lindicazione-attesa-in-cdm_44b8a7fa-254f-49be-857c-f7ba88dd81c5.html"
+        },
+        {
+          "source": "ANSA",
+          "summary": "Approvato definitivamente con il no di M5S e Avs; nel Pd si spaccano i riformisti ed Emanuele Fiano abbandona il partito per il mancato sostegno.",
+          "title": "Antisemitismo, il ddl è legge: Fiano lascia il Pd",
+          "url": "https://www.ansa.it/sito/notizie/politica/2026/11/18/fiano-lascia-il-pd-per-il-no-alla-legge-sullantisemitismo_b854c8dc-2532-421f-9fe8-18b364801c1f.html"
+        },
+        {
+          "source": "ANSA",
+          "summary": "Dopo un esposto del Sindacato dei militari si indaga se il partito di Vannacci violi il divieto di ricostituire il partito fascista. Il legale: «Accuse inconsistenti».",
+          "title": "Futuro Nazionale, la procura di Roma apre un fascicolo sulla legge Scelba",
+          "url": "https://www.ansa.it/sito/notizie/politica/2026/11/18/futuro-nazionale-viola-la-legge-scelba-la-procura-di-roma-apre-un-fascicolo_a3af0102-2a85-40ca-9ff0-e03b981a65b6.html"
+        }
+      ],
+      "key": "politica",
+      "title": "Politica interna"
+    },
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "Il leader della Lega esclude di spostare risorse dalla previdenza al servizio sanitario e dice che il tema non è mai stato discusso nel vertice di maggioranza.",
+          "thread": {
+            "added": "2026-11-19",
+            "id": "manovra-2027"
+          },
+          "title": "Manovra, Salvini: «Fondi delle pensioni alla sanità? Non se ne parla»",
+          "url": "https://www.ansa.it/sito/notizie/politica/2026/11/18/salvini-risorse-dal-fondo-pensioni-per-la-sanita-non-se-ne-parla_1a0f6c48-2ced-4c48-b0d8-4b92eb4500c9.html"
+        }
+      ],
+      "key": "economia",
+      "title": "Economia e lavoro"
+    },
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "Il ministro della Difesa illustra a Camera e Senato attacchi informatici, disinformazione e operazioni di influenza; Piantedosi: «Lo Stato c'è».",
+          "thread": {
+            "added": "2026-11-19",
+            "id": "attacchi-informatici-italia"
+          },
+          "title": "Guerra ibrida, Crosetto riferisce in Parlamento sulle minacce all'Italia",
+          "url": "https://www.ansa.it/sito/notizie/politica/2026/11/18/informativa-di-crosetto-alla-camera-sulla-guerra-ibrida-e-cognitiva_0674c83b-3394-4c5c-b1ec-c049e364d8b6.html"
+        }
+      ],
+      "key": "sicurezza",
+      "title": "Sicurezza e giustizia"
+    },
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "Ordini di evacuazione per Bureij e Nuseirat: è la prima operazione di questo tipo nell'area dal cessate il fuoco dell'ottobre 2025.",
+          "title": "Gaza, Israele attacca il centro della Striscia e ordina di sfollare",
+          "url": "https://ansa.it/sito/notizie/topnews/2026/11/18/idf-lancia-attacco-nel-centro-di-gaza-avviso-di-sfollare_43188c8e-1122-4f88-80c5-ae0f8543da88.html"
+        }
+      ],
+      "key": "esteri",
+      "title": "Politica estera"
+    },
+    {
+      "items": [
+        {
+          "source": "CNN",
+          "summary": "Le azioni sono prezzate oltre la forchetta di 70-78 dollari, per una valutazione di circa 1.500 miliardi. Oggi il debutto al Nasdaq con la sigla ANT.",
+          "thread": {
+            "added": "2026-11-19",
+            "id": "quotazione-anthropic"
+          },
+          "title": "Anthropic, prezzo a 83 dollari sopra le attese: raccolti 81 miliardi",
+          "update": true,
+          "url": "https://www.cnn.com/2026/11/18/investing/anthropic-ipo-price-stock"
+        },
+        {
+          "source": "Yahoo Finance",
+          "summary": "Primi conti senza il fondatore: fatturato più che raddoppiato in un anno e previsioni sopra le attese. Il consiglio esclude il ritorno di Huang alla guida.",
+          "thread": {
+            "added": "2026-11-19",
+            "id": "caso-nvidia-huang"
+          },
+          "title": "Nvidia, ricavi a 115,8 miliardi: il cda non richiamerà Huang",
+          "url": "https://finance.yahoo.com/technology/live/nvidia-live-updates-interim-ceo-kress-prepares-for-q3-earnings-with-huang-reportedly-planning-comeback-153114076.html"
+        }
+      ],
+      "key": "tech",
+      "title": "Tecnologia e AI"
+    },
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "Parlamento e Consiglio europei si accordano per rendere più rapide le autorizzazioni dei progetti di energia pulita e delle reti elettriche.",
+          "title": "Rinnovabili, intesa Ue per accelerare i permessi di impianti e reti",
+          "url": "https://www.ansa.it/sito/notizie/economia/2026/11/18/intesa-ue-per-accelerare-gli-iter-dei-progetti-di-energia-verde_a9bc72dd-503a-437b-a20f-64197adc8bfe.html"
+        }
+      ],
+      "key": "ambiente",
+      "title": "Ambiente e clima"
+    },
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "Il conduttore di Report annuncia il provvedimento dell'azienda e chiede di sostenere il suo programma Spotlight.",
+          "title": "Rai, Ranucci sospeso per dieci giorni senza stipendio dal 23 novembre",
+          "url": "https://www.ansa.it/sito/notizie/politica/2026/11/18/ranucci-dal-23-novembre-scatta-la-mia-sospensione-sostenete-spotlight_4ecf29c2-115a-4139-93ff-d95a06c71ef2.html"
+        }
+      ],
+      "key": "societa",
+      "title": "Società"
+    }
+  ],
+  "updatedAt": "2026-11-19T06:42:43+01:00"
+}

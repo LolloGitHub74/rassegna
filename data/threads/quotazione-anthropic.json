@@ -55,6 +55,15 @@
       "summary": "Nvidia presenta i primi risultati dopo le dimissioni del fondatore; oggi Anthropic fissa il prezzo delle azioni, domani il debutto al Nasdaq.",
       "title": "AI, giorni decisivi: i conti di Nvidia senza Huang e il prezzo di Anthropic",
       "url": "https://finance.yahoo.com/markets/article/nvidias-first-post-jensen-earnings-and-anthropics-ipo-what-to-watch-this-week-110000732.html"
+    },
+    {
+      "added": "2026-11-19",
+      "date": "2026-11-19",
+      "section": "Tecnologia e AI",
+      "source": "CNN",
+      "summary": "Le azioni sono prezzate oltre la forchetta di 70-78 dollari, per una valutazione di circa 1.500 miliardi. Oggi il debutto al Nasdaq con la sigla ANT.",
+      "title": "Anthropic, prezzo a 83 dollari sopra le attese: raccolti 81 miliardi",
+      "url": "https://www.cnn.com/2026/11/18/investing/anthropic-ipo-price-stock"
     }
   ],
   "related": [
@@ -64,7 +73,7 @@
     }
   ],
   "status": "aperto",
-  "summary": "Anthropic porta in Borsa l'azienda dopo un prospetto con ricavi trimestrali di circa 17 miliardi di dollari. Il crollo dei titoli AI ha spinto gli investitori a chiedere una valutazione più bassa: la forchetta di prezzo, tra 70 e 78 dollari, la valuta fino a 1.400 miliardi. Prezzo finale il 18 novembre, debutto al Nasdaq il 19.",
+  "summary": "Anthropic porta in Borsa l'azienda dopo un prospetto con ricavi trimestrali di circa 17 miliardi di dollari. Nonostante il crollo dei titoli AI di inizio novembre, le azioni sono state prezzate a 83 dollari, sopra la forchetta prevista: raccolta record di 81 miliardi e valutazione di circa 1.500 miliardi. Debutto al Nasdaq il 19 novembre.",
   "theme": "tech",
   "title": "La quotazione in Borsa di Anthropic"
 }

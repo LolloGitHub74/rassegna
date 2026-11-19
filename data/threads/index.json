@@ -38,14 +38,54 @@
   ],
   "threads": [
     {
-      "count": 21,
+      "count": 22,
       "created": "2026-11-09",
       "first": "2026-11-03",
       "id": "manovra-2027",
-      "last": "2026-11-18",
+      "last": "2026-11-19",
       "status": "aperto",
       "theme": "economia",
       "title": "Manovra 2027"
+    },
+    {
+      "count": 7,
+      "created": "2026-11-09",
+      "first": "2026-11-03",
+      "id": "attacchi-informatici-italia",
+      "last": "2026-11-19",
+      "status": "aperto",
+      "theme": "sicurezza",
+      "title": "Attacchi informatici all'Italia"
+    },
+    {
+      "count": 7,
+      "created": "2026-11-09",
+      "first": "2026-11-03",
+      "id": "quotazione-anthropic",
+      "last": "2026-11-19",
+      "status": "aperto",
+      "theme": "tech",
+      "title": "La quotazione in Borsa di Anthropic"
+    },
+    {
+      "count": 4,
+      "created": "2026-11-09",
+      "first": "2026-11-07",
+      "id": "nomina-anac",
+      "last": "2026-11-19",
+      "status": "aperto",
+      "theme": "politica",
+      "title": "La nomina all'Anac"
+    },
+    {
+      "count": 6,
+      "created": "2026-11-10",
+      "first": "2026-11-09",
+      "id": "caso-nvidia-huang",
+      "last": "2026-11-19",
+      "status": "aperto",
+      "theme": "tech",
+      "title": "Nvidia, il caso Huang"
     },
     {
       "count": 8,
@@ -56,16 +96,6 @@
       "status": "aperto",
       "theme": "esteri",
       "title": "Crisi tra Iran e Stati Uniti"
-    },
-    {
-      "count": 6,
-      "created": "2026-11-09",
-      "first": "2026-11-03",
-      "id": "quotazione-anthropic",
-      "last": "2026-11-18",
-      "status": "aperto",
-      "theme": "tech",
-      "title": "La quotazione in Borsa di Anthropic"
     },
     {
       "count": 12,
@@ -108,16 +138,6 @@
       "title": "Centrosinistra, verso un programma comune"
     },
     {
-      "count": 5,
-      "created": "2026-11-10",
-      "first": "2026-11-09",
-      "id": "caso-nvidia-huang",
-      "last": "2026-11-16",
-      "status": "aperto",
-      "theme": "tech",
-      "title": "Nvidia, il caso Huang"
-    },
-    {
       "count": 7,
       "created": "2026-11-09",
       "first": "2026-11-06",
@@ -148,16 +168,6 @@
       "title": "Maltempo di novembre"
     },
     {
-      "count": 6,
-      "created": "2026-11-09",
-      "first": "2026-11-03",
-      "id": "attacchi-informatici-italia",
-      "last": "2026-11-11",
-      "status": "aperto",
-      "theme": "sicurezza",
-      "title": "Attacchi informatici all'Italia"
-    },
-    {
       "count": 4,
       "created": "2026-11-09",
       "first": "2026-11-04",
@@ -166,16 +176,6 @@
       "status": "aperto",
       "theme": "economia",
       "title": "Ex Ilva"
-    },
-    {
-      "count": 3,
-      "created": "2026-11-09",
-      "first": "2026-11-07",
-      "id": "nomina-anac",
-      "last": "2026-11-10",
-      "status": "aperto",
-      "theme": "politica",
-      "title": "La nomina all'Anac"
     },
     {
       "count": 2,

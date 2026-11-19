@@ -46,6 +46,15 @@
       "summary": "Secondo lo scoop del quotidiano britannico il fondatore, dimessosi tre giorni fa dopo lo scandalo, valuta un clamoroso ritorno come amministratore delegato.",
       "title": "Nvidia, il Financial Times: Huang pensa a tornare alla guida",
       "url": "https://ansa.it/sito/notizie/mondo/2026/11/15/scoop-del-financial-times-huang-pensa-a-un-clamoroso-ritorno-alla-guida_5f2ba24d-056b-4f96-aca8-03e59566888d.html"
+    },
+    {
+      "added": "2026-11-19",
+      "date": "2026-11-19",
+      "section": "Tecnologia e AI",
+      "source": "Yahoo Finance",
+      "summary": "Primi conti senza il fondatore: fatturato più che raddoppiato in un anno e previsioni sopra le attese. Il consiglio esclude il ritorno di Huang alla guida.",
+      "title": "Nvidia, ricavi a 115,8 miliardi: il cda non richiamerà Huang",
+      "url": "https://finance.yahoo.com/technology/live/nvidia-live-updates-interim-ceo-kress-prepares-for-q3-earnings-with-huang-reportedly-planning-comeback-153114076.html"
     }
   ],
   "related": [
@@ -55,7 +64,7 @@
     }
   ],
   "status": "aperto",
-  "summary": "Il consiglio di Nvidia ha aperto un'indagine dopo che il fondatore Jensen Huang ha ammesso una relazione con una manager ritenuta una spia cinese; indagano anche l'Fbi e il Congresso Usa. Il 12 novembre Huang si è dimesso e la direttrice finanziaria Colette Kress guida l'azienda ad interim; secondo il Financial Times Huang valuta un ritorno.",
+  "summary": "Il consiglio di Nvidia ha aperto un'indagine dopo che il fondatore Jensen Huang ha ammesso una relazione con una manager ritenuta una spia cinese; indagano anche l'Fbi e il Congresso Usa. Huang si è dimesso il 12 novembre e il cda esclude un suo ritorno. I primi conti senza di lui, guidati da Colette Kress, superano le attese.",
   "theme": "tech",
   "title": "Nvidia, il caso Huang"
 }
