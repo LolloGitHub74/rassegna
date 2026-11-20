@@ -1,0 +1,107 @@
+{
+  "date": "2026-11-20",
+  "sections": [
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "La premier riunisce i leader in videoconferenza e chiede «basta divisioni»; annunciato un emendamento per estendere al Centro-Nord le semplificazioni della Zes unica.",
+          "thread": {
+            "added": "2026-11-20",
+            "id": "manovra-2027"
+          },
+          "title": "Manovra, vertice di maggioranza su pensioni e sanità: Meloni chiede unità",
+          "url": "https://www.ansa.it/sito/notizie/politica/2026/11/19/focus-su-pensioni-e-sanita-al-vertice-di-maggioranza-meloni-chiede-basta-divisioni_f14af22e-5fa1-4851-b2a1-60f52ce6bb6e.html"
+        }
+      ],
+      "key": "politica",
+      "title": "Politica interna"
+    },
+    {
+      "items": [
+        {
+          "source": "Il Sole 24 Ore",
+          "summary": "Ventiquattro ore di stop per scuola, sanità, uffici pubblici e trasporto locale; esclusi treni e aerei. Cortei in molte città, comizio di Landini.",
+          "thread": {
+            "added": "2026-11-20",
+            "id": "manovra-2027"
+          },
+          "title": "Oggi lo sciopero generale della Cgil: chi si ferma e chi no",
+          "update": true,
+          "url": "https://www.ilsole24ore.com/art/sciopero-generale-cgil-20-novembre-chi-si-ferma-e-chi-no-fasce-garantite-e-cortei-tutta-italia-AJ4y6VJC"
+        }
+      ],
+      "key": "economia",
+      "title": "Economia e lavoro"
+    },
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "L'attacco, generato con l'intelligenza artificiale, risale al 22 ottobre: secondo Bruxelles non ha toccato i dati del personale. Indagini ancora in corso sui responsabili.",
+          "title": "Commissione Ue, attacco hacker condotto con l'AI: «Nessuna violazione»",
+          "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/19/attacco-hacker-a-commissione-ue-con-ia-il-22-ottobre-nessuna-violazione_cb760983-0bd8-4b56-83e8-d500c7724f4e.html"
+        }
+      ],
+      "key": "sicurezza",
+      "title": "Sicurezza e giustizia"
+    },
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "A Shenzhen i tre leader adottano un testo comune sulla pace; per gli analisti mancano però scadenze, obiettivi di disarmo e strumenti di controllo.",
+          "title": "Xi, Trump e Putin firmano un patto: «La guerra nucleare non va combattuta»",
+          "url": "https://ansa.it/sito/notizie/mondo/2026/11/19/cina-usa-e-russia-adottano-una-dichiarazione-di-pace_9e7135eb-3e7b-4851-bfab-d2fbdb0e6829.html"
+        }
+      ],
+      "key": "esteri",
+      "title": "Politica estera"
+    },
+    {
+      "items": [
+        {
+          "source": "CBS News",
+          "summary": "Aperte a 111,50 dollari, le azioni chiudono a 97,17 dopo una seduta volatile, mentre il Nasdaq perde oltre il 2%. È la quotazione più grande della storia.",
+          "thread": {
+            "added": "2026-11-20",
+            "id": "quotazione-anthropic"
+          },
+          "title": "Anthropic, primo giorno in Borsa chiuso in rialzo del 17%",
+          "update": true,
+          "url": "https://www.cbsnews.com/news/anthropic-ipo-nasdaq-debut-claude-ai/"
+        },
+        {
+          "source": "ANSA",
+          "summary": "Tra le priorità della vigilanza europea per il 2027-2029 c'è la capacità degli istituti di resistere agli attacchi informatici e ai rischi delle nuove tecnologie.",
+          "title": "Bce, le banche dovranno prepararsi ai rischi di cyber, AI e cloud",
+          "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/19/bce-fra-le-priorita-la-preparazione-delle-banche-a-minacce-cyber-rischi-ia-e-cloud_1d4d715b-9f9b-448e-9d8d-a4fdacd184ba.html"
+        }
+      ],
+      "key": "tech",
+      "title": "Tecnologia e AI"
+    },
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "Gli sherpa lavorano di notte ma le posizioni restano distanti; probabile uno slittamento oltre la chiusura prevista per oggi.",
+          "thread": {
+            "added": "2026-11-20",
+            "id": "cop31-antalya"
+          },
+          "title": "Cop31, la bozza del documento finale tarda: chiusura verso sabato",
+          "url": "https://ansa.it/ansa2030/notizie/lavoro_formazione/2026/11/19/cop31-attesa-in-giornata-bozza-del-documento-finale_763443f0-de30-434c-95b1-21f078080495.html"
+        }
+      ],
+      "key": "ambiente",
+      "title": "Ambiente e clima"
+    },
+    {
+      "items": [],
+      "key": "societa",
+      "title": "Società"
+    }
+  ],
+  "updatedAt": "2026-11-20T06:42:51+01:00"
+}
