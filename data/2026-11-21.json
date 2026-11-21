@@ -1,0 +1,110 @@
+{
+  "date": "2026-11-21",
+  "sections": [
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "Il centrosinistra vuole un'intesa entro il 30 novembre, ma restano divisioni su patrimoniale, Ucraina, cannabis e abuso d'ufficio.",
+          "thread": {
+            "added": "2026-11-21",
+            "id": "centrosinistra-alleanza"
+          },
+          "title": "Campo largo, dieci giorni per chiudere il programma comune",
+          "url": "https://www.ansa.it/sito/notizie/politica/2026/11/20/dieci-giorni-per-il-programma-del-campo-largo-lincognita-della-piazza_ee585449-c649-41c2-997b-afc12ff8b12a.html"
+        }
+      ],
+      "key": "politica",
+      "title": "Politica interna"
+    },
+    {
+      "items": [
+        {
+          "source": "Sky TG24",
+          "summary": "Per la Cgil oltre un milione in piazza contro la manovra; in corteo anche i leader dell'opposizione. Scontri in alcune città, Landini annuncia nuove iniziative.",
+          "thread": {
+            "added": "2026-11-21",
+            "id": "manovra-2027"
+          },
+          "title": "Sciopero generale, cortei in cento città: tensioni a Torino, Bologna e Roma",
+          "update": true,
+          "url": "https://tg24.sky.it/cronaca/2026/11/20/sciopero-20-novembre-manifestazioni-cortei-foto"
+        },
+        {
+          "source": "ANSA",
+          "summary": "Pesanti vendite su semiconduttori e banche: Francoforte perde il 2,6%. Torna la paura sui titoli legati all'intelligenza artificiale.",
+          "thread": {
+            "added": "2026-11-21",
+            "id": "bolla-ai"
+          },
+          "title": "Borse europee in rosso: bruciati 370 miliardi",
+          "url": "https://ansa.it/sito/notizie/topnews/2026/11/20/borsa-leuropa-chiude-in-rosso-bruciati-370-miliardi_b9c4f1cb-5a3c-4bf7-bd02-26fa814a9543.html"
+        }
+      ],
+      "key": "economia",
+      "title": "Economia e lavoro"
+    },
+    {
+      "items": [],
+      "key": "sicurezza",
+      "title": "Sicurezza e giustizia"
+    },
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "Dopo l'attacco notturno, con tre morti nella capitale, Parigi convoca una riunione urgente; Meloni chiede un mandato chiaro per il gruppo europeo dei negoziatori.",
+          "thread": {
+            "added": "2026-11-21",
+            "id": "negoziati-ucraina"
+          },
+          "title": "Ucraina, missili russi su Kiev: la Francia chiede il Consiglio di sicurezza Onu",
+          "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/20/ucraina-dopo-missili-su-kiev-francia-chiede-riunione-consiglio-sicurezza-onu_648fa01d-1bd4-4d17-a771-d09abe3c07c5.html"
+        },
+        {
+          "source": "ANSA",
+          "summary": "L'ex generale incaricato si dice disposto a guidare un esecutivo d'emergenza se le trattative falliscono, escludendo una rotazione con il premier uscente.",
+          "title": "Israele, Eisenkot pronto a un governo di emergenza senza Netanyahu",
+          "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/20/israele-eisenkot-pronto-a-un-governo-di-emergenza-da-premier-nessuna-rotazione-con-bibi_1ef68397-dd2b-49c1-953f-30bf696a465b.html"
+        }
+      ],
+      "key": "esteri",
+      "title": "Politica estera"
+    },
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "Il presidente difende il vertice di Shenzhen, annuncia paletti condivisi con la Cina sull'intelligenza artificiale e dice no ai data center americani all'estero.",
+          "title": "Trump: con Xi regole comuni sull'AI, data center solo negli Usa",
+          "url": "https://ansa.it/sito/notizie/mondo/2026/11/20/trump-io-e-xi-abbiamo-concordato-di-mettere-paletti-comuni-sullia.-i-data-center-non_09f505ad-f8ba-4714-9f43-d1df034bfc2a.html"
+        }
+      ],
+      "key": "tech",
+      "title": "Tecnologia e AI"
+    },
+    {
+      "items": [
+        {
+          "source": "Il Fatto Quotidiano",
+          "summary": "Il testo rivisto elimina i riferimenti all'uscita dai fossili e indebolisce gli obiettivi sull'elettrificazione; i negoziati vanno ai tempi supplementari.",
+          "thread": {
+            "added": "2026-11-21",
+            "id": "cop31-antalya"
+          },
+          "title": "Cop31, dalla nuova bozza spariscono i combustibili fossili",
+          "update": true,
+          "url": "https://www.ilfattoquotidiano.it/2026/11/20/undefined-79/8578389/"
+        }
+      ],
+      "key": "ambiente",
+      "title": "Ambiente e clima"
+    },
+    {
+      "items": [],
+      "key": "societa",
+      "title": "Società"
+    }
+  ],
+  "updatedAt": "2026-11-21T06:43:02+01:00"
+}

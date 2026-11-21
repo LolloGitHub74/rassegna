@@ -38,14 +38,54 @@
   ],
   "threads": [
     {
-      "count": 24,
+      "count": 25,
       "created": "2026-11-09",
       "first": "2026-11-03",
       "id": "manovra-2027",
-      "last": "2026-11-20",
+      "last": "2026-11-21",
       "status": "aperto",
       "theme": "economia",
       "title": "Manovra 2027"
+    },
+    {
+      "count": 13,
+      "created": "2026-11-09",
+      "first": "2026-11-04",
+      "id": "negoziati-ucraina",
+      "last": "2026-11-21",
+      "status": "aperto",
+      "theme": "esteri",
+      "title": "Ucraina, i negoziati di pace"
+    },
+    {
+      "count": 4,
+      "created": "2026-11-09",
+      "first": "2026-11-03",
+      "id": "bolla-ai",
+      "last": "2026-11-21",
+      "status": "aperto",
+      "theme": "tech",
+      "title": "AI e Borsa, il crollo dei titoli"
+    },
+    {
+      "count": 5,
+      "created": "2026-11-09",
+      "first": "2026-11-08",
+      "id": "centrosinistra-alleanza",
+      "last": "2026-11-21",
+      "status": "aperto",
+      "theme": "politica",
+      "title": "Centrosinistra, verso un programma comune"
+    },
+    {
+      "count": 4,
+      "created": "2026-11-15",
+      "first": "2026-11-15",
+      "id": "cop31-antalya",
+      "last": "2026-11-21",
+      "status": "aperto",
+      "theme": "ambiente",
+      "title": "Cop31, la conferenza sul clima di Antalya"
     },
     {
       "count": 8,
@@ -56,16 +96,6 @@
       "status": "aperto",
       "theme": "tech",
       "title": "La quotazione in Borsa di Anthropic"
-    },
-    {
-      "count": 3,
-      "created": "2026-11-15",
-      "first": "2026-11-15",
-      "id": "cop31-antalya",
-      "last": "2026-11-20",
-      "status": "aperto",
-      "theme": "ambiente",
-      "title": "Cop31, la conferenza sul clima di Antalya"
     },
     {
       "count": 7,
@@ -108,16 +138,6 @@
       "title": "Crisi tra Iran e Stati Uniti"
     },
     {
-      "count": 12,
-      "created": "2026-11-09",
-      "first": "2026-11-04",
-      "id": "negoziati-ucraina",
-      "last": "2026-11-17",
-      "status": "aperto",
-      "theme": "esteri",
-      "title": "Ucraina, i negoziati di pace"
-    },
-    {
       "count": 1,
       "created": "2026-11-17",
       "first": "2026-11-17",
@@ -126,16 +146,6 @@
       "status": "aperto",
       "theme": "politica",
       "title": "La nuova legge elettorale"
-    },
-    {
-      "count": 4,
-      "created": "2026-11-09",
-      "first": "2026-11-08",
-      "id": "centrosinistra-alleanza",
-      "last": "2026-11-16",
-      "status": "aperto",
-      "theme": "politica",
-      "title": "Centrosinistra, verso un programma comune"
     },
     {
       "count": 7,
@@ -216,16 +226,6 @@
       "status": "aperto",
       "theme": "economia",
       "title": "Milano, lo sciopero Atm del 13 novembre"
-    },
-    {
-      "count": 3,
-      "created": "2026-11-09",
-      "first": "2026-11-03",
-      "id": "bolla-ai",
-      "last": "2026-11-08",
-      "status": "aperto",
-      "theme": "tech",
-      "title": "AI e Borsa, il crollo dei titoli"
     },
     {
       "count": 2,
