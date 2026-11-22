@@ -45,6 +45,10 @@
         {
           "source": "ANSA",
           "summary": "Il Ros esegue perquisizioni disposte dalla procura di Caltanissetta nell'inchiesta sulla strage di via D'Amelio e sulla scomparsa dell'agenda.",
+          "thread": {
+            "added": "2026-11-22",
+            "id": "inchiesta-via-damelio"
+          },
           "title": "Agenda rossa di Borsellino, perquisizioni all'ex capo della Polizia De Gennaro",
           "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/12/lagenda-rossa-di-borsellino-perquisizioni-allex-capo-della-polizia-de-gennaro_4f725d2f-4016-4316-9cbb-d99677d42f7c.html"
         },

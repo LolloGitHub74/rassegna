@@ -161,7 +161,7 @@
         "bolla-ai"
       ],
       "status": "aperto",
-      "summary": "Il consiglio di Nvidia ha aperto un'indagine dopo che il fondatore Jensen Huang ha ammesso una relazione con una manager ritenuta una spia cinese; indagano anche l'Fbi e il Congresso Usa. Huang si è dimesso il 12 novembre e il cda esclude un suo ritorno. I primi conti senza di lui, guidati da Colette Kress, superano le attese.",
+      "summary": "Il consiglio di Nvidia ha aperto un'indagine dopo che il fondatore Jensen Huang ha ammesso una relazione con una manager ritenuta una spia cinese; indagano anche l'Fbi e il Congresso Usa. Huang si è dimesso il 12 novembre. I conti successivi hanno superato le attese, ma secondo Reuters la Sec indaga sulla contabilità e il titolo ha vissuto la settimana peggiore dal 2008.",
       "theme": "tech",
       "title": "Nvidia, il caso Huang"
     },
@@ -200,6 +200,15 @@
       "summary": "La nuova legge elettorale voluta dalla maggioranza è entrata in vigore a ottobre 2026. Le opposizioni hanno presentato ricorsi in molti tribunali per portarla davanti alla Corte costituzionale prima delle elezioni del 2027; il nuovo presidente della Consulta promette tempi rapidi.",
       "theme": "politica",
       "title": "La nuova legge elettorale"
+    },
+    {
+      "created": "2026-11-22",
+      "id": "inchiesta-via-damelio",
+      "related": [],
+      "status": "aperto",
+      "summary": "La procura di Caltanissetta indaga sulla strage di via D'Amelio del 1992, in cui fu ucciso Paolo Borsellino, e sulla scomparsa della sua agenda rossa. A metà novembre ci sono state perquisizioni anche all'ex capo della Polizia Gianni De Gennaro, che pochi giorni dopo si è tolto la vita.",
+      "theme": "sicurezza",
+      "title": "Via D'Amelio e l'agenda rossa di Borsellino"
     }
   ]
 }

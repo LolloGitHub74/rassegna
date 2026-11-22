@@ -38,14 +38,54 @@
   ],
   "threads": [
     {
-      "count": 25,
+      "count": 26,
       "created": "2026-11-09",
       "first": "2026-11-03",
       "id": "manovra-2027",
-      "last": "2026-11-21",
+      "last": "2026-11-22",
       "status": "aperto",
       "theme": "economia",
       "title": "Manovra 2027"
+    },
+    {
+      "count": 9,
+      "created": "2026-11-09",
+      "first": "2026-11-03",
+      "id": "crisi-iran-usa",
+      "last": "2026-11-22",
+      "status": "aperto",
+      "theme": "esteri",
+      "title": "Crisi tra Iran e Stati Uniti"
+    },
+    {
+      "count": 7,
+      "created": "2026-11-10",
+      "first": "2026-11-09",
+      "id": "caso-nvidia-huang",
+      "last": "2026-11-22",
+      "status": "aperto",
+      "theme": "tech",
+      "title": "Nvidia, il caso Huang"
+    },
+    {
+      "count": 5,
+      "created": "2026-11-15",
+      "first": "2026-11-15",
+      "id": "cop31-antalya",
+      "last": "2026-11-22",
+      "status": "aperto",
+      "theme": "ambiente",
+      "title": "Cop31, la conferenza sul clima di Antalya"
+    },
+    {
+      "count": 2,
+      "created": "2026-11-22",
+      "first": "2026-11-13",
+      "id": "inchiesta-via-damelio",
+      "last": "2026-11-22",
+      "status": "aperto",
+      "theme": "sicurezza",
+      "title": "Via D'Amelio e l'agenda rossa di Borsellino"
     },
     {
       "count": 13,
@@ -78,16 +118,6 @@
       "title": "Centrosinistra, verso un programma comune"
     },
     {
-      "count": 4,
-      "created": "2026-11-15",
-      "first": "2026-11-15",
-      "id": "cop31-antalya",
-      "last": "2026-11-21",
-      "status": "aperto",
-      "theme": "ambiente",
-      "title": "Cop31, la conferenza sul clima di Antalya"
-    },
-    {
       "count": 8,
       "created": "2026-11-09",
       "first": "2026-11-03",
@@ -116,26 +146,6 @@
       "status": "aperto",
       "theme": "politica",
       "title": "La nomina all'Anac"
-    },
-    {
-      "count": 6,
-      "created": "2026-11-10",
-      "first": "2026-11-09",
-      "id": "caso-nvidia-huang",
-      "last": "2026-11-19",
-      "status": "aperto",
-      "theme": "tech",
-      "title": "Nvidia, il caso Huang"
-    },
-    {
-      "count": 8,
-      "created": "2026-11-09",
-      "first": "2026-11-03",
-      "id": "crisi-iran-usa",
-      "last": "2026-11-18",
-      "status": "aperto",
-      "theme": "esteri",
-      "title": "Crisi tra Iran e Stati Uniti"
     },
     {
       "count": 1,

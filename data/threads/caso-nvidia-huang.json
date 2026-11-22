@@ -55,6 +55,15 @@
       "summary": "Primi conti senza il fondatore: fatturato più che raddoppiato in un anno e previsioni sopra le attese. Il consiglio esclude il ritorno di Huang alla guida.",
       "title": "Nvidia, ricavi a 115,8 miliardi: il cda non richiamerà Huang",
       "url": "https://finance.yahoo.com/technology/live/nvidia-live-updates-interim-ceo-kress-prepares-for-q3-earnings-with-huang-reportedly-planning-comeback-153114076.html"
+    },
+    {
+      "added": "2026-11-22",
+      "date": "2026-11-22",
+      "section": "Tecnologia e AI",
+      "source": "Investing.com",
+      "summary": "Secondo Reuters gli ispettori della Sec esaminano possibili irregolarità contabili; il titolo perde fino al 14% e chiude la settimana peggiore dal 2008.",
+      "title": "Nvidia crolla ancora: la Sec indaga sui conti",
+      "url": "https://ca.investing.com/news/stock-market-news/nvidia-shares-fall-115-as-report-of-sec-accounting-probe-adds-to-pressure-4973044"
     }
   ],
   "related": [
@@ -64,7 +73,7 @@
     }
   ],
   "status": "aperto",
-  "summary": "Il consiglio di Nvidia ha aperto un'indagine dopo che il fondatore Jensen Huang ha ammesso una relazione con una manager ritenuta una spia cinese; indagano anche l'Fbi e il Congresso Usa. Huang si è dimesso il 12 novembre e il cda esclude un suo ritorno. I primi conti senza di lui, guidati da Colette Kress, superano le attese.",
+  "summary": "Il consiglio di Nvidia ha aperto un'indagine dopo che il fondatore Jensen Huang ha ammesso una relazione con una manager ritenuta una spia cinese; indagano anche l'Fbi e il Congresso Usa. Huang si è dimesso il 12 novembre. I conti successivi hanno superato le attese, ma secondo Reuters la Sec indaga sulla contabilità e il titolo ha vissuto la settimana peggiore dal 2008.",
   "theme": "tech",
   "title": "Nvidia, il caso Huang"
 }

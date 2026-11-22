@@ -1,0 +1,104 @@
+{
+  "date": "2026-11-22",
+  "sections": [
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "Avvicinamento sulla tassa per chi sposta la residenza fiscale all'estero; FdI propone sgravi al 50% per i neoassunti. Nuovo vertice dei leader la prossima settimana.",
+          "thread": {
+            "added": "2026-11-22",
+            "id": "manovra-2027"
+          },
+          "title": "Manovra, la maggioranza verso l'intesa sulla exit tax: resta il nodo pensioni",
+          "url": "https://ansa.it/sito/notizie/politica/2026/11/21/manovra-maggioranza-verso-lintesa-sulla-exit-tax-resta-il-nodo-pensioni_eaa34634-ed55-4417-82fe-031e30349e39.html"
+        }
+      ],
+      "key": "politica",
+      "title": "Politica interna"
+    },
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "Dopo il rilancio e le garanzie su Siena il consiglio giudica l'offerta adeguata, ma invita gli azionisti a valutare nove punti prima di aderire.",
+          "title": "Mps, il cda: l'offerta di Intesa è congrua ma non riflette il nostro valore",
+          "url": "https://www.ansa.it/sito/notizie/economia/2026/11/21/mps-lopas-di-intesa-congrua-dopo-il-rilancio-e-le-garanzie-su-siena_02968d27-bddb-4349-a9f5-be183321f9c3.html"
+        }
+      ],
+      "key": "economia",
+      "title": "Economia e lavoro"
+    },
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "Si è tolto la vita nella sua casa in Maremma, pochi giorni dopo le perquisizioni nell'inchiesta su via D'Amelio. Il centrodestra parla di «massacro giudiziario».",
+          "thread": {
+            "added": "2026-11-22",
+            "id": "inchiesta-via-damelio"
+          },
+          "title": "Morto l'ex capo della Polizia De Gennaro: indagine per istigazione al suicidio",
+          "url": "https://ansa.it/sito/notizie/cronaca/2026/11/21/lex-capo-della-polizia-de-gennaro-si-e-ucciso-sparandosi.-la-procura-indaga-per_5bcb2e78-76a6-4c7d-b2ba-61000e349ee9.html"
+        }
+      ],
+      "key": "sicurezza",
+      "title": "Sicurezza e giustizia"
+    },
+    {
+      "items": [
+        {
+          "source": "Adnkronos",
+          "summary": "Il presidente Usa dice che nessun futuro presidente potrà permettere a Teheran l'atomica; l'Iran rifiuta di trasferire all'estero l'uranio arricchito.",
+          "thread": {
+            "added": "2026-11-22",
+            "id": "crisi-iran-usa"
+          },
+          "title": "Iran, Trump promette un «accordo permanente» sul nucleare",
+          "url": "https://www.adnkronos.com/internazionale/esteri/guerra-iran-usa-news-oggi-21-novembre-2026_65bg0b9pjDQCm26cxlqhqE"
+        }
+      ],
+      "key": "esteri",
+      "title": "Politica estera"
+    },
+    {
+      "items": [
+        {
+          "source": "Investing.com",
+          "summary": "Secondo Reuters gli ispettori della Sec esaminano possibili irregolarità contabili; il titolo perde fino al 14% e chiude la settimana peggiore dal 2008.",
+          "thread": {
+            "added": "2026-11-22",
+            "id": "caso-nvidia-huang"
+          },
+          "title": "Nvidia crolla ancora: la Sec indaga sui conti",
+          "url": "https://ca.investing.com/news/stock-market-news/nvidia-shares-fall-115-as-report-of-sec-accounting-probe-adds-to-pressure-4973044"
+        }
+      ],
+      "key": "tech",
+      "title": "Tecnologia e AI"
+    },
+    {
+      "items": [
+        {
+          "source": "Internazionale",
+          "summary": "Dopo un giorno di tempi supplementari, la presidenza turca presenta un testo «su cui tutti possono concordare»; il voto è atteso oggi, ma restano obiezioni.",
+          "thread": {
+            "added": "2026-11-22",
+            "id": "cop31-antalya"
+          },
+          "title": "Cop31, il presidente Kurum: «Vicini all'accordo finale»",
+          "update": true,
+          "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/22/cop31-climate-talks-close-to-final-deal-says-summit-president"
+        }
+      ],
+      "key": "ambiente",
+      "title": "Ambiente e clima"
+    },
+    {
+      "items": [],
+      "key": "societa",
+      "title": "Società"
+    }
+  ],
+  "updatedAt": "2026-11-22T06:43:20+01:00"
+}
