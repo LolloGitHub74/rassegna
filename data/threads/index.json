@@ -38,14 +38,24 @@
   ],
   "threads": [
     {
-      "count": 26,
+      "count": 27,
       "created": "2026-11-09",
       "first": "2026-11-03",
       "id": "manovra-2027",
-      "last": "2026-11-22",
+      "last": "2026-11-23",
       "status": "aperto",
       "theme": "economia",
       "title": "Manovra 2027"
+    },
+    {
+      "count": 4,
+      "created": "2026-11-22",
+      "first": "2026-11-13",
+      "id": "inchiesta-via-damelio",
+      "last": "2026-11-23",
+      "status": "aperto",
+      "theme": "sicurezza",
+      "title": "Via D'Amelio e l'agenda rossa di Borsellino"
     },
     {
       "count": 9,
@@ -66,26 +76,6 @@
       "status": "aperto",
       "theme": "tech",
       "title": "Nvidia, il caso Huang"
-    },
-    {
-      "count": 5,
-      "created": "2026-11-15",
-      "first": "2026-11-15",
-      "id": "cop31-antalya",
-      "last": "2026-11-22",
-      "status": "aperto",
-      "theme": "ambiente",
-      "title": "Cop31, la conferenza sul clima di Antalya"
-    },
-    {
-      "count": 2,
-      "created": "2026-11-22",
-      "first": "2026-11-13",
-      "id": "inchiesta-via-damelio",
-      "last": "2026-11-22",
-      "status": "aperto",
-      "theme": "sicurezza",
-      "title": "Via D'Amelio e l'agenda rossa di Borsellino"
     },
     {
       "count": 13,
@@ -246,6 +236,16 @@
       "status": "aperto",
       "theme": "economia",
       "title": "Morti sul lavoro"
+    },
+    {
+      "count": 6,
+      "created": "2026-11-15",
+      "first": "2026-11-15",
+      "id": "cop31-antalya",
+      "last": "2026-11-23",
+      "status": "chiuso",
+      "theme": "ambiente",
+      "title": "Cop31, la conferenza sul clima di Antalya"
     }
   ]
 }

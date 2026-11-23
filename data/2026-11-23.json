@@ -1,0 +1,95 @@
+{
+  "date": "2026-11-23",
+  "sections": [
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "Dopo la morte dell'ex capo della Polizia maggioranza e opposizioni si dividono sul clima intorno all'inchiesta; il governo non valuta i funerali di Stato.",
+          "thread": {
+            "added": "2026-11-23",
+            "id": "inchiesta-via-damelio"
+          },
+          "title": "Caso De Gennaro, la politica si interroga: martedì vertice in Antimafia",
+          "update": true,
+          "url": "https://www.ansa.it/sito/notizie/politica/2026/11/22/dopo-lo-choc-la-politica-si-interroga-attesa-per-il-confronto-in-antimafia_636c2847-6b8c-4e35-9d95-598655d7da5b.html"
+        }
+      ],
+      "key": "politica",
+      "title": "Politica interna"
+    },
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "Se le vecchie domande di sanatoria edilizia non avranno risposta entro 180 giorni varrà il silenzio-assenso; la proposta diventerà un emendamento.",
+          "thread": {
+            "added": "2026-11-23",
+            "id": "manovra-2027"
+          },
+          "title": "Manovra, la Lega propone il condono: sei mesi ai Comuni o scatta il sì",
+          "url": "https://www.ansa.it/sito/notizie/politica/2026/11/22/proposta-della-lega-6-mesi-ai-comuni-per-evadere-le-vecchie-domande-o-scatta_81525291-a346-4208-98f7-5260a842ca06.html"
+        }
+      ],
+      "key": "economia",
+      "title": "Economia e lavoro"
+    },
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "La procura di Grosseto ricostruisce le ultime ore dell'ex capo della Polizia; a Caltanissetta l'inchiesta sul depistaggio prosegue, il procuratore sceglie il silenzio.",
+          "thread": {
+            "added": "2026-11-23",
+            "id": "inchiesta-via-damelio"
+          },
+          "title": "Morte di De Gennaro, i pm esaminano telefoni e appunti",
+          "update": true,
+          "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/22/i-telefoni-e-gli-appunti-i-pm-sulle-tracce-lasciate-da-de-gennaro_385903ab-9075-4aaf-9711-57a1ec55cf07.html"
+        }
+      ],
+      "key": "sicurezza",
+      "title": "Sicurezza e giustizia"
+    },
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "Dopo gli incendi di villaggi palestinesi vicino a Ramallah, anche il ministro degli Esteri condanna la violenza dei coloni in Cisgiordania.",
+          "title": "Israele, Eisenkot e Sa'ar contro i coloni violenti: «Terrorismo ebraico»",
+          "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/22/lira-di-eisenkot-e-saar-per-i-coloni-violenti-terrorismo-ebraico_eb3844ea-33e9-4eb6-b93c-7f70f616f8e2.html"
+        }
+      ],
+      "key": "esteri",
+      "title": "Politica estera"
+    },
+    {
+      "items": [],
+      "key": "tech",
+      "title": "Tecnologia e AI"
+    },
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "Il testo finale, senza riferimenti all'uscita dai fossili, è respinto da Ue, Regno Unito, piccole isole e Paesi più poveri: la Cop più lunga di sempre finisce senza intesa.",
+          "thread": {
+            "added": "2026-11-23",
+            "id": "cop31-antalya"
+          },
+          "title": "Cop31, fallisce l'accordo: niente intesa sui combustibili fossili",
+          "update": true,
+          "url": "https://www.ansa.it/ansa2030/notizie/energia_energie/2026/11/22/niente-accordo-sui-combustibili-fossili-fallisce-la-cop31_99eaed9c-073d-431f-8e97-9ceea7a67b6c.html"
+        }
+      ],
+      "key": "ambiente",
+      "title": "Ambiente e clima"
+    },
+    {
+      "items": [],
+      "key": "societa",
+      "title": "Società"
+    }
+  ],
+  "updatedAt": "2026-11-23T06:42:37+01:00"
+}
