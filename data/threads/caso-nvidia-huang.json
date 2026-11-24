@@ -64,6 +64,15 @@
       "summary": "Secondo Reuters gli ispettori della Sec esaminano possibili irregolarità contabili; il titolo perde fino al 14% e chiude la settimana peggiore dal 2008.",
       "title": "Nvidia crolla ancora: la Sec indaga sui conti",
       "url": "https://ca.investing.com/news/stock-market-news/nvidia-shares-fall-115-as-report-of-sec-accounting-probe-adds-to-pressure-4973044"
+    },
+    {
+      "added": "2026-11-24",
+      "date": "2026-11-24",
+      "section": "Tecnologia e AI",
+      "source": "CNBC",
+      "summary": "Dopo una revisione sulla sicurezza il consiglio riporta il fondatore al vertice; Nvidia recupera oltre il 30% in un giorno, mentre Anthropic chiude in calo.",
+      "title": "Nvidia, Huang torna alla guida: il titolo vola e trascina la tecnologia",
+      "url": "https://cnbc.com/2026/11/23/anthropic-nvidia-shares.html"
     }
   ],
   "related": [
@@ -73,7 +82,7 @@
     }
   ],
   "status": "aperto",
-  "summary": "Il consiglio di Nvidia ha aperto un'indagine dopo che il fondatore Jensen Huang ha ammesso una relazione con una manager ritenuta una spia cinese; indagano anche l'Fbi e il Congresso Usa. Huang si è dimesso il 12 novembre. I conti successivi hanno superato le attese, ma secondo Reuters la Sec indaga sulla contabilità e il titolo ha vissuto la settimana peggiore dal 2008.",
+  "summary": "A novembre il fondatore di Nvidia Jensen Huang ha ammesso una relazione con una manager ritenuta una spia cinese: indagini del cda, dell'Fbi e del Congresso Usa, poi le dimissioni il 12 novembre. Con la Sec che indaga anche sui conti, il titolo ha vissuto la settimana peggiore dal 2008. Il 23 novembre, dopo una revisione sulla sicurezza, il cda lo ha riportato alla guida.",
   "theme": "tech",
   "title": "Nvidia, il caso Huang"
 }

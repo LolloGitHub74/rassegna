@@ -1,0 +1,125 @@
+{
+  "date": "2026-11-24",
+  "sections": [
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "Il centrosinistra prova a stringere in una decina di giorni; restano lontane le posizioni su patrimoniale e politica estera, a partire da armi e Ucraina.",
+          "thread": {
+            "added": "2026-11-24",
+            "id": "centrosinistra-alleanza"
+          },
+          "title": "Campo largo, sprint per chiudere il programma a inizio dicembre",
+          "url": "https://www.ansa.it/sito/notizie/politica/2026/11/23/il-campo-largo-tenta-lo-sprint-per-chiudere-il-programma-a-inizio-dicembre_d50ec302-74b7-4476-b255-25bdc25890b4.html"
+        },
+        {
+          "source": "ANSA",
+          "summary": "L'ex premier risponde sulla gestione della pandemia; tensioni con il capogruppo Bignami e con il presidente della commissione Lisei, lavori a singhiozzo.",
+          "title": "Commissione Covid, sette ore di audizione e scontri tra Conte e FdI",
+          "url": "https://www.ansa.it/sito/notizie/politica/2026/11/23/scontro-conte-fdi-in-commissione-covid-stop-and-go-dei-lavori_ced74e1b-8234-4514-86b9-7f526f0eb932.html"
+        },
+        {
+          "source": "ANSA",
+          "summary": "Parlando ai giovani magistrati il capo dello Stato chiede di pagare meno tasse ma pagarle tutti, nel rispetto della progressività in base al reddito.",
+          "title": "Mattarella: «Per un fisco più leggero contribuiscano tutti»",
+          "url": "https://www.ansa.it/sito/notizie/politica/2026/11/23/mattarella-per-un-fisco-piu-leggero-contribuiscano-tutti-serve-progressivita_b77f620d-611d-4e8e-b64a-0b31f44c9803.html"
+        }
+      ],
+      "key": "politica",
+      "title": "Politica interna"
+    },
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "La banca d'affari prevede una crescita dello 0,8% nel 2026 e dello 0,5% l'anno prossimo, frenata dall'inflazione che erode il potere d'acquisto.",
+          "title": "Goldman Sachs: l'economia italiana perde spinta",
+          "url": "https://ansa.it/sito/notizie/topnews/2026/11/23/goldman-sachs-leconomia-italiana-perde-spinta-con-lerosione-del-potere_cc102b2a-5ea9-4f27-9bf6-7060b240a923.html"
+        },
+        {
+          "source": "ANSA",
+          "summary": "Il prezzo sale per le previsioni di temperature basse, che metterebbero sotto pressione stoccaggi già ridotti dallo stop di alcune esportazioni.",
+          "thread": {
+            "added": "2026-11-24",
+            "id": "caro-vita-bollette"
+          },
+          "title": "Gas oltre i 93 euro: l'ondata di freddo minaccia le scorte",
+          "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/23/il-prezzo-del-gas-oltre-93-euro-con-ondata-di-freddo-che-minaccia_d7287258-db2e-40ab-876f-4dd4dc56f593.html"
+        }
+      ],
+      "key": "economia",
+      "title": "Economia e lavoro"
+    },
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "L'ex capo della Polizia stava scrivendo la sua versione sulle accuse della procura di Caltanissetta; il procuratore De Luca prepara il Riesame in un ufficio blindato.",
+          "thread": {
+            "added": "2026-11-24",
+            "id": "inchiesta-via-damelio"
+          },
+          "title": "De Gennaro, sequestrati due hard disk: lavorava a un memoriale",
+          "update": true,
+          "url": "https://ansa.it/sito/notizie/cronaca/2026/11/23/hard-disk-di-de-gennaro-sequestrato-nei-giorni-scorsi-a-un-membro-della-sua_0f667388-d03f-456e-a1c3-6859254e204a.html"
+        }
+      ],
+      "key": "sicurezza",
+      "title": "Sicurezza e giustizia"
+    },
+    {
+      "items": [
+        {
+          "source": "ANSA",
+          "summary": "Kiev parla di un'azione «esemplare» con droni navali nel porto di Bengasi; Mosca studia la risposta e Tajani avverte: evitare la guerra nel Mediterraneo.",
+          "thread": {
+            "added": "2026-11-24",
+            "id": "negoziati-ucraina"
+          },
+          "title": "Libia, esplode una nave militare russa: Zelensky rivendica l'attacco",
+          "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/23/-zelensky-in-libia-azione-esemplare.-mosca-studia-la-risposta_819461b5-d139-49ae-9b7d-9d179e6481b3.html"
+        },
+        {
+          "source": "ANSA",
+          "summary": "Colpite banche, criptovalute e sport. Von der Leyen: nuove sanzioni finché la Russia non mostrerà una reale volontà di pace.",
+          "thread": {
+            "added": "2026-11-24",
+            "id": "negoziati-ucraina"
+          },
+          "title": "Ue, presentato il 22° pacchetto di sanzioni contro Mosca",
+          "url": "https://www.ansa.it/europa/notizie/rubriche/altrenews/2026/11/23/lue-presenta-il-22o-pacchetto-di-sanzioni-anti-mosca-dalle-banche-allo_f0657b93-5788-4445-bf4d-4f5ed51ef9a6.html"
+        }
+      ],
+      "key": "esteri",
+      "title": "Politica estera"
+    },
+    {
+      "items": [
+        {
+          "source": "CNBC",
+          "summary": "Dopo una revisione sulla sicurezza il consiglio riporta il fondatore al vertice; Nvidia recupera oltre il 30% in un giorno, mentre Anthropic chiude in calo.",
+          "thread": {
+            "added": "2026-11-24",
+            "id": "caso-nvidia-huang"
+          },
+          "title": "Nvidia, Huang torna alla guida: il titolo vola e trascina la tecnologia",
+          "url": "https://cnbc.com/2026/11/23/anthropic-nvidia-shares.html"
+        }
+      ],
+      "key": "tech",
+      "title": "Tecnologia e AI"
+    },
+    {
+      "items": [],
+      "key": "ambiente",
+      "title": "Ambiente e clima"
+    },
+    {
+      "items": [],
+      "key": "societa",
+      "title": "Società"
+    }
+  ],
+  "updatedAt": "2026-11-24T06:42:40+01:00"
+}
