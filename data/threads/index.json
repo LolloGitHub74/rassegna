@@ -38,24 +38,54 @@
   ],
   "threads": [
     {
-      "count": 15,
+      "count": 29,
+      "created": "2026-11-09",
+      "first": "2026-11-03",
+      "id": "manovra-2027",
+      "last": "2026-11-25",
+      "status": "aperto",
+      "theme": "economia",
+      "title": "Manovra 2027"
+    },
+    {
+      "count": 8,
+      "created": "2026-11-09",
+      "first": "2026-11-03",
+      "id": "attacchi-informatici-italia",
+      "last": "2026-11-25",
+      "status": "aperto",
+      "theme": "sicurezza",
+      "title": "Attacchi informatici all'Italia"
+    },
+    {
+      "count": 16,
       "created": "2026-11-09",
       "first": "2026-11-04",
       "id": "negoziati-ucraina",
-      "last": "2026-11-24",
+      "last": "2026-11-25",
       "status": "aperto",
       "theme": "esteri",
       "title": "Ucraina, i negoziati di pace"
     },
     {
-      "count": 6,
+      "count": 7,
       "created": "2026-11-09",
       "first": "2026-11-08",
       "id": "centrosinistra-alleanza",
-      "last": "2026-11-24",
+      "last": "2026-11-25",
       "status": "aperto",
       "theme": "politica",
       "title": "Centrosinistra, verso un programma comune"
+    },
+    {
+      "count": 6,
+      "created": "2026-11-22",
+      "first": "2026-11-13",
+      "id": "inchiesta-via-damelio",
+      "last": "2026-11-25",
+      "status": "aperto",
+      "theme": "sicurezza",
+      "title": "Via D'Amelio e l'agenda rossa di Borsellino"
     },
     {
       "count": 6,
@@ -76,26 +106,6 @@
       "status": "aperto",
       "theme": "tech",
       "title": "Nvidia, il caso Huang"
-    },
-    {
-      "count": 5,
-      "created": "2026-11-22",
-      "first": "2026-11-13",
-      "id": "inchiesta-via-damelio",
-      "last": "2026-11-24",
-      "status": "aperto",
-      "theme": "sicurezza",
-      "title": "Via D'Amelio e l'agenda rossa di Borsellino"
-    },
-    {
-      "count": 27,
-      "created": "2026-11-09",
-      "first": "2026-11-03",
-      "id": "manovra-2027",
-      "last": "2026-11-23",
-      "status": "aperto",
-      "theme": "economia",
-      "title": "Manovra 2027"
     },
     {
       "count": 9,
@@ -126,16 +136,6 @@
       "status": "aperto",
       "theme": "tech",
       "title": "La quotazione in Borsa di Anthropic"
-    },
-    {
-      "count": 7,
-      "created": "2026-11-09",
-      "first": "2026-11-03",
-      "id": "attacchi-informatici-italia",
-      "last": "2026-11-19",
-      "status": "aperto",
-      "theme": "sicurezza",
-      "title": "Attacchi informatici all'Italia"
     },
     {
       "count": 4,
