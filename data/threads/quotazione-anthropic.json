@@ -73,6 +73,15 @@
       "summary": "Aperte a 111,50 dollari, le azioni chiudono a 97,17 dopo una seduta volatile, mentre il Nasdaq perde oltre il 2%. È la quotazione più grande della storia.",
       "title": "Anthropic, primo giorno in Borsa chiuso in rialzo del 17%",
       "url": "https://www.cbsnews.com/news/anthropic-ipo-nasdaq-debut-claude-ai/"
+    },
+    {
+      "added": "2026-11-26",
+      "date": "2026-11-26",
+      "section": "Tecnologia e AI",
+      "source": "24/7 Wall St.",
+      "summary": "Dopo la chiusura di martedì a 81,91 dollari, sotto gli 83 del collocamento, mercoledì il titolo perde fino all'8% in apertura e poi torna sopra quota 83.",
+      "title": "Anthropic, le azioni scendono sotto il prezzo della quotazione e poi risalgono",
+      "url": "https://247wallst.com/investing/2026/11/25/anthropics-sharp-reversal-up-4-ant-stock-reclaims-83-ipo-price-after-early-8-drop-coreweave-slides-2-iren-holds-steady/"
     }
   ],
   "related": [
@@ -82,7 +91,7 @@
     }
   ],
   "status": "aperto",
-  "summary": "Anthropic è entrata in Borsa dopo un prospetto con ricavi trimestrali di circa 17 miliardi di dollari. Nonostante il crollo dei titoli AI di inizio novembre, le azioni sono state prezzate a 83 dollari, sopra le attese, con una raccolta record di 81 miliardi. Il 19 novembre, primo giorno al Nasdaq, hanno chiuso in rialzo del 17%.",
+  "summary": "Anthropic è entrata in Borsa dopo un prospetto con ricavi trimestrali di circa 17 miliardi di dollari. Nonostante il crollo dei titoli AI di inizio novembre, le azioni sono state prezzate a 83 dollari, sopra le attese, con una raccolta record di 81 miliardi. Il 19 novembre, primo giorno al Nasdaq, hanno chiuso in rialzo del 17%; pochi giorni dopo sono scese sotto il prezzo di collocamento.",
   "theme": "tech",
   "title": "La quotazione in Borsa di Anthropic"
 }
